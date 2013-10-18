@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" 
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/cal_bg_month_02">
+    
+    <RelativeLayout 
+        android:id="@+id/tab_title"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/cal_top_bg">
+        
+        <ImageView
+            android:id="@+id/title_img"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="10dp"
+            android:layout_centerVertical="true"
+            android:src="@drawable/cal_title_bar"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/title_img"
+            android:layout_marginLeft="5dp"
+            android:layout_centerVertical="true"
+            android:textColor="#FFFFFF"
+            android:textSize="20dip"
+            android:text="@string/boat_s_calendar"/>
+        <ImageButton
+            android:id="@+id/title_add"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="10dp"
+            android:layout_centerVertical="true"
+            android:src="@drawable/cal_top_btn_add"
+            android:background="@drawable/top_btn_indicator"/>
+        
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toLeftOf="@id/title_add"
+            android:layout_marginRight="5dip"
+            android:layout_centerVertical="true" 
+            android:src="@drawable/popup_divider"/>
+        
+        <Button
+            android:id="@+id/title_today"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toLeftOf="@id/title_add"
+            android:layout_marginRight="13dp"
+            android:layout_centerVertical="true"
+            android:textSize="20dip"
+            android:textColor="#FFFFFF"
+            android:text="@string/boat_s_today"
+            android:background="@drawable/top_btn_indicator"/>
+            
+       <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toLeftOf="@id/title_today"
+            android:layout_marginRight="7dip"
+            android:layout_centerVertical="true"
+            android:src="@drawable/popup_divider"/>
+        
+    </RelativeLayout>
+    <com.android.calendar.widget.MyTabHost
+        android:id="@+id/tabhost"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" 
+        android:layout_below="@id/tab_title">
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent" >
+
+            <com.android.calendar.widget.MyTabWidget
+                android:id="@+id/tabs"
+                android:layout_width="25dp"
+                android:layout_height="fill_parent"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentTop="true" />
+
+            <FrameLayout
+                android:id="@+id/tabcontent"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_toLeftOf="@id/tabs" >
+            </FrameLayout>
+        </RelativeLayout>
+    </com.android.calendar.widget.MyTabHost>
+    
+
+</RelativeLayout>

@@ -1,0 +1,172 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<resources
+xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="reminder_minutes_labels">
+        <item>1 நிமிடம்</item>
+        <item>5 நிமிடங்கள்</item>
+        <item>10 நிமிடங்கள்</item>
+        <item>15 நிமிடங்கள்</item>
+        <item>20 நிமிடங்கள்</item>
+        <item>25 நிமிடங்கள்</item>
+        <item>30 நிமிடங்கள்</item>
+        <item>45 நிமிடங்கள்</item>
+        <item>1 மணி</item>
+        <item>2 மணி நேரம்</item>
+        <item>3 மணி நேரம்</item>
+        <item>12 மணிகள்</item>
+        <item>24 மணிகள்</item>
+        <item>2 நாட்கள்</item>
+        <item>1 வாரம்</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>"மார்ஷல் தீவுகள்"</item>
+        <item>"மிட்வே லாண்ட்"</item>
+        <item>"ஹவாய்"</item>
+        <item>"அலாஸ்கா"</item>
+        <item>"பசிபிக் நேரம்"</item>
+        <item>"டிஜுவானா"</item>
+        <item>"அரிஜோனா"</item>
+        <item>"சிஹுவாஹுவா"</item>
+        <item>"மலை நேரம்"</item>
+        <item>"மத்திய அமெரிக்கா"</item>
+        <item>"மத்திய நேரம்"</item>
+        <item>"மெக்சிகோ சிட்டி"</item>
+        <item>"சஸ்கச்சேவான்"</item>
+        <item>"பொகொட்டா"</item>
+        <item>"கிழக்கத்திய நேரம்"</item>
+        <item>"வெனிசுவேலா"</item>
+        <item>"அட்லாண்ட்டிக் நேரம்"</item>
+        <item>"மனாஸ்"</item>
+        <item>"சாண்டியாகோ"</item>
+        <item>"நியூஃபொஉண்ட்லாண்ட்"</item>
+        <item>"பிரேசிலியா"</item>
+        <item>"பியூனஸ் அயர்ஸ்"</item>
+        <item>"க்ரீன்லாந்து"</item>
+        <item>"மாண்ட்டிவிடியோ"</item>
+        <item>"மிட்-அட்லாண்ட்டிக்"</item>
+        <item>"அஸோரெஸ்"</item>
+        <item>"கேப் வெர்டி தீவுகள்"</item>
+        <item>"கசாபிளான்கா"</item>
+        <item>"லண்டன்,டப்ளின்"</item>
+        <item>"ஆம்ஸ்டர்டாம்"</item>
+        <item>"பெல்கிரேடு"</item>
+        <item>"பிரஸ்ஸல்ஸ்"</item>
+        <item>"சராயெவோ"</item>
+        <item>"பாரிஸ்"</item>
+        <item>"விண்ட் ஹோக்"</item>
+        <item>"மே.ஆப்பிரிக்க நேரம்"</item>
+        <item>"அம்மான், ஜோர்டான்"</item>
+        <item>"ஏதென்ஸ், இஸ்டான்புல்"</item>
+        <item>"பெய்ரூட், லெபனான்"</item>
+        <item>"கெய்ரொ"</item>
+        <item>"ஹெல்சிங்கி"</item>
+        <item>"ஜெருசலேம்"</item>
+        <item>"மின்ஸ்க்"</item>
+        <item>"ஹராரே"</item>
+        <item>"பாக்தாத்"</item>
+        <item>"மாஸ்கோ"</item>
+        <item>"குவைத்"</item>
+        <item>"நைரோபி"</item>
+        <item>"டெஹரான்"</item>
+        <item>"பாக்கு"</item>
+        <item>"டிபிலிசி"</item>
+        <item>"யெரெவன்"</item>
+        <item>"துபாய்"</item>
+        <item>"காபூல்"</item>
+        <item>"இஸ்லாமாபாத், கராச்சி"</item>
+        <item>"உரால்ஸ்க்"</item>
+        <item>"யெகட்டெரின்பர்க்"</item>
+        <item>"கொல்கத்தா"</item>
+        <item>"ஸ்ரி லங்கா"</item>
+        <item>"காத்மண்டு"</item>
+        <item>"அஸ்தானா"</item>
+        <item>"யாங்கோன்"</item>
+        <item>"க்ராஸ்னொயார்ஸ்க்"</item>
+        <item>"பாங்க்காக்"</item>
+        <item>"பீஜிங்க்"</item>
+        <item>"ஹாங்க் காங்க்"</item>
+        <item>"இர்குட்ஸ்க்"</item>
+        <item>"கோலாலம்பூர்"</item>
+        <item>"பெர்த்"</item>
+        <item>"தாய்பேய்"</item>
+        <item>"சியோல்"</item>
+        <item>"டோக்கியோ,ஒஸாகா"</item>
+        <item>"யாகுட்ஸ்க்"</item>
+        <item>"அட்லெய்டு"</item>
+        <item>"டார்வின்"</item>
+        <item>"பிரிஸ்பேன்"</item>
+        <item>"ஹோபார்ட்"</item>
+        <item>"சிட்னி, கான்பெர்ரா"</item>
+        <item>"விளாடிவாஸ்டாக்"</item>
+        <item>"குவாம்"</item>
+        <item>"மகதன்"</item>
+        <item>"ஆக்லாந்து"</item>
+        <item>"ஃபிஜி"</item>
+        <item>"டோங்கா"</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>ஒன்றுமில்லை</item>
+        <item>1 நிமிடம்</item>
+        <item>5 நிமிடங்கள்</item>
+        <item>10 நிமிடங்கள்</item>
+        <item>15 நிமிடங்கள்</item>
+        <item>20 நிமிடங்கள்</item>
+        <item>25 நிமிடங்கள்</item>
+        <item>30 நிமிடங்கள்</item>
+        <item>45 நிமிடங்கள்</item>
+        <item>1 மணி</item>
+        <item>2 மணி நேரம்</item>
+        <item>3 மணி நேரம்</item>
+        <item>12 மணிகள்</item>
+        <item>24 மணிகள்</item>
+        <item>2 நாட்கள்</item>
+        <item>1 வாரம்</item>
+    </string-array>
+    <string-array name="preferences_alert_type_labels">
+        <item>விழிப்புடன் இரு</item>
+        <item>நிலைமை பார் தெரிவிப்பு</item>
+        <item>ஆஃப்</item>
+    </string-array>
+    <string-array name="availability">
+        <item>பிஸி</item>
+        <item>கிடைக்கிறது</item>
+    </string-array>
+    <string-array name="visibility">
+        <item>முன்னிருப்பு</item>
+        <item>அந்தரங்கமான</item>
+        <item>பொது</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>முதலாவது</item>
+        <item>நொடி</item>
+        <item>மூன்றாவது</item>
+        <item>நான்காவது</item>
+        <item>கடைசி</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>(பதில் எதுவும் இல்லை)</item>
+        <item>ஆம்</item>
+        <item>இருக்கலாம்</item>
+        <item>இல்லை</item>
+    </string-array>
+    <string-array name="response_labels2">
+        <item>ஆம்</item>
+        <item>இருக்கலாம்</item>
+        <item>இல்லை</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>இந்த நிகழ்வு மட்டும்</item>
+        <item>இந்த &amp; எதிர்கால நிகழ்வுகள்</item>
+        <item>அனைத்து நிகழ்வுகள்</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>இந்த &amp; எதிர்கால நிகழ்வுகள்</item>
+        <item>அனைத்து நிகழ்வுகள்</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <!-- The choice for responding to only one instance of a repeating event -->
+        <item>இந்த நிகழ்ச்சி மட்டுமே </item>
+        <!-- The choice for responding to all instances of a repeating event -->
+        <item>இந்த வரிசைத்தொடரில் அனைத்து நிகழ்வுகள்</item>
+    </string-array>
+</resources>

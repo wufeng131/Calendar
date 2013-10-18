@@ -1,0 +1,163 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<resources
+xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_label">ক্যালেন্ডার</string>
+    <string name="length_limit">ইনপুট সর্বোচ্চ মান পৌঁছে গেছে "</string>
+    <string name="what_label">কি</string>
+    <string name="where_label">যেখানে</string>
+    <string name="timezone_label">সময় - মান মণ্ডল</string>
+    <string name="attendees_label">অতিথি</string>
+    <string name="response_label">"<xliff:g id="response_type">%s</xliff:g> (<xliff:g id="guest_count">%d</xliff:g>)"</string>
+    <string name="repeats_label">পুনরাবৃত্তি</string>
+    <string name="no_title_label">(কোনও শিরোনাম নেই)</string>
+    <plurals name="Nminutes">
+        <!-- This is the label for a 1-minute reminder. -->
+        <item quantity="one">১ মিনিট </item>
+        <!-- This is the label for 2 or more minutes. The actual number of
+             minutes is a parameter. -->
+        <item quantity="other"><xliff:g id="count">%d</xliff:g> মিনিট</item>
+    </plurals>
+    <plurals name="Nmins">
+        <!-- This is the label for a 1-minute reminder. -->
+        <item quantity="one">১ মিনিট </item>
+        <!-- This is the label for 2 or more minutes. The actual number of
+             minutes is a parameter. -->
+        <item quantity="other"><xliff:g id="count">%d</xliff:g> মিনিট</item>
+    </plurals>
+    <plurals name="Nhours">
+        <!-- This is the label for a 1-hour reminder. -->
+        <item quantity="one">১ ঘন্টা</item>
+        <!-- This is the label for a reminder of 2 or more hours. The actual number of
+             hours is a parameter. -->
+        <item quantity="other"><xliff:g id="count">%d</xliff:g> ঘন্টা</item>
+    </plurals>
+    <plurals name="Ndays">
+        <!-- This is the label for a reminder of 1 day. -->
+        <item quantity="one">১ দিন</item>
+        <!-- This is the label for a reminder of 2 or more days. The actual number of
+             days is a parameter. -->
+        <item quantity="other"><xliff:g id="count">%d</xliff:g> দিন</item>
+    </plurals>
+    <string name="show_agenda_view">"বিষয়সূচি দেখানো হল"</string>
+    <string name="show_day_view">"দিন দেখান"</string>
+    <string name="agenda_view">"এজেন্ডা"</string>
+    <string name="day_view">"দিন"</string>
+    <string name="week_view">"সপ্তাহ"</string>
+    <string name="month_view">"মাস"</string>
+    <string name="event_view">"ঘটনা দেখুন"</string>
+    <string name="event_create">"নতুন ঘটনা"</string>
+    <string name="event_edit">"ঘটনা সম্পাদনা করুন"</string>
+    <string name="event_delete">"ঘটনা "মুছে ফেলুন"</string>
+    <string name="goto_today">" আজ "</string>
+    <string name="menu_select_calendars">"ক্যালেন্ডার"</string>
+    <string name="menu_preferences">"সেটিংগুলি"</string>
+    <string name="plus_N_more">"(প্লাস <xliff:g id="more_count">%d</xliff:g> আরো \u2026)"</string>
+    <string name="calendars_title">"ক্যালেন্ডার"</string>
+    <string name="synced_visible">সিঙ্ক , দৃশ্যমান</string>
+    <string name="synced_not_visible">সিঙ্ক দৃশ্যমান নয়</string>
+    <string name="not_synced_not_visible">সিঙ্ক  হচ্ছে না দৃশ্যমান নয়</string>
+    <string name="event_edit_title">"ঘটনার বিশদ বিবরণ"</string>
+    <string name="hint_what">"ঘটনা এর নাম"</string>
+    <string name="hint_where">"ঘটনা এর অবস্থান"</string>
+    <string name="hint_description">"অনুষ্ঠান এর বিবরণ"</string>
+    <string name="hint_attendees">"ইমেইল ঠিকানা"</string>
+    <string name="creating_event">"ঘটনা তৈরি করা"</string>
+    <string name="saving_event">"ঘটনা সংরক্ষণ করা হল"</string>
+    <string name="loading_calendars_title">"লোড ক্যালেন্ডার"</string>
+    <string name="loading_calendars_message">"লোড ক্যালেন্ডার\u2026"</string>
+    <string name="alert_title">ক্যালেন্ডার বিজ্ঞপ্তি</string>
+    <string name="alert_missed_events_single">(<xliff:g id="reminder_count">%s</xliff:g> আরো স্মরণচিহ্ন)</string>
+    <string name="alert_missed_events_multiple">(<xliff:g id="reminder_count">%s</xliff:g> আরো স্মরণচিহ্ন)</string>
+    <string name="event_info_title">ঘটনা দেখুন</string>
+    <string name="event_info_title_invite">সভায় আমন্ত্রণ</string>
+    <string name="add_new_reminder">অনুস্মারক যুক্ত করুন</string>
+    <string name="edit_event_to_label">হইতে</string>
+    <string name="edit_event_from_label">থেকে</string>
+    <string name="edit_event_all_day_label">সারাদিন</string>
+    <string name="edit_event_calendar_label">ক্যালেন্ডার</string>
+    <string name="edit_event_show_extra_options">অতিরিক্ত অপশন প্রদর্শন করুন</string>
+    <string name="edit_event_hide_extra_options">অতিরিক্ত অপশন লুকাও</string>
+    <string name="edit_event_show_all">সব দেখাও\u003E</string>
+    <string name="description_label">বর্ণনা</string>
+    <string name="presence_label">আমাকে হিসাবে দেখাও</string>
+    <string name="privacy_label">গোপনীয়তা</string>
+    <string name="reminders_label">অনুস্মারক</string>
+    <string name="no_syncable_calendars">কোন ক্যালেন্ডার</string>
+    <string name="no_calendars_found">আপনি কোন ক্যালেন্ডার আছে.</string>
+    <string name="content_description_edit_event_from_date">শুরুর তারিখ</string>
+    <string name="content_description_edit_event_from_time">শুরুর সময়</string>
+    <string name="content_description_edit_event_to_date">টু ডেট</string>
+    <string name="content_description_edit_event_to_time">সময়</string>
+    <string name="content_description_edit_event_reminders">অনুস্মারক</string>
+    <string name="content_description_edit_event_remove_reminder">অনুস্মারক সরান</string>
+    <string name="google_email_domain">gmail.com</string>
+    <string name="view_event_calendar_label">ক্যালেন্ডার:</string>
+    <string name="view_event_organizer_label">প্রতিষ্ঠাতা:</string>
+    <string name="view_event_timezone_label">স্থানীয় সময় অঞ্চল:</string>
+    <string name="view_event_response_label">উপস্থিত হচ্ছে?</string>
+    <string name="agenda_today">আজ, <xliff:g id="date">%1$s</xliff:g></string>
+    <string name="loading">লোডিং\u2026</string>
+    <string name="show_older_events"> ঘটনা দেখাচ্ছে <xliff:g id="oldest_search_range">%1$s</xliff:g>. আরো অনুসন্ধান করার জন্য টেব চাপুন. </string>
+    <string name="show_newer_events">ঘটনা দেখাচ্ছে <xliff:g id="newest_search_range">%1$s</xliff:g>. আরো অনুসন্ধান করার জন্য টেব চাপুন. </string>
+    <string name="num_events">"ইভেন্ট সংখ্যা"</string>
+    <string name="edit_event_label">"ঘটনা সম্পাদনা করুন"</string>
+    <string name="delete_label">"মুছে ফেলুন"</string>
+    <string name="delete_event_label">"ঘটনা "মুছে ফেলুন"</string>
+    <string name="save_label">কৃত</string>
+    <string name="discard_label">প্রত্যাবর্তন করা</string>
+    <string name="import_label">"আমদানি"</string>
+    <string name="snooze_all_label">"স্নুজ সমস্ত "</string>
+    <string name="dismiss_all_label">"সব খারিজ"</string>
+    <string name="does_not_repeat">এক সময় ঘটনা</string>
+    <string name="daily">দৈনিক</string>
+    <string name="every_weekday">"প্রতিটি কাজের দিন (সোম \u2013শুক্রবার)"</string>
+    <string name="weekly">"সপ্তাহিক (প্রতি  <xliff:g id="days_of_week">%s</xliff:g>)"</string>
+    <string name="monthly_on_day_count">"মাসিক(প্রতি <xliff:g id="ordinal_number">%1$s</xliff:g> <xliff:g id="day_of_week">%2$s</xliff:g>)"</string>
+    <string name="monthly">মাসিক</string>
+    <string name="yearly_plain">বার্ষিক</string>
+    <string name="monthly_on_day">"মাসিক (দিন এর উপর  <xliff:g id="day_of_month">%s</xliff:g>)"</string>
+    <string name="yearly">"বার্ষিক (উপর <xliff:g id="dates">%s</xliff:g>)"</string>
+    <string name="custom">"কাস্টম\u2026 (ফোনে কাস্টমাইজ করা যাচ্ছে না)"</string>
+    <string name="modify_event">শুধুমাত্র এই ইভেন্ট পরিবর্তন.</string>
+    <string name="modify_all">সব ইভেন্ট  এর সিরিজপরিবর্তন.</string>
+    <string name="modify_all_following">পরিবর্তন এবং সমস্ত ভবিষ্যৎ ঘটনা।</string>
+    <string name="delete_this_event_title">এই ঘটনা মুছে ফেলা হবে.</string>
+    <string name="delete_title">মুছে ফেলা</string>
+    <string name="change_response_title">প্রতিক্রিয়া পরিবর্তন</string>
+    <string name="preferences_title">"সেটিংগুলি"</string>
+    <string name="preferences_general_title">ক্যালেন্ডার সেটিং দেখুন </string>
+    <string name="preferences_alerts_title">স্মারক বস্তু সেটিংস</string>
+    <string name="preferences_hide_declined_title">প্রতিক্রিয়া ঘটনা প্রত্যাখ্যান</string>
+    <string name="preferences_alerts_type_title">সেট সঙ্কেত &amp; বিজ্ঞপ্তি</string>
+    <string name="preferences_alerts_type_dialog">সতর্কবার্তা &amp;   বিজ্ঞপ্তি</string>
+    <string name="preferences_alerts_type_default">1</string>
+    <string name="preferences_alerts_vibrateWhen_title">কাম্পান</string>
+    <string name="preferences_alerts_vibrateWhen_summary">এছাড়া রিমাইন্ডার এর জন্য  স্পন্দিত করা</string>
+    <string name="preferences_alerts_ringtone_title">রিংটোন নির্বাচন করুন</string>
+    <string name="preferences_default_reminder_title">ডিফল্ট অনুস্মারক সময়</string>
+    <string name="preferences_default_reminder_dialog">ডিফল্ট অনুস্মারক সময়</string>
+    <string name="preferences_default_reminder_default">10</string>
+    <string name="preferences_use_home_tz_title">হোম সময়ের অঞ্চল ব্যবহার</string>
+    <string name="preferences_use_home_tz_descrip">আপনার বাসগৃহ সময় জোন মধ্যে ক্যালেন্ডার এবং ইভেন্ট বার প্রদর্শন যখন ভ্রমণ</string>
+    <string name="preferences_home_tz_title">হোম সময় অঞ্চল</string>
+    <string name="preferences_home_tz_default">আমেরিকা / লস এঞ্জেলেস</string>
+    <string name="preferences_about_title">সম্পর্কে</string>
+    <string name="preferences_build_version">নাম্ব্বার সংস্করণ</string>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <!-- Always -->
+        <item>সর্বদা</item>
+        <!-- Only when the phone is in Silent mode -->
+        <item>শুধুমাত্র যখন নীরব</item>
+        <!-- Never -->
+        <item>কখনো না</item>
+    </string-array>
+    <string name="prefDialogTitle_vibrateWhen">কাম্পান</string>
+    <string name="send">পাঠান</string>
+    <string name="import_vcalendar">"ইম্পোর্ট V ক্যালেন্ডার"</string>
+    <string name="delete_all_events">সব ঘটনা মুছে দিন</string>
+    <string name="delete_all_event_title">সব ঘটনা মুছে ফেলা হবে.</string>
+    <string name="delete_error">আপনি কোন ঘটনা আছে.</string>
+    <string name="email_address_error">আপনার আমন্ত্রণটি বস্তুর ঠিকানা সঠিক নয়, gmail এর ডাকবাক্স ডায়েরী করুন.</string>
+    <string name="select_date">তারিখ নির্বাচন করুন</string>
+    <string name="out_range">তারিখ আপনি সেট পরিসীমা গেছে, ডান রেঞ্জ 1970 2037 থেকে.</string>
+</resources>

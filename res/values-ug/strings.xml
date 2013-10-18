@@ -1,0 +1,179 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<resources
+xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_label">كالېندار</string>
+    <string name="what_label">نىمە؟</string>
+    <string name="where_label">نەدە</string>
+    <string name="attendees_label">مىھمان</string>
+    <string name="repeats_label">تەكرارلاش</string>
+    <string name="no_title_label">(تېما يوق)</string>
+    <plurals name="Nminutes">
+        <!-- This is the label for a 1-minute reminder. -->
+        <item quantity="one">1مىنۇت</item>
+        <!-- This is the label for 2 or more minutes. The actual number of
+             minutes is a parameter. -->
+        <item quantity="other">مىنۇت <xliff:g id="count">%d</xliff:g> </item>
+    </plurals>
+    <plurals name="Nmins">
+        <!-- This is the label for a 1-minute reminder. -->
+        <item quantity="one">1مىنۇت</item>
+        <!-- This is the label for 2 or more minutes. The actual number of
+             minutes is a parameter. -->
+        <item quantity="other">مىنۇت <xliff:g id="count">%d</xliff:g> </item>
+    </plurals>
+    <plurals name="Nhours">
+        <!-- This is the label for a 1-hour reminder. -->
+        <item quantity="one">1سائەت</item>
+        <!-- This is the label for a reminder of 2 or more hours. The actual number of
+             hours is a parameter. -->
+        <item quantity="other">سائەت <xliff:g id="count">%d</xliff:g> </item>
+    </plurals>
+    <plurals name="Ndays">
+        <!-- This is the label for a reminder of 1 day. -->
+        <item quantity="one">1كۈن</item>
+        <!-- This is the label for a reminder of 2 or more days. The actual number of
+             days is a parameter. -->
+        <item quantity="other">كۈن <xliff:g id="count">%d</xliff:g> </item>
+    </plurals>
+    <string name="show_agenda_view">كۈن تەرتىپنى كۆرسىتىش</string>
+    <string name="show_day_view">كۈننى كۆرسىتىش</string>
+    <string name="agenda_view">قارالما كۈنتەرتىپى</string>
+    <string name="day_view">چىسلا</string>
+    <string name="week_view">ھەپتە</string>
+    <string name="month_view">ئاي </string>
+    <string name="event_view">تەكشۈرۈش ھادىسسى</string>
+    <string name="event_create">يېڭى ھادىسە</string>
+    <string name="event_edit">تەھرىرلەش </string>
+    <string name="event_delete">ئۆچۈرۈش</string>
+    <string name="goto_today">بۈگۈن</string>
+    <string name="menu_select_calendars">كالېندار</string>
+    <string name="menu_preferences">تەڭشەك</string>
+    <string name="calendars_title">كالېندار</string>
+    <string name="synced_visible">كۆرۈنىدىغان ماس قەدەمدە</string>
+    <string name="synced_not_visible">كۆرۈنمەيدىغان ماس قەدەمدە</string>
+    <string name="not_synced_not_visible">تور مەۋجۇت ئەمەس</string>
+    <string name="event_edit_title">ھادىسە تەپسىلاتى</string>
+    <string name="hint_what">ھادىسە ئىسمى</string>
+    <string name="hint_where">ھادىسە ئورنى</string>
+    <string name="hint_description">ھادىسە تەسۋىرلىمەك</string>
+    <string name="hint_attendees">ئېلېكترونلۇق پوچتا ساندۇقى ئادىرسى
+</string>
+    <string name="creating_event">ھادىسە قۇرۇلۇپ بولدى</string>
+    <string name="saving_event">ھادىسە ساقلىنىپ بولدى</string>
+    <string name="loading_calendars_title">كالېندار يۈكلەش</string>
+    <string name="loading_calendars_message">كالېندار يۈكلەش \u2026</string>
+    <string name="alert_title">كالىندار ئۇقتۇرۇشى</string>
+    <string name="event_info_title">پائالىيەتنى كۆرۈش</string>
+    <string name="event_info_title_invite">تىتىرەشكە چاقىرىش</string>
+    <string name="add_new_reminder">ئەسكەرتكۈچى قوشماق</string>
+    <string name="edit_event_to_label">...غا:</string>
+    <string name="edit_event_from_label">دىن</string>
+    <string name="edit_event_all_day_label">پۈتۈن كۈن</string>
+    <string name="edit_event_calendar_label">كالېندار</string>
+    <string name="edit_event_show_extra_options">قۇشۇمچە تاللاشنى كۆرسىتىش</string>
+    <string name="edit_event_hide_extra_options">ئارتۇق تاللاشنى يوشۇرۇش</string>
+    <string name="description_label">تەسۋىر</string>
+    <string name="presence_label">ماڭا دەڭ</string>
+    <string name="privacy_label">شەخسى</string>
+    <string name="reminders_label">ئەسكەرتىش</string>
+    <string name="no_syncable_calendars">كالىندار مەۋجۇت ئەمەس</string>
+    <string name="no_calendars_found">سىزنىڭ كالېندارىڭىز يوق.</string>
+    <string name="view_event_calendar_label">كالېندار:</string>
+    <string name="view_event_organizer_label">تەشكۈللۈگىچى:</string>
+    <string name="view_event_timezone_label">ئورۇننىڭ ۋاقىت رايۇنى:</string>
+    <string name="view_event_response_label">قاتنىشامسىز؟</string>
+    <string name="loading">يۈكلەۋاتىدۇ\u2026</string>
+    <string name="num_events">نۇمۇر ھادىسسى</string>
+    <string name="edit_event_label">تەھرىرلەش </string>
+    <string name="delete_label">ئۈچۈرۈش</string>
+    <string name="delete_event_label">ئۆچۈرۈش</string>
+    <string name="save_label">تامام</string>
+    <string name="discard_label">قايتۇرۇش</string>
+    <string name="import_label">كىرگۈزۈش</string>
+    <string name="snooze_all_label">ھەممىسى ئۇيقۇ ھالەتتە</string>
+    <string name="dismiss_all_label">ھەممىنى تارقاقلاشتۇرۋېتىش</string>
+    <string name="does_not_repeat">بىر قېتىملىق ئىش</string>
+    <string name="daily">كۈنلۈك</string>
+    <string name="every_weekday">ھەر ھەپتىنىڭ ئاخىرى(دۈشەنبە/ 2013uجۈمە)</string>
+    <string name="monthly">ئايلىق</string>
+    <string name="yearly_plain">يىللىق</string>
+    <string name="custom">ئۆزلۈكىدىن ئېنىقلىما بېرىش\u2026(ئۆزلۈكىدىن ئېنىقلىما بېرىشكە ئامالسىز)</string>
+    <string name="modify_event">مۇشۇ بىر ھادىسىنىلا ئۆزگەرتىش.</string>
+    <string name="modify_all">بارلىق پائالىيەتنى ئۆزگەرتىش.</string>
+    <string name="modify_all_following">ھازىر ۋە كەلگۈسى ھادىسىلەرنى ئۆزگەرتىش.</string>
+    <string name="delete_this_event_title">بۇ پائالىيەت ئۆچۈرۈلىدۇ.</string>
+    <string name="delete_title">ئۈچۈرۈش</string>
+    <string name="change_response_title">جاۋابىنى ئۆزگەرتىش</string>
+    <string name="preferences_title">تەڭشەك</string>
+    <string name="preferences_general_title">كالىندار تەكشۈرۈش لاھىيەسى</string>
+    <string name="preferences_alerts_title">تەسىس قىلىشنى ئەسكەرتىڭ</string>
+    <string name="preferences_hide_declined_title">چۈشۈش ئىشلىرىنى يوشۇرۇش</string>
+    <string name="preferences_alerts_type_title">ئاگاھلاندۇرۇش سىگنالى  &amp; ئۇقتۇرۇشنى تەڭشەش</string>
+    <string name="preferences_alerts_type_dialog">گۈدۈك &amp; ئۇقتۇرۇش</string>
+    <string name="preferences_alerts_vibrateWhen_title">تىترەش</string>
+    <string name="preferences_alerts_vibrateWhen_summary">ئەسكەرتكەندە تىتىرەش</string>
+    <string name="preferences_alerts_ringtone_title">قوڭغۇراق ئاۋازى تاللاش</string>
+    <string name="preferences_default_reminder_title">ۋاقىتنى ئەسكەرتىش</string>
+    <string name="preferences_default_reminder_dialog">ۋاقىتنى ئەسكەرتىش</string>
+    <string name="preferences_about_title">ھەققىدە</string>
+    <string name="preferences_build_version">نۇسخا قۇرۇش</string>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <!-- Always -->
+        <item>ھەمىشە</item>
+        <!-- Only when the phone is in Silent mode -->
+        <item>تېنىچ ھالەتتە</item>
+        <!-- Never -->
+        <item>ھەرگىز</item>
+    </string-array>
+    <string name="prefDialogTitle_vibrateWhen">تىترەش</string>
+    <string name="email_address_error">سىز تەكلىپ قىلغان ئوبىيكىتنىڭ ئادىرسى توغرا ئەمەس،gmailئادىرسىنى يېزىڭ.</string>
+    <string name="length_limit">كىرگۈزگىنىڭىز ئەڭ چوڭ چەككە يەتتى</string>
+    <string name="timezone_label">ۋاقىت رايونى</string>
+    <string name="response_label">"<xliff:g id="response_type">%s</xliff:g> (<xliff:g id="guest_count">%d</xliff:g>)"</string>
+    <string name="plus_N_more">"(قوشۇش <xliff:g id="more_count">%d</xliff:g> كۆپ \u2026)"</string>
+    <string name="alert_missed_events_single">(<xliff:g id="reminder_count">%s</xliff:g> تېخمۇ كۆپ ئەسكەرتمە)</string>
+    <string name="alert_missed_events_multiple">(<xliff:g id="reminder_count">%s</xliff:g> تىخىمۇ كۆپ ئەسكەرتىش)</string>
+    <string name="edit_event_show_all">ھەممىنى كۆرسىتىش\u003E</string>
+    <string name="content_description_edit_event_from_date">باشلانغان چىسلا</string>
+    <string name="content_description_edit_event_from_time">باشلانغان ۋاقىت</string>
+    <string name="content_description_edit_event_to_date">ھازىرغىچە</string>
+    <string name="content_description_edit_event_to_time">ۋاقىت</string>
+    <string name="content_description_edit_event_reminders">ئەسكەرتىش</string>
+    <string name="content_description_edit_event_remove_reminder">ئەسكەرتىشنى ئۆچۈرۈش</string>
+    <string name="google_email_domain">gmail.com</string>
+    <string name="agenda_today">بۈگۈن، <xliff:g id="date">%1$s</xliff:g></string>
+    <string name="show_older_events"> <xliff:g id="oldest_search_range">%1$s</xliff:g> دىن مەشغۇلاتنى كۆرسىتىش، تاق چىكىپ تىخىمۇ كۆپ ئىزدىيەلەيسىز.</string>
+    <string name="show_newer_events"><xliff:g id="newest_search_range">%1$s</xliff:g> غىچە مەشغۇلاتنى كۆرسىتىش، تاق چىكىپ تىخىمۇ كۆپ ئىزدىيەلەيسىز.</string>
+    <string name="weekly">ھەريىلى (ھەربىر <xliff:g id="days_of_week">%s</xliff:g>)</string>
+    <string name="monthly_on_day_count">"ھەر ئاي (ھەربىر <xliff:g id="ordinal_number">%1$s</xliff:g> <xliff:g id="day_of_week">%2$s</xliff:g>)"</string>
+    <string name="monthly_on_day">"ھەر ئاي (كۈنىدە <xliff:g id="day_of_month">%s</xliff:g>)"</string>
+    <string name="yearly">ھەريىلى( <xliff:g id="dates">%s</xliff:g> دا)</string>
+    <string name="preferences_use_home_tz_title">ئائىلە ۋاقىت رايونىنى ئىشلىتىش</string>
+    <string name="preferences_use_home_tz_descrip">ساياھەت ۋاقتىدا كالىندار ۋە پائالىيەت ۋاقتىنى ئۆز رايۇن ۋاقتى بويىچە چىقىرىپ بىرىش</string>
+    <string name="preferences_home_tz_title">تۇرغان ۋاقىت رايونىڭىز</string>
+    <string name="preferences_home_tz_default">ئامرىكا قىتئەسى\لوس ئانژىلىس</string>
+    <string name="send">يوللاش</string>
+    <string name="import_vcalendar">VCALENDAR (كالىندار) كىرگۈزۈش.</string>
+    <string name="feb">ئىككىنچى ئاي</string>
+    <string name="march">ئۈچۈنچى ئاي</string>
+    <string name="april">ئاپىرىل</string>
+    <string name="may">5.ئاي</string>
+    <string name="june">ئالتىنچى ئاي</string>
+    <string name="july">يەتتىنچى ئاي</string>
+    <string name="aug">ئاۋغۇست</string>
+    <string name="sep">سېنتەبىر</string>
+    <string name="nov">ئورنى</string>
+    <string name="save">ساقلاش</string>
+    <string name="delete_all_events">بارلىق پائالىيەتنى يۇيۇش</string>
+    <string name="delete_all_event_title">بارلىق پائالىيەتلەر يۇيۇلماقچى.</string>
+    <string name="delete_error">سىزنىڭ ھېچقانداق پائالىيەتىڭىز يوق.</string>
+    <string name="select_date">چىسلانى تاللاش</string>
+    <string name="local_calendar">sprd كالىدار</string>
+    <string name="search">ئىزدەش</string>
+    <string name="out_range">سىز بەلگىلىگەن چىسلا دائىردىن ھالقىپ كەتكەن،1970-يىلدىن2037-يىلغىچە بولغان ۋاقىتنى بەلگىلەڭ.</string>
+    <string name="search_empty">"ماس كېلىدىغان تۈر يوق"</string>
+    <plurals name="search_results_title">
+        <item quantity="one">"<xliff:g id="NUMBER">%1$s</xliff:g> دانە ماس كېلىدۇ "<xliff:g id="SEARCH">%2$s</xliff:g>" نى ئىزدەشنىڭ نەتىجىسى"</item>
+        <item quantity="other">"<xliff:g id="NUMBER">%1$s</xliff:g> دانە ماس كېلىدۇ "<xliff:g id="SEARCH">%2$s</xliff:g>" نى ئىزدەشنىڭ نەتىجىسى"</item>
+    </plurals>
+</resources>

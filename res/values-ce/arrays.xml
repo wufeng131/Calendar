@@ -1,0 +1,172 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<resources
+xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="reminder_minutes_labels">
+        <item>1 ka minuto</item>
+        <item>5 ka minuto</item>
+        <item>10 ka minuto</item>
+        <item>15 ka minuto</item>
+        <item>20 ka minuto</item>
+        <item>25 ka minuto</item>
+        <item>30 ka minuto</item>
+        <item>45 ka minuto</item>
+        <item>1 ka oras</item>
+        <item>2 ka oras</item>
+        <item>3 ka oras</item>
+        <item>12 ka oras</item>
+        <item>24 ka oras</item>
+        <item>2 ka adlaw</item>
+        <item>1 ka semana</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>Wala</item>
+        <item>1 ka minuto</item>
+        <item>5 ka minuto</item>
+        <item>10 ka minuto</item>
+        <item>15 ka minuto</item>
+        <item>20 ka minuto</item>
+        <item>25 ka minuto</item>
+        <item>30 ka minuto</item>
+        <item>45 ka minuto</item>
+        <item>1 ka oras</item>
+        <item>2 ka oras</item>
+        <item>3 ka oras</item>
+        <item>12 ka oras</item>
+        <item>24 ka oras</item>
+        <item>2 ka adlaw</item>
+        <item>1 ka semana</item>
+    </string-array>
+    <string-array name="preferences_alert_type_labels">
+        <item>Alerto</item>
+        <item>Notification sa estado nga bar</item>
+        <item>Pawng</item>
+    </string-array>
+    <string-array name="availability">
+        <item>Naa pay gibuhat</item>
+        <item>Magamit</item>
+    </string-array>
+    <string-array name="visibility">
+        <item>Default</item>
+        <item>Pribado</item>
+        <item>Publiko</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>una</item>
+        <item>mga sec</item>
+        <item>ikatulo</item>
+        <item>ika-upat</item>
+        <item>Uwahi</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>(Walay tubag)</item>
+        <item>Shagit</item>
+        <item>Basin</item>
+        <item>Dili</item>
+    </string-array>
+    <string-array name="response_labels2">
+        <item>Shagit</item>
+        <item>Basin</item>
+        <item>Dili</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Kini ra nga panghitabo</item>
+        <item>Kini &amp; sunod nga mahitabo</item>
+        <item>Tanan mga panghitabo</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>Kini &amp; sunod nga mahitabo</item>
+        <item>Tanan mga panghitabo</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <!-- The choice for responding to only one instance of a repeating event -->
+        <item>Kini ra nga instansiya</item>
+        <!-- The choice for responding to all instances of a repeating event -->
+        <item>Tanan mga panghitabo sa mga serye</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>"Mga Isla sa Marshall"</item>
+        <item>"Midway Island"</item>
+        <item>"Hawaii"</item>
+        <item>"Alaska"</item>
+        <item>"Pasipiko nga Oras"</item>
+        <item>"Tijuana"</item>
+        <item>"Arisona"</item>
+        <item>"Tsiwawa"</item>
+        <item>"Oras sa Bukid"</item>
+        <item>"Sentro sa Amerika"</item>
+        <item>"Sentro nga Oras"</item>
+        <item>"Syudad sa Mexico"</item>
+        <item>"Saskatchewan"</item>
+        <item>"Bogota"</item>
+        <item>"Silangan nga Oras"</item>
+        <item>"Beneswela"</item>
+        <item>"Oras sa Atlantiko"</item>
+        <item>"Manaus"</item>
+        <item>"Santiago"</item>
+        <item>"Newfoundland"</item>
+        <item>"Brasilia"</item>
+        <item>"Buenos Aires"</item>
+        <item>"Greenland"</item>
+        <item>"Montevideo"</item>
+        <item>"Mid-Atlantik"</item>
+        <item>"Asores"</item>
+        <item>"Mga Isla sa Cape Berde"</item>
+        <item>"Kasablanka"</item>
+        <item>"London, Dublin"</item>
+        <item>"Amsterdam, Berlin"</item>
+        <item>"Belgrade"</item>
+        <item>"Brussels"</item>
+        <item>"Sarajevo"</item>
+        <item>"Paris"</item>
+        <item>"Windhoek"</item>
+        <item>"K. Aprika nga Oras"</item>
+        <item>"Amman, Hordan"</item>
+        <item>"Athens, Istanbul"</item>
+        <item>"Beirut, Lebanon"</item>
+        <item>"Kairo"</item>
+        <item>"Helsinki"</item>
+        <item>"Herusalem"</item>
+        <item>"Minsk"</item>
+        <item>"Harare"</item>
+        <item>"Baghdad"</item>
+        <item>"Moscow"</item>
+        <item>"Kuwait"</item>
+        <item>"Nairobi"</item>
+        <item>"Tehran"</item>
+        <item>"Baku"</item>
+        <item>"Tbilisi"</item>
+        <item>"Yerevan"</item>
+        <item>"Dubai"</item>
+        <item>"Kabul"</item>
+        <item>"Islamabad, Karatsi"</item>
+        <item>"Ural'sk"</item>
+        <item>"Yekaterinburg"</item>
+        <item>"Kolkata"</item>
+        <item>"Sri Lanka"</item>
+        <item>"Kathmandu"</item>
+        <item>"Astana"</item>
+        <item>"Yangon"</item>
+        <item>"Krasnoyarsk"</item>
+        <item>"Bangkok"</item>
+        <item>"Beijing"</item>
+        <item>"Hong Kong"</item>
+        <item>"Irkutsk"</item>
+        <item>"Kuala Lumpur"</item>
+        <item>"Perth"</item>
+        <item>"Taipei"</item>
+        <item>"Seoul"</item>
+        <item>"Tokyo, Osaka"</item>
+        <item>"Yakutsk"</item>
+        <item>"Adelaide"</item>
+        <item>"Darwin"</item>
+        <item>"Brisbane"</item>
+        <item>"Hobart"</item>
+        <item>"Sydney, Canberra"</item>
+        <item>"Bladibostok"</item>
+        <item>"Guam"</item>
+        <item>"Magadan"</item>
+        <item>"Aukland"</item>
+        <item>"Fiji"</item>
+        <item>"Tonga"</item>
+    </string-array>
+</resources>

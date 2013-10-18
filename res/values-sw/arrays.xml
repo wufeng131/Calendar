@@ -1,0 +1,172 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<resources
+xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="reminder_minutes_labels">
+        <item>Dakika 1</item>
+        <item>Dakika 5</item>
+        <item>Dakika 10</item>
+        <item>Dakika 15</item>
+        <item>Dakika 20</item>
+        <item>Dakika 25</item>
+        <item>Dakika 30</item>
+        <item>Dakika 45</item>
+        <item>Masaa 1</item>
+        <item>Masaa 2</item>
+        <item>Masaa 3</item>
+        <item>Masaa 12</item>
+        <item>Masaa 24</item>
+        <item>Siku 2</item>
+        <item>1 Wiki</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>"Visiwa vya Marshall"</item>
+        <item>"Kisiwa cha Midway"</item>
+        <item>"Hawaii"</item>
+        <item>"Alaska"</item>
+        <item>"Muda wa Pacific"</item>
+        <item>"Tijuana"</item>
+        <item>"Arizona"</item>
+        <item>"Chihuahua"</item>
+        <item>"Muda wa Mlima"</item>
+        <item>"Amerika ya Kati"</item>
+        <item>"Muda wa kati"</item>
+        <item>"Mji wa Mexico"</item>
+        <item>"Saskatchewan"</item>
+        <item>"Bogota"</item>
+        <item>"Muda wa Mashariki"</item>
+        <item>"Venezuela"</item>
+        <item>"Atlantic Time"</item>
+        <item>"Manaus"</item>
+        <item>"Santiago"</item>
+        <item>"Eneo jipya lililopatikana"</item>
+        <item>"Brasilia"</item>
+        <item>"Buenos Aires"</item>
+        <item>"Greenland"</item>
+        <item>"Montevideo"</item>
+        <item>"Atlantic ya kati"</item>
+        <item>"Azores"</item>
+        <item>"Visiwa vya Cape Verde"</item>
+        <item>"Casablanca"</item>
+        <item>"London, Dublin"</item>
+        <item>"Amsterdam,Berlin"</item>
+        <item>"Belgrade"</item>
+        <item>"Brussels"</item>
+        <item>"Sarajevo"</item>
+        <item>\'"Paris"</item>
+        <item>"Windhoek"</item>
+        <item>"Muda wa Afrika Magharibi"</item>
+        <item>"Amman,Jordan"</item>
+        <item>"Athens,Istanbul"</item>
+        <item>"Beirut,Lebanon"</item>
+        <item>"Cairo"</item>
+        <item>"Helsinki"</item>
+        <item>"Jerusalem"</item>
+        <item>"Minsk"</item>
+        <item>"Harare"</item>
+        <item>"Baghdad"</item>
+        <item>"Moscow"</item>
+        <item>"Kuwait"</item>
+        <item>"Nairobi"</item>
+        <item>"Tehran"</item>
+        <item>"Baku"</item>
+        <item>"Tbilisi"</item>
+        <item>"Yerevan"</item>
+        <item>"Dubai"</item>
+        <item>"Kabul"</item>
+        <item>"Islamabad, Karachi"</item>
+        <item>"Ural\'sk"</item>
+        <item>"Yekaterinburg"</item>
+        <item>"Kolkata"</item>
+        <item>"Sri Lanka"</item>
+        <item>"Kathmandu"</item>
+        <item>"Astana"</item>
+        <item>"Yangon"</item>
+        <item>"Krasnoyarsk"</item>
+        <item>"Bangkok"</item>
+        <item>"Beijing"</item>
+        <item>"Hong Kong"</item>
+        <item>"Irkutsk"</item>
+        <item>"Kuala Lumpur"</item>
+        <item>"Perth"</item>
+        <item>"Taipei"</item>
+        <item>"Seoul"</item>
+        <item>"Tokyo, Osaka"</item>
+        <item>"Yakutsk"</item>
+        <item>"Adelaide"</item>
+        <item>"Darwin"</item>
+        <item>"Brisbane"</item>
+        <item>"Hobart"</item>
+        <item>"Sydney, Canberra"</item>
+        <item>"Vladivostok"</item>
+        <item>"Guam"</item>
+        <item>"Magadan"</item>
+        <item>"Auckland"</item>
+        <item>"Fiji"</item>
+        <item>"Tonga"</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>Hakuna</item>
+        <item>Dakika 1</item>
+        <item>Dakika 5</item>
+        <item>Dakika 10</item>
+        <item>Dakika 15</item>
+        <item>Dakika 20</item>
+        <item>Dakika 25</item>
+        <item>Dakika 30</item>
+        <item>Dakika 45</item>
+        <item>Masaa 1</item>
+        <item>Masaa 2</item>
+        <item>Masaa 3</item>
+        <item>Masaa 12</item>
+        <item>Masaa 24</item>
+        <item>Siku 2</item>
+        <item>1 Wiki</item>
+    </string-array>
+    <string-array name="preferences_alert_type_labels">
+        <item>Tahadhari</item>
+        <item>Taarifa za nguzo ya hali</item>
+        <item>Zima</item>
+    </string-array>
+    <string-array name="availability">
+        <item>Kazini</item>
+        <item>Patikana</item>
+    </string-array>
+    <string-array name="visibility">
+        <item>Chaguo msingi</item>
+        <item>Binafsi</item>
+        <item>Umma</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>mwanzo</item>
+        <item>sekunde</item>
+        <item>ya tatu</item>
+        <item>ya nne</item>
+        <item>mwisho</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>(Hapana kuitikia)</item>
+        <item>Ndio</item>
+        <item>Labda</item>
+        <item>La</item>
+    </string-array>
+    <string-array name="response_labels2">
+        <item>Ndio</item>
+        <item>Labda</item>
+        <item>La</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Tukio hili tu</item>
+        <item>Hii &amp; matukio ya baadae</item>
+        <item>Matukio yote</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>Hii &amp; matukio ya baadae</item>
+        <item>Matukio yote</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <!-- The choice for responding to only one instance of a repeating event -->
+        <item>Muda mfupi huu tu</item>
+        <!-- The choice for responding to all instances of a repeating event -->
+        <item>Matukio yote kwa kufuatana</item>
+    </string-array>
+</resources>

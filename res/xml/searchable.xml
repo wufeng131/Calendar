@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<searchable
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:value=".SearchActivity"
+  android:label="@string/app_label"
+  android:searchMode="showSearchLabelAsBadge"
+
+  android:searchSuggestAuthority=".CalendarRecentSuggestionsProvider"
+    android:searchSuggestSelection=" ? "
+    android:imeOptions="actionSearch"
+    >
+
+</searchable>

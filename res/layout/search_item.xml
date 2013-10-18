@@ -1,0 +1,41 @@
+<com.android.calendar.EventInfo
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@android:id/content"
+    android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+    android:gravity="center_vertical"
+    android:minHeight="?android:attr/listPreferredItemHeight">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/search_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dip"
+        android:ellipsize="end"
+        android:textStyle="bold"
+        style="?android:attr/textAppearanceMediumInverse" />
+
+    <TextView
+        android:id="@+id/search_time"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dip"
+        android:ellipsize="end"
+        android:textStyle="bold"
+        style="?android:attr/textAppearanceSmallInverse" />
+
+    <TextView
+        android:id="@+id/search_location"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dip"
+        android:ellipsize="end"
+        style="?android:attr/textAppearanceSmallInverse" />
+    </LinearLayout>
+
+</com.android.calendar.EventInfo>

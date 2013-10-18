@@ -1,0 +1,177 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<resources
+xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_label">Kalenda</string>
+    <string name="length_limit">Kinachoingizwa kimeshafikia thamani ya juu kabisa"</string>
+    <string name="what_label">Nini</string>
+    <string name="where_label">Wapi</string>
+    <string name="timezone_label">Muda wa zoni</string>
+    <string name="attendees_label">Wageni</string>
+    <string name="response_label">"<xliff:g id="response_type">%s</xliff:g> (<xliff:g id="guest_count">%d</xliff:g>)"</string>
+    <string name="repeats_label">Kurejea rejea</string>
+    <string name="no_title_label">(Hakuna mada)</string>
+    <plurals name="Nminutes">
+        <!-- This is the label for a 1-minute reminder. -->
+        <item quantity="one">Dakika 1</item>
+        <!-- This is the label for 2 or more minutes. The actual number of
+             minutes is a parameter. -->
+        <item quantity="other"><xliff:g id="count">%d</xliff:g> dakika</item>
+    </plurals>
+    <plurals name="Nmins">
+        <!-- This is the label for a 1-minute reminder. -->
+        <item quantity="one">Dakika 1</item>
+        <!-- This is the label for 2 or more minutes. The actual number of
+             minutes is a parameter. -->
+        <item quantity="other"><xliff:g id="count">%d</xliff:g> dakika</item>
+    </plurals>
+    <plurals name="Nhours">
+        <!-- This is the label for a 1-hour reminder. -->
+        <item quantity="one">Masaa 1</item>
+        <!-- This is the label for a reminder of 2 or more hours. The actual number of
+             hours is a parameter. -->
+        <item quantity="other"><xliff:g id="count">%d</xliff:g> masaa</item>
+    </plurals>
+    <plurals name="Ndays">
+        <!-- This is the label for a reminder of 1 day. -->
+        <item quantity="one">Siku moja</item>
+        <!-- This is the label for a reminder of 2 or more days. The actual number of
+             days is a parameter. -->
+        <item quantity="other"><xliff:g id="count">%d</xliff:g> siku</item>
+    </plurals>
+    <string name="show_agenda_view">"Onyesha agenda"</string>
+    <string name="show_day_view">"Onyesha siku"</string>
+    <string name="agenda_view">"Agenda"</string>
+    <string name="day_view">"Siku"</string>
+    <string name="week_view">Wiki</string>
+    <string name="month_view">"Mwezi"</string>
+    <string name="event_view">"Angalia tukio"</string>
+    <string name="event_create">"Tukio jipya"</string>
+    <string name="event_edit">"Hariri tukio"</string>
+    <string name="event_delete">"Futa tukio"</string>
+    <string name="goto_today">"Leo"</string>
+    <string name="menu_select_calendars">"Kalenda"</string>
+    <string name="menu_preferences">Vipimo</string>
+    <string name="plus_N_more">"(jumlisha <xliff:g id="more_count">%d</xliff:g> zaidi \u2026)"</string>
+    <string name="calendars_title">"Kalenda"</string>
+    <string name="synced_visible">kulikowezeshwa,kunaonekana</string>
+    <string name="synced_not_visible">kulikowezeshwa,hakuonekani</string>
+    <string name="not_synced_not_visible">Haijawezeshwa,haionekani</string>
+    <string name="event_edit_title">"Maelezo ya tukio"</string>
+    <string name="hint_what">"Jina la tukio"</string>
+    <string name="hint_where">"Eneo la tukio"</string>
+    <string name="hint_description">"Chambuzi ya tukio"</string>
+    <string name="hint_attendees">"Anuani za barua pepe"</string>
+    <string name="creating_event">"Tukio lililobuniwa"</string>
+    <string name="saving_event">"Tukio limehifadhiwa"</string>
+    <string name="loading_calendars_title">"Kupandisha kalenda"</string>
+    <string name="loading_calendars_message">"Kupandisha kalenda\u2026"</string>
+    <string name="alert_title">Taarifa za kalenda</string>
+    <string name="alert_missed_events_single">(<xliff:g id="reminder_count">%s</xliff:g> kikumbusho zaidi)</string>
+    <string name="alert_missed_events_multiple">(<xliff:g id="reminder_count">%s</xliff:g> vikumbusho zaidi)</string>
+    <string name="event_info_title">Angalia tukio</string>
+    <string name="event_info_title_invite">Mualiko wa mkutano</string>
+    <string name="add_new_reminder">Ongeza ukumbusho</string>
+    <string name="edit_event_to_label">Kwa</string>
+    <string name="edit_event_from_label">Kutoka kwa</string>
+    <string name="edit_event_all_day_label">Siku nzima</string>
+    <string name="edit_event_calendar_label">Kalenda</string>
+    <string name="edit_event_show_extra_options">Onyesha chaguzi za ziada</string>
+    <string name="edit_event_hide_extra_options">Ficha chaguzi za ziada</string>
+    <string name="edit_event_show_all">Onyesha zote \u003E</string>
+    <string name="description_label">Maelezo ya Java</string>
+    <string name="presence_label">Nionyeshe mimi kama</string>
+    <string name="privacy_label">Faragha</string>
+    <string name="reminders_label">Vikumbusho</string>
+    <string name="no_syncable_calendars">Hakuna kalenda</string>
+    <string name="no_calendars_found">Huna kalenda.</string>
+    <string name="content_description_edit_event_from_date">Kutoka tarehe</string>
+    <string name="content_description_edit_event_from_time">Kutoka muda</string>
+    <string name="content_description_edit_event_to_date">Kwa tarehe</string>
+    <string name="content_description_edit_event_to_time">Kwa wakati</string>
+    <string name="content_description_edit_event_reminders">Vikumbusho</string>
+    <string name="content_description_edit_event_remove_reminder">Kuondoa kikumbusho</string>
+    <string name="google_email_domain">gmail.com</string>
+    <string name="view_event_calendar_label">Kalenda:</string>
+    <string name="view_event_organizer_label">Mshirika:</string>
+    <string name="view_event_timezone_label">Time zoni za ndani:</string>
+    <string name="view_event_response_label">Hudhuria?</string>
+    <string name="agenda_today">Leo, <xliff:g id="date">%1$s</xliff:g></string>
+    <string name="loading">Pakia\u2026</string>
+    <string name="show_older_events">Kuonyesha matukio tokea <xliff:g id="oldest_search_range">%1$s</xliff:g>. Tap ili kutafuta zaidi.</string>
+    <string name="show_newer_events">Kuonyesha matukio mpaka <xliff:g id="newest_search_range">%1$s</xliff:g>. Tap ili kutafuta zaidi.</string>
+    <string name="num_events">"Namb ya matukio"</string>
+    <string name="edit_event_label">"Hariri tukio"</string>
+    <string name="delete_label">Futa</string>
+    <string name="delete_event_label">"Futa tukio"</string>
+    <string name="save_label">Maliza</string>
+    <string name="discard_label">Rejea</string>
+    <string name="import_label">Leta</string>
+    <string name="snooze_all_label">"Snoozi zote"</string>
+    <string name="dismiss_all_label">"Futa zote"</string>
+    <string name="does_not_repeat">Tukio la mara moja</string>
+    <string name="daily">Kila siku</string>
+    <string name="every_weekday">"Kila siku za wiki (J\'tu\u2013 Iju)"</string>
+    <string name="weekly">"Kwa wiki(kila<xliff:g id="days_of_week">%s</xliff:g>)"</string>
+    <string name="monthly_on_day_count">"Kwa mwezi (kila<xliff:g id="ordinal_number">%1$s</xliff:g> <xliff:g id="day_of_week">%2$s</xliff:g>)"</string>
+    <string name="monthly">Kumbusha kila mwezi</string>
+    <string name="yearly_plain">Kumbusha kila mwaka</string>
+    <string name="monthly_on_day">"Kwa mwezi  (katika siku<xliff:g id="day_of_month">%s</xliff:g>)"</string>
+    <string name="yearly">"Kwa mwaka(katika <xliff:g id="dates">%s</xliff:g>)"</string>
+    <string name="custom">"Ushuru\u2026(haiwezi kufanya ushuru katika simu)"</string>
+    <string name="modify_event">Badili tukio hili tu.</string>
+    <string name="modify_all">Badili matukio yote katika mfuatano.</string>
+    <string name="modify_all_following">Badili hii na matukio yote ya baadae.</string>
+    <string name="delete_this_event_title">Tukio hili litafutwa.</string>
+    <string name="delete_title">Futa</string>
+    <string name="change_response_title">Badili hisia</string>
+    <string name="preferences_title">Vipimo</string>
+    <string name="preferences_general_title">Vipimo vya kuangalia kalenda</string>
+    <string name="preferences_alerts_title">Vipimo vya vikumbusho</string>
+    <string name="preferences_hide_declined_title">Ficha matukio ya kupungua</string>
+    <string name="preferences_alerts_type_title">Seti tahadhari &amp; taarifa</string>
+    <string name="preferences_alerts_type_dialog">Tahadhari &amp; kuarifiwa</string>
+    <string name="preferences_alerts_type_default">1</string>
+    <string name="preferences_alerts_vibrateWhen_title">Vibrate</string>
+    <string name="preferences_alerts_vibrateWhen_summary">Pia tetema kwa ajili ya ukumbusho</string>
+    <string name="preferences_alerts_ringtone_title">Chagua toni</string>
+    <string name="preferences_default_reminder_title">Wakati wa ukumbusho wa Defaulti</string>
+    <string name="preferences_default_reminder_dialog">Wakati wa ukumbusho wa Defaulti</string>
+    <string name="preferences_default_reminder_default">10</string>
+    <string name="preferences_use_home_tz_title">Tumia muda wa zoni wa nyumbani</string>
+    <string name="preferences_use_home_tz_descrip">Onyesha kalenda na matukio ya muda katika muda wako wa nyumbani wa zoni wakati upo safarini</string>
+    <string name="preferences_home_tz_title">Muda wa zoni wa nyumbani</string>
+    <string name="preferences_home_tz_default">Amerika/Los_Angeles</string>
+    <string name="preferences_about_title">Kuhusu</string>
+    <string name="preferences_build_version">Toleo la kujenga</string>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <!-- Always -->
+        <item>Daima</item>
+        <!-- Only when the phone is in Silent mode -->
+        <item>Wakati inapokua kimya tu</item>
+        <!-- Never -->
+        <item>Kamwe</item>
+    </string-array>
+    <string name="prefDialogTitle_vibrateWhen">Vibrate</string>
+    <string name="send">Tuma</string>
+    <string name="import_vcalendar">"Ingiza Vkalenda"</string>
+    <string name="email_address_error">Mwaliko wako wa kitu anwani si sahihi, tafadhali jaza boksi la barua pepe la gmail.</string>
+    <string name="jan">Angalia picha</string>
+    <string name="feb">Januari</string>
+    <string name="march">Feb</string>
+    <string name="april">Ma</string>
+    <string name="may">Apr</string>
+    <string name="june">Juni</string>
+    <string name="july">Jun</string>
+    <string name="aug">Jul</string>
+    <string name="sep">Agosti</string>
+    <string name="oct">Sep</string>
+    <string name="nov">Oct</string>
+    <string name="dec">Nov</string>
+    <string name="save">Weka data au faili</string>
+    <string name="delete_all_events">Futa matukio yote</string>
+    <string name="delete_all_event_title">Matukio yote yatafutwa.</string>
+    <string name="delete_error">Huna matukio.</string>
+    <string name="select_date">Chagua tarehe</string>
+    <string name="local_calendar">"sprdkalenda"</string>
+    <string name="out_range">Tarehe uliyoseti iko nje ya mipaka,mipaka sahihi ni 1970 mpaka 2037.</string>
+</resources>

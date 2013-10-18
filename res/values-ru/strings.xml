@@ -1,0 +1,163 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<resources
+xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_label">"Календарь"</string>
+    <string name="length_limit">Ввод достиг максимальной длины"</string>
+    <string name="what_label">"Что"</string>
+    <string name="where_label">"Где"</string>
+    <string name="timezone_label">"Часовой пояс"</string>
+    <string name="attendees_label">"Гости"</string>
+    <string name="response_label">"<xliff:g id="RESPONSE_TYPE">%s</xliff:g> (<xliff:g id="GUEST_COUNT">%d</xliff:g>)"</string>
+    <string name="repeats_label">"Повторять"</string>
+    <string name="no_title_label">"(Нет заголовка)"</string>
+    <plurals name="Nminutes">
+        <!-- This is the label for a 1-minute reminder. -->
+        <item quantity="one">"1 минута"</item>
+        <!-- This is the label for 2 or more minutes. The actual number of
+             minutes is a parameter. -->
+        <item quantity="other">"<xliff:g id="COUNT">%d</xliff:g> мин."</item>
+    </plurals>
+    <plurals name="Nmins">
+        <!-- This is the label for a 1-minute reminder. -->
+        <item quantity="one">"1 мин."</item>
+        <!-- This is the label for 2 or more minutes. The actual number of
+             minutes is a parameter. -->
+        <item quantity="other">"<xliff:g id="COUNT">%d</xliff:g> мин."</item>
+    </plurals>
+    <plurals name="Nhours">
+        <!-- This is the label for a 1-hour reminder. -->
+        <item quantity="one">"за 1 час"</item>
+        <!-- This is the label for a reminder of 2 or more hours. The actual number of
+             hours is a parameter. -->
+        <item quantity="other">"<xliff:g id="COUNT">%d</xliff:g> ч."</item>
+    </plurals>
+    <plurals name="Ndays">
+        <!-- This is the label for a reminder of 1 day. -->
+        <item quantity="one">"1 день"</item>
+        <!-- This is the label for a reminder of 2 or more days. The actual number of
+             days is a parameter. -->
+        <item quantity="other">"<xliff:g id="COUNT">%d</xliff:g> дн."</item>
+    </plurals>
+    <string name="show_agenda_view">"Показать повестку дня"</string>
+    <string name="show_day_view">"Показать день"</string>
+    <string name="agenda_view">"Повестка дня"</string>
+    <string name="day_view">"День"</string>
+    <string name="week_view">"Неделя"</string>
+    <string name="month_view">"Месяц"</string>
+    <string name="event_view">"Просмотр мероприятия"</string>
+    <string name="event_create">"Новое мероприятие"</string>
+    <string name="event_edit">"Изменить мероприятие"</string>
+    <string name="event_delete">"Удалить мероприятие"</string>
+    <string name="goto_today">"Сегодня"</string>
+    <string name="menu_select_calendars">"Календари"</string>
+    <string name="menu_preferences">"Настройки"</string>
+    <string name="plus_N_more">"(и ещё <xliff:g id="MORE_COUNT">%d</xliff:g>…)"</string>
+    <string name="calendars_title">"Календари"</string>
+    <string name="synced_visible">"синхронизировано, видимое"</string>
+    <string name="synced_not_visible">"синхронизировано, невидимое"</string>
+    <string name="not_synced_not_visible">"не синхронизировано, невидимое"</string>
+    <string name="event_edit_title">"Детали мероприятия"</string>
+    <string name="hint_what">"Название мероприятия"</string>
+    <string name="hint_where">"Место мероприятия"</string>
+    <string name="hint_description">"Описание мероприятия"</string>
+    <string name="hint_attendees">"Адреса электронной почты"</string>
+    <string name="creating_event">"Мероприятие создано"</string>
+    <string name="saving_event">"Мероприятие сохранено"</string>
+    <string name="loading_calendars_title">"Загрузка календарей"</string>
+    <string name="loading_calendars_message">"Загрузка календарей..."</string>
+    <string name="alert_title">"Уведомления календаря"</string>
+    <string name="alert_missed_events_single">"(еще <xliff:g id="REMINDER_COUNT">%s</xliff:g> напоминание)"</string>
+    <string name="alert_missed_events_multiple">"(еще напоминаний: <xliff:g id="REMINDER_COUNT">%s</xliff:g>)"</string>
+    <string name="event_info_title">"Просмотр мероприятия"</string>
+    <string name="event_info_title_invite">"Приглашение на встречу"</string>
+    <string name="add_new_reminder">"Добавить напоминание"</string>
+    <string name="edit_event_to_label">"До"</string>
+    <string name="edit_event_from_label">"С"</string>
+    <string name="edit_event_all_day_label">"Целый день"</string>
+    <string name="edit_event_calendar_label">"Календарь"</string>
+    <string name="edit_event_show_extra_options">"Показать дополнительные параметры"</string>
+    <string name="edit_event_hide_extra_options">"Скрыть дополнительные параметры"</string>
+    <string name="edit_event_show_all">"Показать все &gt;"</string>
+    <string name="description_label">"Описание"</string>
+    <string name="presence_label">"Мой статус:"</string>
+    <string name="privacy_label">"Конфиденциальность"</string>
+    <string name="reminders_label">"Напоминания"</string>
+    <string name="no_syncable_calendars">"Нет календарей"</string>
+    <string name="no_calendars_found">"У вас нет календарей."</string>
+    <string name="content_description_edit_event_from_date">"Дата начала"</string>
+    <string name="content_description_edit_event_from_time">"Время начала"</string>
+    <string name="content_description_edit_event_to_date">"Дата конца"</string>
+    <string name="content_description_edit_event_to_time">"Время конца"</string>
+    <string name="content_description_edit_event_reminders">"Напоминания"</string>
+    <string name="content_description_edit_event_remove_reminder">"Удалить напоминание"</string>
+    <string name="google_email_domain">gmail.com</string>
+    <string name="view_event_calendar_label">"Календарь:"</string>
+    <string name="view_event_organizer_label">"Организатор:"</string>
+    <string name="view_event_timezone_label">"Часовой пояс:"</string>
+    <string name="view_event_response_label">"Принять приглашение?"</string>
+    <string name="agenda_today">"Сегодня, <xliff:g id="DATE">%1$s</xliff:g>"</string>
+    <string name="loading">"Загрузка…"</string>
+    <string name="show_older_events">"Мероприятия с <xliff:g id="OLDEST_SEARCH_RANGE">%1$s</xliff:g>. Нажмите для поиска других мероприятий."</string>
+    <string name="show_newer_events">"Мероприятия до <xliff:g id="NEWEST_SEARCH_RANGE">%1$s</xliff:g>. Нажмите для поиска других мероприятий."</string>
+    <string name="num_events">"Кол-во мероприятий"</string>
+    <string name="edit_event_label">"Изменить мероприятие"</string>
+    <string name="delete_label">"Удалить"</string>
+    <string name="delete_event_label">"Удалить мероприятие"</string>
+    <string name="save_label">"Готово"</string>
+    <string name="discard_label">"Отмена"</string>
+    <string name="import_label">"Импорт"</string>
+    <string name="snooze_all_label">"Показать позже"</string>
+    <string name="dismiss_all_label">"Удалить все"</string>
+    <string name="does_not_repeat">"Однократное мероприятие"</string>
+    <string name="daily">"Ежедневно"</string>
+    <string name="every_weekday">"Каждый будний день (пн–пт)"</string>
+    <string name="weekly">"Еженедельно (кажд. <xliff:g id="DAYS_OF_WEEK">%s</xliff:g>)"</string>
+    <string name="monthly_on_day_count">"Ежемесячно (кажд. <xliff:g id="ORDINAL_NUMBER">%1$s</xliff:g> <xliff:g id="DAY_OF_WEEK">%2$s</xliff:g>)"</string>
+    <string name="monthly">"Ежемесячно"</string>
+    <string name="yearly_plain">"Ежегодно"</string>
+    <string name="monthly_on_day">"Ежемесячно (<xliff:g id="DAY_OF_MONTH">%s</xliff:g> числа)"</string>
+    <string name="yearly">"Ежегодно (<xliff:g id="DATES">%s</xliff:g>)"</string>
+    <string name="custom">"Особое… (нельзя настроить с телефона)"</string>
+    <string name="modify_event">"Изменить только это мероприятие"</string>
+    <string name="modify_all">"Изменить все мероприятия в серии"</string>
+    <string name="modify_all_following">"Изменить это и будущие мероприятия"</string>
+    <string name="delete_this_event_title">"Мероприятие будет удалено."</string>
+    <string name="delete_title">"Удалить"</string>
+    <string name="change_response_title">"Изменить ответ"</string>
+    <string name="preferences_title">"Настройки"</string>
+    <string name="preferences_general_title">"Мероприятия"</string>
+    <string name="preferences_alerts_title">"Настройки напоминаний"</string>
+    <string name="preferences_hide_declined_title">"Скрыть отклоненные"</string>
+    <string name="preferences_alerts_type_title">"Настроить уведомления"</string>
+    <string name="preferences_alerts_type_dialog">"Оповещения и уведомления"</string>
+    <string name="preferences_alerts_type_default">"1"</string>
+    <string name="preferences_alerts_vibrateWhen_title">"Вибросигнал"</string>
+    <string name="preferences_alerts_vibrateWhen_summary">"Вибросигнал при напоминаниях"</string>
+    <string name="preferences_alerts_ringtone_title">"Звук уведомления"</string>
+    <string name="preferences_default_reminder_title">"Время напоминания"</string>
+    <string name="preferences_default_reminder_dialog">"Напомнить"</string>
+    <string name="preferences_default_reminder_default">"10"</string>
+    <string name="preferences_use_home_tz_title">"Фикс. часовой пояс"</string>
+    <string name="preferences_use_home_tz_descrip">"Всегда показывать в календаре время в заданном часовом поясе"</string>
+    <string name="preferences_home_tz_title">"Мой часовой пояс"</string>
+    <string name="preferences_home_tz_default">Америка/Лос-Анджелес</string>
+    <string name="preferences_about_title">"О программе"</string>
+    <string name="preferences_build_version">"Версия сборки"</string>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <!-- Always -->
+        <item>"Всегда"</item>
+        <!-- Only when the phone is in Silent mode -->
+        <item>"Только в режиме без звука"</item>
+        <!-- Never -->
+        <item>"Никогда"</item>
+    </string-array>
+    <string name="prefDialogTitle_vibrateWhen">"Вибросигнал"</string>
+    <string name="send">отправлено</string>
+    <string name="import_vcalendar">"Импортировать в Vcalendar"</string>
+    <string name="delete_all_events">Удалить все события</string>
+    <string name="delete_all_event_title">Все события были удалены.</string>
+    <string name="delete_error">У Вас нет событий.</string>
+    <string name="email_address_error">Ваш адрес объекта приглашения не является правильным, пожалуйста, заполните с почтового ящика gmail.</string>
+    <string name="select_date">Выбрать дату</string>
+    <string name="out_range">Дата установки находится вне диапазона, правильный диапазон с 1970 по 2037.</string>
+</resources>

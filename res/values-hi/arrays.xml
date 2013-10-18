@@ -1,0 +1,172 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<resources
+xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="reminder_minutes_labels">
+        <item>‎1 मिनट‎</item>
+        <item>‎5 मिनट‎</item>
+        <item>10 मिनट</item>
+        <item>"15 मिनट"</item>
+        <item>"20 मिनट"</item>
+        <item>"25 मिनट"</item>
+        <item>30 मिनट</item>
+        <item>45 मिनट</item>
+        <item>1 घंटे</item>
+        <item>2 घंटे</item>
+        <item>3 घंटे</item>
+        <item>12 घंटे</item>
+        <item>24 घंटे</item>
+        <item>24 दिन</item>
+        <item>1 सप्ताह</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>"मार्शल द्वीपसमूह"</item>
+        <item>"मिडवे द्वीप"</item>
+        <item>"हवाई"</item>
+        <item>"अलास्का"</item>
+        <item>"प्रशांत समय"</item>
+        <item>"टिजूआना"</item>
+        <item>"एरिज़ोना"</item>
+        <item>"चिहुआहुआ"</item>
+        <item>"पर्वतीय समय"</item>
+        <item>"मध्य अमेरिका"</item>
+        <item>"केन्द्रीय समय"</item>
+        <item>"मैक्सिको शहर" </item>
+        <item>"ससकैच्वा"</item>
+        <item>"बोगोटा"</item>
+        <item>"पूर्वी समय"</item>
+        <item>"वेनेज़ुएला"</item>
+        <item>"अटलांटिक समय"</item>
+        <item>"मनौस"</item>
+        <item>"सैंटियागो"</item>
+        <item>"न्यूफ़ाउंडलैंड"</item>
+        <item>"ब्रासीलिया"</item>
+        <item>"ब्यूनस आयर्स"</item>
+        <item>"ग्रीनलैंड"</item>
+        <item>"मोंटेवीडियो"</item>
+        <item>"मध्य अटलांटिक"</item>
+        <item>"अज़ोरेस"</item>
+        <item>"केप वर्डे द्वीपसमूह"</item>
+        <item>"कैसाब्लांका"</item>
+        <item>"लंदन, डबलिन"</item>
+        <item>"एम्स्टर्डम, बर्लिन"</item>
+        <item>"बेलग्रेड"</item>
+        <item>"ब्रुसेल्स"</item>
+        <item>"साराजेवो"</item>
+        <item>"पेरिस"</item>
+        <item>"विंडहोएक"</item>
+        <item>"पश्चिमी अफ्रीका समय"</item>
+        <item>"अम्मान, जॉर्डन"</item>
+        <item>"एथेंस, इस्तांबुल"</item>
+        <item>"बेरूत, लेबनान"</item>
+        <item>"काइरो"</item>
+        <item>"हेलसिंकी"</item>
+        <item>"येरुशलम"</item>
+        <item>"मिन्स्क"</item>
+        <item>"हरारे"</item>
+        <item>"बगदाद"</item>
+        <item>"मास्को"</item>
+        <item>"कुवैत"</item>
+        <item>"नैरोबी"</item>
+        <item>"तेहरान"</item>
+        <item>"बाकू"</item>
+        <item>"टबिलिसि"</item>
+        <item>"येरेवन"</item>
+        <item>"दुबई"</item>
+        <item>"काबुल"</item>
+        <item>"इस्लामाबाद, कराची"</item>
+        <item>"यूराल्स्क"</item>
+        <item>"येकातेरिनबर्ग"</item>
+        <item>"कोलकाता"</item>
+        <item>"श्रीलंका"</item>
+        <item>"काठमांडू"</item>
+        <item>"अस्ताना"</item>
+        <item>"यांगून"</item>
+        <item>"क्रास्नायार्स्क"</item>
+        <item>"बैंकॉक"</item>
+        <item>"बीजिंग"</item>
+        <item>"हांगकांग"</item>
+        <item>"इर्कुत्स्क"</item>
+        <item>"कुआलालम्पुर"</item>
+        <item>"पर्थ"</item>
+        <item>"ताइपेई"</item>
+        <item>"सिउल"</item>
+        <item>"टोक्यो, ओसाका"</item>
+        <item>"याकुत्स्क"</item>
+        <item>"एडीलेड"</item>
+        <item>"डार्विन"</item>
+        <item>"ब्रिस्बन"</item>
+        <item>"होबार्ट"</item>
+        <item>"सिडनी, कैनबरा"</item>
+        <item>"लादिवोस्तोक"</item>
+        <item>"गुआम"</item>
+        <item>"मैगडान"</item>
+        <item>"ऑकलैंड"</item>
+        <item>"फिजी"</item>
+        <item>"टोंगा"</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>"कोई नहीं"</item>
+        <item>‎1 मिनट‎</item>
+        <item>‎5 मिनट‎</item>
+        <item>10 मिनट</item>
+        <item>"15 मिनट"</item>
+        <item>"20 मिनट"</item>
+        <item>"25 मिनट"</item>
+        <item>30 मिनट</item>
+        <item>45 मिनट</item>
+        <item>1 घंटे</item>
+        <item>2 घंटे</item>
+        <item>3 घंटे</item>
+        <item>12 घंटे</item>
+        <item>24 घंटे</item>
+        <item>24 दिन</item>
+        <item>1 सप्ताह</item>
+    </string-array>
+    <string-array name="preferences_alert_type_labels">
+        <item>अलर्ट</item>
+        <item>स्थिति बार अधिसूचना</item>
+        <item>बंद </item>
+    </string-array>
+    <string-array name="availability">
+        <item>व्यस्त</item>
+        <item>उपलब्ध</item>
+    </string-array>
+    <string-array name="visibility">
+        <item>"डिफ़ॉल्ट"</item>
+        <item>निजी</item>
+        <item>सार्वजनिक</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>पहला</item>
+        <item>सेकंड</item>
+        <item>"तीसरा"</item>
+        <item>चौथा</item>
+        <item>अंतिम</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>(कोई प्रतिसाद नहीं)</item>
+        <item>हां</item>
+        <item>"शायद</item>
+        <item>नहीं</item>
+    </string-array>
+    <string-array name="response_labels2">
+        <item>हां</item>
+        <item>"शायद</item>
+        <item>नहीं</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>केवल यह ईवेंट</item>
+        <item>"यह और आगामी ईवेंट"</item>
+        <item>सभी ईवेंट</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>"यह और आगामी ईवेंट"</item>
+        <item>सभी ईवेंट</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <!-- The choice for responding to only one instance of a repeating event -->
+        <item>केवल यह ईवेंट</item>
+        <!-- The choice for responding to all instances of a repeating event -->
+        <item>श्रृंखला में सभी ईवेंट</item>
+    </string-array>
+</resources>

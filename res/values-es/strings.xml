@@ -1,0 +1,163 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<resources
+xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_label">"Calendario"</string>
+    <string name="length_limit">La entrada ha alcanzado el valor máx"</string>
+    <string name="what_label">"Asunto"</string>
+    <string name="where_label">"Dónde"</string>
+    <string name="timezone_label">"Zona horaria"</string>
+    <string name="attendees_label">"Invitados"</string>
+    <string name="response_label">"<xliff:g id="RESPONSE_TYPE">%s</xliff:g> (<xliff:g id="GUEST_COUNT">%d</xliff:g>)"</string>
+    <string name="repeats_label">"Repetición"</string>
+    <string name="no_title_label">"(Sin título)"</string>
+    <plurals name="Nminutes">
+        <!-- This is the label for a 1-minute reminder. -->
+        <item quantity="one">"1 minuto"</item>
+        <!-- This is the label for 2 or more minutes. The actual number of
+             minutes is a parameter. -->
+        <item quantity="other">"<xliff:g id="COUNT">%d</xliff:g> minutos"</item>
+    </plurals>
+    <plurals name="Nmins">
+        <!-- This is the label for a 1-minute reminder. -->
+        <item quantity="one">"1 minuto"</item>
+        <!-- This is the label for 2 or more minutes. The actual number of
+             minutes is a parameter. -->
+        <item quantity="other">"<xliff:g id="COUNT">%d</xliff:g> minutos"</item>
+    </plurals>
+    <plurals name="Nhours">
+        <!-- This is the label for a 1-hour reminder. -->
+        <item quantity="one">"1 hora"</item>
+        <!-- This is the label for a reminder of 2 or more hours. The actual number of
+             hours is a parameter. -->
+        <item quantity="other">"<xliff:g id="COUNT">%d</xliff:g> horas"</item>
+    </plurals>
+    <plurals name="Ndays">
+        <!-- This is the label for a reminder of 1 day. -->
+        <item quantity="one">"1 día"</item>
+        <!-- This is the label for a reminder of 2 or more days. The actual number of
+             days is a parameter. -->
+        <item quantity="other">"<xliff:g id="COUNT">%d</xliff:g> días"</item>
+    </plurals>
+    <string name="show_agenda_view">"Mostrar agenda"</string>
+    <string name="show_day_view">"Mostrar día"</string>
+    <string name="agenda_view">"Agenda"</string>
+    <string name="day_view">"Día"</string>
+    <string name="week_view">"Semana"</string>
+    <string name="month_view">"Mes"</string>
+    <string name="event_view">"Ver evento"</string>
+    <string name="event_create">"Evento nuevo"</string>
+    <string name="event_edit">"Editar evento"</string>
+    <string name="event_delete">"Suprimir evento"</string>
+    <string name="goto_today">"Hoy"</string>
+    <string name="menu_select_calendars">"Calendarios"</string>
+    <string name="menu_preferences">"Ajustes"</string>
+    <string name="plus_N_more">"(además de <xliff:g id="MORE_COUNT">%d</xliff:g> más...)"</string>
+    <string name="calendars_title">"Calendarios"</string>
+    <string name="synced_visible">"sincronizado y visible"</string>
+    <string name="synced_not_visible">"sincronizado, pero no visible"</string>
+    <string name="not_synced_not_visible">"no sincronizado o no visible"</string>
+    <string name="event_edit_title">"Información del evento"</string>
+    <string name="hint_what">"Nombre del evento"</string>
+    <string name="hint_where">"Ubicación del evento"</string>
+    <string name="hint_description">"Descripción del evento"</string>
+    <string name="hint_attendees">"Direcciones de correo electrónico"</string>
+    <string name="creating_event">"Se ha creado un evento."</string>
+    <string name="saving_event">"Se ha guardado el evento."</string>
+    <string name="loading_calendars_title">"Cargando calendarios"</string>
+    <string name="loading_calendars_message">"Cargando calendarios..."</string>
+    <string name="alert_title">"Notificaciones de Calendar"</string>
+    <string name="alert_missed_events_single">"(<xliff:g id="REMINDER_COUNT">%s</xliff:g> recordatorio más)"</string>
+    <string name="alert_missed_events_multiple">"(<xliff:g id="REMINDER_COUNT">%s</xliff:g> recordatorios más)"</string>
+    <string name="event_info_title">"Ver evento"</string>
+    <string name="event_info_title_invite">"Invitación a un evento"</string>
+    <string name="add_new_reminder">"Añadir recordatorio"</string>
+    <string name="edit_event_to_label">"Hasta"</string>
+    <string name="edit_event_from_label">"Desde"</string>
+    <string name="edit_event_all_day_label">"Todo el día"</string>
+    <string name="edit_event_calendar_label">"Calendario"</string>
+    <string name="edit_event_show_extra_options">"Mostrar opciones extra"</string>
+    <string name="edit_event_hide_extra_options">"Ocultar opciones extra"</string>
+    <string name="edit_event_show_all">"Mostrar todo &gt;"</string>
+    <string name="description_label">"Descripción"</string>
+    <string name="presence_label">"Mostrarme como"</string>
+    <string name="privacy_label">"Privacidad"</string>
+    <string name="reminders_label">"Recordatorios"</string>
+    <string name="no_syncable_calendars">"No hay calendarios."</string>
+    <string name="no_calendars_found">"No tienes ningún calendario."</string>
+    <string name="content_description_edit_event_from_date">"Desde la fecha"</string>
+    <string name="content_description_edit_event_from_time">"Desde la hora"</string>
+    <string name="content_description_edit_event_to_date">"Hasta la fecha"</string>
+    <string name="content_description_edit_event_to_time">"Hasta la hora"</string>
+    <string name="content_description_edit_event_reminders">"Recordatorios"</string>
+    <string name="content_description_edit_event_remove_reminder">"Eliminar recordatorio"</string>
+    <string name="google_email_domain">gmail.com</string>
+    <string name="view_event_calendar_label">"Calendario:"</string>
+    <string name="view_event_organizer_label">"Organizador:"</string>
+    <string name="view_event_timezone_label">"Zona horaria local:"</string>
+    <string name="view_event_response_label">"¿Asistirás?"</string>
+    <string name="agenda_today">"Hoy, <xliff:g id="DATE">%1$s</xliff:g>"</string>
+    <string name="loading">"Cargando..."</string>
+    <string name="show_older_events">"Mostrando eventos a partir del <xliff:g id="OLDEST_SEARCH_RANGE">%1$s</xliff:g>. Toca aquí para buscar más."</string>
+    <string name="show_newer_events">"Mostrando eventos hasta el <xliff:g id="NEWEST_SEARCH_RANGE">%1$s</xliff:g>. Toca aquí para buscar más."</string>
+    <string name="num_events">"Número de eventos"</string>
+    <string name="edit_event_label">"Editar evento"</string>
+    <string name="delete_label">"Eliminar"</string>
+    <string name="delete_event_label">"Suprimir evento"</string>
+    <string name="save_label">Hecho</string>
+    <string name="discard_label">"Revertir"</string>
+    <string name="import_label">"Importar"</string>
+    <string name="snooze_all_label">"Posponer recordatorios"</string>
+    <string name="dismiss_all_label">"Descartar todo"</string>
+    <string name="does_not_repeat">"Evento único"</string>
+    <string name="daily">"Cada día"</string>
+    <string name="every_weekday">"Cada día laborable (lunes-viernes)"</string>
+    <string name="weekly">"Cada semana (todos los <xliff:g id="DAYS_OF_WEEK">%s</xliff:g>)"</string>
+    <string name="monthly_on_day_count">"Cada mes (cada <xliff:g id="ORDINAL_NUMBER">%1$s</xliff:g> <xliff:g id="DAY_OF_WEEK">%2$s</xliff:g>)"</string>
+    <string name="monthly">"Mensualmente"</string>
+    <string name="yearly_plain">"Anualmente"</string>
+    <string name="monthly_on_day">"Cada mes (el día <xliff:g id="DAY_OF_MONTH">%s</xliff:g>)"</string>
+    <string name="yearly">"Cada año (el <xliff:g id="DATES">%s</xliff:g>)"</string>
+    <string name="custom">"Personalizado... (no se puede personalizar por teléfono)"</string>
+    <string name="modify_event">"Cambiar sólo este evento"</string>
+    <string name="modify_all">"Cambiar todos los eventos de la serie"</string>
+    <string name="modify_all_following">"Cambiar este y todos los eventos futuros"</string>
+    <string name="delete_this_event_title">"Este evento se suprimirá."</string>
+    <string name="delete_title">"Eliminar"</string>
+    <string name="change_response_title">"Cambiar respuesta"</string>
+    <string name="preferences_title">"Ajustes"</string>
+    <string name="preferences_general_title">"Configuración de la vista de calendario"</string>
+    <string name="preferences_alerts_title">"Configuración de los recordatorios"</string>
+    <string name="preferences_hide_declined_title">"Ocultar eventos rechaz."</string>
+    <string name="preferences_alerts_type_title">"Configurar alertas y notif."</string>
+    <string name="preferences_alerts_type_dialog">"Alertas y notificaciones"</string>
+    <string name="preferences_alerts_type_default">"1"</string>
+    <string name="preferences_alerts_vibrateWhen_title">"Vibrar"</string>
+    <string name="preferences_alerts_vibrateWhen_summary">"Vibrar también para recordatorios"</string>
+    <string name="preferences_alerts_ringtone_title">"Seleccionar tono"</string>
+    <string name="preferences_default_reminder_title">"Duración predeterminada del recordatorio"</string>
+    <string name="preferences_default_reminder_dialog">"Duración predeterminada del recordatorio"</string>
+    <string name="preferences_default_reminder_default">"10"</string>
+    <string name="preferences_use_home_tz_title">"Usar hora local"</string>
+    <string name="preferences_use_home_tz_descrip">"Al viajar, muestra calendarios y eventos en la hora local"</string>
+    <string name="preferences_home_tz_title">"Zona horaria local"</string>
+    <string name="preferences_home_tz_default">América/Los Ángeles</string>
+    <string name="preferences_about_title">"Acerca de"</string>
+    <string name="preferences_build_version">"Versión de la compilación"</string>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <!-- Always -->
+        <item>"Siempre"</item>
+        <!-- Only when the phone is in Silent mode -->
+        <item>"Solo en modo silencio"</item>
+        <!-- Never -->
+        <item>"Nunca"</item>
+    </string-array>
+    <string name="prefDialogTitle_vibrateWhen">"Vibración"</string>
+    <string name="send">enviar</string>
+    <string name="import_vcalendar">"Importar Vcalendar"</string>
+    <string name="delete_all_events">Borrar todos los eventos</string>
+    <string name="delete_all_event_title">Todos los eventos serán borrados.</string>
+    <string name="delete_error">No tiene ningún evento.</string>
+    <string name="email_address_error">Su dirección de objeto de invitación no es correcto, por favor rellene la cuenta de gmail.</string>
+    <string name="select_date">Seleccionar Fecha</string>
+    <string name="out_range">La fecha que ha configurado está fuera de intervalo, el intervalo correcto es de 1970 a 2037.</string>
+</resources>

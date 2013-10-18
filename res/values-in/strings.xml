@@ -1,0 +1,163 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<resources
+xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_label">"Kalender"</string>
+    <string name="length_limit">"Memasukan telah mencapai nilai maksimum"</string>
+    <string name="what_label">"Apa"</string>
+    <string name="where_label">"Di mana"</string>
+    <string name="timezone_label">"Zona waktu"</string>
+    <string name="attendees_label">"Tamu"</string>
+    <string name="response_label">"<xliff:g id="RESPONSE_TYPE">%s</xliff:g> (<xliff:g id="GUEST_COUNT">%d</xliff:g>)"</string>
+    <string name="repeats_label">"Perulangan"</string>
+    <string name="no_title_label">"(Tanpa judul)"</string>
+    <plurals name="Nminutes">
+        <!-- This is the label for a 1-minute reminder. -->
+        <item quantity="one">"1 menit"</item>
+        <!-- This is the label for 2 or more minutes. The actual number of
+             minutes is a parameter. -->
+        <item quantity="other">"<xliff:g id="COUNT">%d</xliff:g> menit"</item>
+    </plurals>
+    <plurals name="Nmins">
+        <!-- This is the label for a 1-minute reminder. -->
+        <item quantity="one">"1 menit"</item>
+        <!-- This is the label for 2 or more minutes. The actual number of
+             minutes is a parameter. -->
+        <item quantity="other">"<xliff:g id="COUNT">%d</xliff:g> menit"</item>
+    </plurals>
+    <plurals name="Nhours">
+        <!-- This is the label for a 1-hour reminder. -->
+        <item quantity="one">"1 jam"</item>
+        <!-- This is the label for a reminder of 2 or more hours. The actual number of
+             hours is a parameter. -->
+        <item quantity="other">"<xliff:g id="COUNT">%d</xliff:g> jam"</item>
+    </plurals>
+    <plurals name="Ndays">
+        <!-- This is the label for a reminder of 1 day. -->
+        <item quantity="one">"1 hari"</item>
+        <!-- This is the label for a reminder of 2 or more days. The actual number of
+             days is a parameter. -->
+        <item quantity="other">"<xliff:g id="COUNT">%d</xliff:g> hari"</item>
+    </plurals>
+    <string name="show_agenda_view">"Tampilkan agenda"</string>
+    <string name="show_day_view">"Tampilkan hari"</string>
+    <string name="agenda_view">"Agenda"</string>
+    <string name="day_view">"Hari"</string>
+    <string name="week_view">"Minggu"</string>
+    <string name="month_view">"Bulan"</string>
+    <string name="event_view">"Lihat acara"</string>
+    <string name="event_create">"Acara baru"</string>
+    <string name="event_edit">"Edit acara"</string>
+    <string name="event_delete">"Hapus acara"</string>
+    <string name="goto_today">"Hari ini"</string>
+    <string name="menu_select_calendars">"Kalender"</string>
+    <string name="menu_preferences">"Setelan"</string>
+    <string name="plus_N_more">"(plus <xliff:g id="MORE_COUNT">%d</xliff:g> lainnya …)"</string>
+    <string name="calendars_title">"Kalender"</string>
+    <string name="synced_visible">"disinkronkan, terlihat"</string>
+    <string name="synced_not_visible">"disinkronkan, tidak terlihat"</string>
+    <string name="not_synced_not_visible">"tidak disinkronkan, tidak terlihat"</string>
+    <string name="event_edit_title">"Detail acara"</string>
+    <string name="hint_what">"Nama acara"</string>
+    <string name="hint_where">"Tempat acara"</string>
+    <string name="hint_description">"Uraian acara"</string>
+    <string name="hint_attendees">"Alamat email"</string>
+    <string name="creating_event">"Acara telah dibuat"</string>
+    <string name="saving_event">"Acara yang disimpan"</string>
+    <string name="loading_calendars_title">"Memuat kalender"</string>
+    <string name="loading_calendars_message">"Memuat kalender..."</string>
+    <string name="alert_title">"Pemberitahuan kalender"</string>
+    <string name="alert_missed_events_single">"(<xliff:g id="REMINDER_COUNT">%s</xliff:g> pengingat lainnya)"</string>
+    <string name="alert_missed_events_multiple">"(<xliff:g id="REMINDER_COUNT">%s</xliff:g> pengingat lainnya)"</string>
+    <string name="event_info_title">"Lihat acara"</string>
+    <string name="event_info_title_invite">"Undangan rapat"</string>
+    <string name="add_new_reminder">"Tambahkan pengingat"</string>
+    <string name="edit_event_to_label">"Kepada"</string>
+    <string name="edit_event_from_label">"Dari"</string>
+    <string name="edit_event_all_day_label">"Seharian"</string>
+    <string name="edit_event_calendar_label">"Kalender"</string>
+    <string name="edit_event_show_extra_options">"Tampilkan opsi ekstra"</string>
+    <string name="edit_event_hide_extra_options">"Sembunyikan opsi ekstra"</string>
+    <string name="edit_event_show_all">"Tampilkan semua &gt;"</string>
+    <string name="description_label">"Uraian"</string>
+    <string name="presence_label">"Tampilkan saya sebagai"</string>
+    <string name="privacy_label">"Privasi"</string>
+    <string name="reminders_label">"Pengingat"</string>
+    <string name="no_syncable_calendars">"Tak ada kalender"</string>
+    <string name="no_calendars_found">"Anda tidak memiliki kalender."</string>
+    <string name="content_description_edit_event_from_date">"Dari tanggal"</string>
+    <string name="content_description_edit_event_from_time">"Dari waktu"</string>
+    <string name="content_description_edit_event_to_date">"Hingga tanggal"</string>
+    <string name="content_description_edit_event_to_time">"Hingga waktu"</string>
+    <string name="content_description_edit_event_reminders">"Pengingat"</string>
+    <string name="content_description_edit_event_remove_reminder">"Hapus pengingat"</string>
+    <string name="google_email_domain">gmail.com</string>
+    <string name="view_event_calendar_label">"Kalender:"</string>
+    <string name="view_event_organizer_label">"Penyelenggara:"</string>
+    <string name="view_event_timezone_label">"Zona waktu lokal:"</string>
+    <string name="view_event_response_label">"Datang?"</string>
+    <string name="agenda_today">"Hari ini, <xliff:g id="DATE">%1$s</xliff:g>"</string>
+    <string name="loading">"Memuat…"</string>
+    <string name="show_older_events">"Menampilkan acara sejak <xliff:g id="OLDEST_SEARCH_RANGE">%1$s</xliff:g>. Ketuk untuk melihat selengkapnya."</string>
+    <string name="show_newer_events">"Menampilkan acara sampai <xliff:g id="NEWEST_SEARCH_RANGE">%1$s</xliff:g>. Ketuk untuk melihat selengkapnya."</string>
+    <string name="num_events">"Jumlah acara"</string>
+    <string name="edit_event_label">"Edit acara"</string>
+    <string name="delete_label">"Hapus"</string>
+    <string name="delete_event_label">"Hapus acara"</string>
+    <string name="save_label">"Selesai"</string>
+    <string name="discard_label">"Kembalikan"</string>
+    <string name="import_label">"Impor"</string>
+    <string name="snooze_all_label">"Tunda semua"</string>
+    <string name="dismiss_all_label">"Singkirkan semua"</string>
+    <string name="does_not_repeat">"Acara sekali"</string>
+    <string name="daily">"Harian"</string>
+    <string name="every_weekday">"Setiap hari kerja (Sen–Jum)"</string>
+    <string name="weekly">"Mingguan (setiap <xliff:g id="DAYS_OF_WEEK">%s</xliff:g>)"</string>
+    <string name="monthly_on_day_count">"Bulanan (setiap <xliff:g id="ORDINAL_NUMBER">%1$s</xliff:g> <xliff:g id="DAY_OF_WEEK">%2$s</xliff:g>)"</string>
+    <string name="monthly">"Bulanan"</string>
+    <string name="yearly_plain">"Tahunan"</string>
+    <string name="monthly_on_day">"Bulanan (pada hari <xliff:g id="DAY_OF_MONTH">%s</xliff:g>)"</string>
+    <string name="yearly">"Tahunan (pada <xliff:g id="DATES">%s</xliff:g>)"</string>
+    <string name="custom">"Ubahsuaian… (tidak dapat mengubahsuai pada ponsel)"</string>
+    <string name="modify_event">"Ubah hanya acara ini."</string>
+    <string name="modify_all">"Ubah semua acara dalam rangkaian."</string>
+    <string name="modify_all_following">"Ubah ini dan semua acara mendatang."</string>
+    <string name="delete_this_event_title">"Acara ini akan dihapus."</string>
+    <string name="delete_title">"Hapus"</string>
+    <string name="change_response_title">"Ubah tanggapan"</string>
+    <string name="preferences_title">"Setelan"</string>
+    <string name="preferences_general_title">"Setelan tampilan kalender"</string>
+    <string name="preferences_alerts_title">"Setelan Pengingat"</string>
+    <string name="preferences_hide_declined_title">"Sembunyikan acara yang ditolak"</string>
+    <string name="preferences_alerts_type_title">"Setel pemberitahuan &amp; lansiran"</string>
+    <string name="preferences_alerts_type_dialog">"Pemberitahuan &amp; lansiran"</string>
+    <string name="preferences_alerts_type_default">"1"</string>
+    <string name="preferences_alerts_vibrateWhen_title">"Getar"</string>
+    <string name="preferences_alerts_vibrateWhen_summary">"Juga bergetar untuk pengingat"</string>
+    <string name="preferences_alerts_ringtone_title">"Pilih nada dering"</string>
+    <string name="preferences_default_reminder_title">"Waktu pengingat bawaan"</string>
+    <string name="preferences_default_reminder_dialog">"Waktu pengingat bawaan"</string>
+    <string name="preferences_default_reminder_default">"10"</string>
+    <string name="preferences_use_home_tz_title">"Gunakan zona waktu domestik"</string>
+    <string name="preferences_use_home_tz_descrip">"Tampilkan kalender dan waktu acara dalam zona waktu domestik ketika melakukan perjalanan"</string>
+    <string name="preferences_home_tz_title">"Zona waktu domestik"</string>
+    <string name="preferences_home_tz_default">Amerika/Los_Angeles</string>
+    <string name="preferences_about_title">"Tentang"</string>
+    <string name="preferences_build_version">"Versi bentukan"</string>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <!-- Always -->
+        <item>"Selalu"</item>
+        <!-- Only when the phone is in Silent mode -->
+        <item>"Hanya saat senyap"</item>
+        <!-- Never -->
+        <item>"Tidak pernah"</item>
+    </string-array>
+    <string name="prefDialogTitle_vibrateWhen">"Getar"</string>
+    <string name="send">kirim</string>
+    <string name="import_vcalendar">"Impor Vkalender"</string>
+    <string name="delete_all_events">Hapus semua acara</string>
+    <string name="delete_all_event_title">Semua acara akan dihapus.</string>
+    <string name="delete_error">Anda tidak memiliki acara.</string>
+    <string name="email_address_error">Alamat objek undangan ini tidak benar, silakan mengisi kotak pesan gmail.</string>
+    <string name="select_date">Pilih Tanggal</string>
+    <string name="out_range">Tanggal yang Anda tetapkan di luar jangkauan, kisaran yang tepat adalah 1970-2037.</string>
+</resources>

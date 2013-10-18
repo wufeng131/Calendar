@@ -1,0 +1,177 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<resources
+xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_label">"تقویم"</string>
+    <string name="what_label">"چه چیزی"</string>
+    <string name="where_label">"کجا"</string>
+    <string name="timezone_label">"منطقه زمانی"</string>
+    <string name="attendees_label">"مهمان ها"</string>
+    <string name="response_label">"<xliff:g id="RESPONSE_TYPE">%s</xliff:g> (<xliff:g id="GUEST_COUNT">%d</xliff:g>)"</string>
+    <string name="repeats_label">"تکرار"</string>
+    <string name="no_title_label">"(بدون عنوان)"</string>
+    <plurals name="Nminutes">
+        <!-- This is the label for a 1-minute reminder. -->
+        <item quantity="one">"1 دقیقه"</item>
+        <!-- This is the label for 2 or more minutes. The actual number of
+             minutes is a parameter. -->
+        <item quantity="other">"<xliff:g id="COUNT">%d</xliff:g> دقیقه"</item>
+    </plurals>
+    <plurals name="Nmins">
+        <!-- This is the label for a 1-minute reminder. -->
+        <item quantity="one">"1 دقیقه"</item>
+        <!-- This is the label for 2 or more minutes. The actual number of
+             minutes is a parameter. -->
+        <item quantity="other">"<xliff:g id="COUNT">%d</xliff:g> دقیقه"</item>
+    </plurals>
+    <plurals name="Nhours">
+        <!-- This is the label for a 1-hour reminder. -->
+        <item quantity="one">"1 ساعت"</item>
+        <!-- This is the label for a reminder of 2 or more hours. The actual number of
+             hours is a parameter. -->
+        <item quantity="other">"<xliff:g id="COUNT">%d</xliff:g> ساعت"</item>
+    </plurals>
+    <plurals name="Ndays">
+        <!-- This is the label for a reminder of 1 day. -->
+        <item quantity="one">"1 روز"</item>
+        <!-- This is the label for a reminder of 2 or more days. The actual number of
+             days is a parameter. -->
+        <item quantity="other">"<xliff:g id="COUNT">%d</xliff:g> روز"</item>
+    </plurals>
+    <string name="show_agenda_view">"نمایش صورت جلسه"</string>
+    <string name="show_day_view">"نمایش روز"</string>
+    <string name="agenda_view">"دستور جلسه"</string>
+    <string name="day_view">"روز"</string>
+    <string name="week_view">"هفته"</string>
+    <string name="month_view">"ماه"</string>
+    <string name="event_view">"مشاهده رویداد"</string>
+    <string name="event_create">"رویداد جدید"</string>
+    <string name="event_edit">"ویرایش رویداد"</string>
+    <string name="event_delete">"حذف رویداد"</string>
+    <string name="goto_today">"امروز"</string>
+    <string name="menu_select_calendars">"تقویم ها"</string>
+    <string name="menu_preferences">"تنظیمات"</string>
+    <string name="plus_N_more">"(علاوه بر <xliff:g id="MORE_COUNT">%d</xliff:g> مورد دیگر ...)"</string>
+    <string name="calendars_title">"تقویم ها"</string>
+    <string name="synced_visible">"همگام سازی شد، قابل مشاهده"</string>
+    <string name="synced_not_visible">"همگام سازی شد، غیر قابل مشاهده"</string>
+    <string name="not_synced_not_visible">"همگام سازی نشده، غیر قابل مشاهده"</string>
+    <string name="event_edit_title">"جزئیات رویداد"</string>
+    <string name="hint_what">"نام رویداد"</string>
+    <string name="hint_where">"موقعیت مکانی رویداد"</string>
+    <string name="hint_description">"توضیح یادآور"</string>
+    <string name="hint_attendees">"آدرس ایمیل"</string>
+    <string name="creating_event">"رویداد ایجاد شد"</string>
+    <string name="saving_event">"رویداد ذخیره شده"</string>
+    <string name="loading_calendars_title">"بارگیری تقویم ها"</string>
+    <string name="loading_calendars_message">"در حال بارگیری تقویم ها..."</string>
+    <string name="alert_title">"اعلان های تقویم"</string>
+    <string name="alert_missed_events_single">"(<xliff:g id="REMINDER_COUNT">%s</xliff:g> یادآور دیگر)"</string>
+    <string name="alert_missed_events_multiple">"(<xliff:g id="REMINDER_COUNT">%s</xliff:g> یادآور دیگر)"</string>
+    <string name="event_info_title">"مشاهده رویداد"</string>
+    <string name="event_info_title_invite">"دعوت نامه جلسه"</string>
+    <string name="add_new_reminder">"افزودن یادآور"</string>
+    <string name="edit_event_to_label">"تا"</string>
+    <string name="edit_event_from_label">"از"</string>
+    <string name="edit_event_all_day_label">"همه روز"</string>
+    <string name="edit_event_calendar_label">"تقویم"</string>
+    <string name="edit_event_show_extra_options">"نمایش گزینه های دیگر"</string>
+    <string name="edit_event_hide_extra_options">"پنهان کردن گزینه های اضافی"</string>
+    <string name="edit_event_show_all">"نمایش همه"</string>
+    <string name="description_label">"توضیح"</string>
+    <string name="presence_label">"نمایش من به عنوان"</string>
+    <string name="privacy_label">"رازداری"</string>
+    <string name="reminders_label">"یادآورها"</string>
+    <string name="no_syncable_calendars">"تقویمی موجود نیست"</string>
+    <string name="no_calendars_found">"هیچ تقویمی ندارید."</string>
+    <string name="content_description_edit_event_from_date">"از تاریخ"</string>
+    <string name="content_description_edit_event_from_time">"از زمان"</string>
+    <string name="content_description_edit_event_to_date">"تا تاریخ"</string>
+    <string name="content_description_edit_event_to_time">"تا زمان"</string>
+    <string name="content_description_edit_event_reminders">"یادآورها"</string>
+    <string name="content_description_edit_event_remove_reminder">"حذف یادآور"</string>
+    <string name="view_event_calendar_label">"تقویم:"</string>
+    <string name="view_event_organizer_label">"سازمان دهنده:"</string>
+    <string name="view_event_timezone_label">"منطقه زمانی محلی:"</string>
+    <string name="view_event_response_label">"حاضر می شوید؟"</string>
+    <string name="agenda_today">"امروز، <xliff:g id="DATE">%1$s</xliff:g>"</string>
+    <string name="loading">"در حال بارگیری…"</string>
+    <string name="show_older_events">"نمایش رویدادها از <xliff:g id="OLDEST_SEARCH_RANGE">%1$s</xliff:g>. برای جستجوی موارد بیشتر ضربه بزنید."</string>
+    <string name="show_newer_events">"نمایش رویدادها تا <xliff:g id="NEWEST_SEARCH_RANGE">%1$s</xliff:g>. برای جستجوی موارد بیشتر ضربه بزنید."</string>
+    <string name="num_events">"تعداد رویدادها"</string>
+    <string name="edit_event_label">"ویرایش رویداد"</string>
+    <string name="delete_label">"حذف"</string>
+    <string name="delete_event_label">"حذف رویداد"</string>
+    <string name="save_label">"انجام شد"</string>
+    <string name="discard_label">"برگشت"</string>
+    <string name="import_label">"وارد کردن"</string>
+    <string name="snooze_all_label">"تعویق همه"</string>
+    <string name="dismiss_all_label">"رد کردن همه"</string>
+    <string name="does_not_repeat">"رویداد یک بار"</string>
+    <string name="daily">"روزانه"</string>
+    <string name="every_weekday">"هر روز هفته (دوشنبه-جمعه)"</string>
+    <string name="weekly">"هفتگی (هر <xliff:g id="DAYS_OF_WEEK">%s</xliff:g>)"</string>
+    <string name="monthly_on_day_count">"ماهانه (هر <xliff:g id="ORDINAL_NUMBER">%1$s</xliff:g> <xliff:g id="DAY_OF_WEEK">%2$s</xliff:g>)"</string>
+    <string name="monthly">"ماهانه"</string>
+    <string name="yearly_plain">"سالانه"</string>
+    <string name="monthly_on_day">"ماهانه (در روز <xliff:g id="DAY_OF_MONTH">%s</xliff:g>)"</string>
+    <string name="yearly">"سالانه (در <xliff:g id="DATES">%s</xliff:g>)"</string>
+    <string name="custom">"سفارشی... (در گوشی سفارشی کردن امکان پذیر نمی باشد)"</string>
+    <string name="modify_event">"فقط این رویداد را تغییر دهید."</string>
+    <string name="modify_all">"همه رویدادهای موجود در این مجموعه را تغییر دهید."</string>
+    <string name="modify_all_following">"این رویدادها و همه رویدادهای آینده را تغییر دهید."</string>
+    <string name="delete_this_event_title">"این رویداد حذف می شود."</string>
+    <string name="delete_title">"حذف"</string>
+    <string name="change_response_title">"تغییر پاسخ"</string>
+    <string name="preferences_title">"تنظیمات"</string>
+    <string name="preferences_general_title">"تنظیم نمای تقویم"</string>
+    <string name="preferences_alerts_title">"تنظیمات یادآور"</string>
+    <string name="preferences_hide_declined_title">"پنهان کردن رویدادهای رد شده"</string>
+    <string name="preferences_alerts_type_title">"تنظیم هشدارها و اعلان ها"</string>
+    <string name="preferences_alerts_type_dialog">"هشدارها و اعلان ها"</string>
+    <string name="preferences_alerts_vibrateWhen_title">"لرزش"</string>
+    <string name="preferences_alerts_vibrateWhen_summary">"همچنین لرزش برای یادآورها"</string>
+    <string name="preferences_alerts_ringtone_title">"انتخاب آهنگ زنگ"</string>
+    <string name="preferences_default_reminder_title">"زمان یادآور پیش فرض"</string>
+    <string name="preferences_default_reminder_dialog">"زمان یادآور پیش فرض"</string>
+    <string name="preferences_default_reminder_default">"10"</string>
+    <string name="preferences_use_home_tz_title">"استفاده از منطقه زمانی مبدأ"</string>
+    <string name="preferences_use_home_tz_descrip">"تقویم ها و زمان رویداد را حتی هنگام مسافرت به منطقه زمانی مبدأ شما نمایش می دهد"</string>
+    <string name="preferences_home_tz_title">"منطقه زمانی مبدأ"</string>
+    <string name="preferences_about_title">"درباره"</string>
+    <string name="preferences_build_version">"نسخه ساخت"</string>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <!-- Always -->
+        <item>"همیشه"</item>
+        <!-- Only when the phone is in Silent mode -->
+        <item>"فقط هنگام ساکت بودن"</item>
+        <!-- Never -->
+        <item>"هرگز"</item>
+    </string-array>
+    <string name="prefDialogTitle_vibrateWhen">"لرزش"</string>
+    <string name="email_address_error">آدرس دعوت نامه شما صحیح نیست، لطفا صندوق پستی جیمیل را پر کنید.</string>
+    <string name="length_limit">ورودی به مقدار حداکثر رسیده است"</string>
+    <string name="google_email_domain">gmail.com</string>
+    <string name="preferences_home_tz_default">آمریکا/لس آنجلس</string>
+    <string name="send">"ارسال"</string>
+    <string name="import_vcalendar">"وارد کردن Vcalendar"</string>
+    <string name="jan">"ژانویه"</string>
+    <string name="feb">"فوریه"</string>
+    <string name="march">"مارس"</string>
+    <string name="april">آوریل</string>
+    <string name="may">"مه"</string>
+    <string name="june">ژوئن</string>
+    <string name="july">ژوئيه</string>
+    <string name="aug">اوت</string>
+    <string name="sep">"سپتامبر"</string>
+    <string name="oct">"اکتبر"</string>
+    <string name="nov">نوامبر</string>
+    <string name="dec">"دسامبر"</string>
+    <string name="save">"ذخیره"</string>
+    <string name="delete_all_events">حذف همه رویدادها</string>
+    <string name="delete_all_event_title">همه رویدادها حذف خواهند شد.</string>
+    <string name="delete_error">شما هیچ رویدادی ندارید.</string>
+    <string name="select_date">انتخاب تاریخ</string>
+    <string name="local_calendar">"sprdcalendar"</string>
+    <string name="search">"جستجو"</string>
+    <string name="out_range">تاریخی که تنظیم کردید خارج از محدوده است، محدوده صحیح ۱۹۷۰ تا ۲۰۳۷ است.</string>
+</resources>

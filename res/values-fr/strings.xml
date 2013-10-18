@@ -1,0 +1,182 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<resources
+xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_label">"Agenda"</string>
+    <string name="what_label">"Objet"</string>
+    <string name="where_label">"Lieu"</string>
+    <string name="timezone_label">"Fuseau horaire"</string>
+    <string name="attendees_label">"Invités"</string>
+    <string name="response_label">"<xliff:g id="RESPONSE_TYPE">%s</xliff:g> (<xliff:g id="GUEST_COUNT">%d</xliff:g>)"</string>
+    <string name="repeats_label">"Fréquence"</string>
+    <string name="no_title_label">"(Sans titre)"</string>
+    <plurals name="Nminutes">
+        <!-- This is the label for a 1-minute reminder. -->
+        <item quantity="one">"1 minute"</item>
+        <!-- This is the label for 2 or more minutes. The actual number of
+             minutes is a parameter. -->
+        <item quantity="other">"<xliff:g id="COUNT">%d</xliff:g> minutes"</item>
+    </plurals>
+    <plurals name="Nmins">
+        <!-- This is the label for a 1-minute reminder. -->
+        <item quantity="one">"1 mn"</item>
+        <!-- This is the label for 2 or more minutes. The actual number of
+             minutes is a parameter. -->
+        <item quantity="other">"<xliff:g id="COUNT">%d</xliff:g> mn"</item>
+    </plurals>
+    <plurals name="Nhours">
+        <!-- This is the label for a 1-hour reminder. -->
+        <item quantity="one">"1 heure"</item>
+        <!-- This is the label for a reminder of 2 or more hours. The actual number of
+             hours is a parameter. -->
+        <item quantity="other">"<xliff:g id="COUNT">%d</xliff:g> heures"</item>
+    </plurals>
+    <plurals name="Ndays">
+        <!-- This is the label for a reminder of 1 day. -->
+        <item quantity="one">"1 jour"</item>
+        <!-- This is the label for a reminder of 2 or more days. The actual number of
+             days is a parameter. -->
+        <item quantity="other">"<xliff:g id="COUNT">%d</xliff:g> jours"</item>
+    </plurals>
+    <string name="show_agenda_view">"Afficher l\'agenda"</string>
+    <string name="show_day_view">"Afficher le jour"</string>
+    <string name="agenda_view">"Mon planning"</string>
+    <string name="day_view">"Jour"</string>
+    <string name="week_view">"Semaine"</string>
+    <string name="month_view">"Mois"</string>
+    <string name="event_view">"Afficher l\'événement"</string>
+    <string name="event_create">"Nouvel événement"</string>
+    <string name="event_edit">"Modifier l\'événement"</string>
+    <string name="event_delete">"Supprimer l\'événement"</string>
+    <string name="goto_today">"Aujourd\'hui"</string>
+    <string name="menu_select_calendars">"Agendas"</string>
+    <string name="menu_preferences">"Paramètres"</string>
+    <string name="plus_N_more">"(et <xliff:g id="MORE_COUNT">%d</xliff:g> autres…)"</string>
+    <string name="calendars_title">"Agendas"</string>
+    <string name="synced_visible">"synchronisé, visible"</string>
+    <string name="synced_not_visible">"synchronisé, non visible"</string>
+    <string name="not_synced_not_visible">"non synchronisé, non visible"</string>
+    <string name="event_edit_title">"Détails sur l\'événement"</string>
+    <string name="hint_what">"Nom de l\'événement"</string>
+    <string name="hint_where">"Lieu de l\'événement"</string>
+    <string name="hint_description">"Description de l\'événement"</string>
+    <string name="hint_attendees">"Adresses e-mail"</string>
+    <string name="creating_event">"Événement créé"</string>
+    <string name="saving_event">"Événement enregistré"</string>
+    <string name="loading_calendars_title">"Chargement des agendas"</string>
+    <string name="loading_calendars_message">"Chargement des agendas..."</string>
+    <string name="alert_title">"Notifications de l\'agenda"</string>
+    <string name="alert_missed_events_single">"(<xliff:g id="REMINDER_COUNT">%s</xliff:g> rappel supplémentaire)"</string>
+    <string name="alert_missed_events_multiple">"(<xliff:g id="REMINDER_COUNT">%s</xliff:g> rappels supplémentaires)"</string>
+    <string name="event_info_title">"Afficher l\'événement"</string>
+    <string name="event_info_title_invite">"Invitation à une réunion"</string>
+    <string name="add_new_reminder">"Ajouter un rappel"</string>
+    <string name="edit_event_to_label">"Au"</string>
+    <string name="edit_event_from_label">"Du"</string>
+    <string name="edit_event_all_day_label">"Journée entière"</string>
+    <string name="edit_event_calendar_label">"Agenda"</string>
+    <string name="edit_event_show_extra_options">"Afficher les options supplémentaires"</string>
+    <string name="edit_event_hide_extra_options">"Masquer options supplémentaires"</string>
+    <string name="edit_event_show_all">"Tout afficher &gt;"</string>
+    <string name="description_label">"Description"</string>
+    <string name="presence_label">"Ma disponibilité"</string>
+    <string name="privacy_label">"Confidentialité"</string>
+    <string name="reminders_label">"Rappels"</string>
+    <string name="no_syncable_calendars">"Aucun agenda"</string>
+    <string name="no_calendars_found">"Vous n\'avez pas d\'agenda."</string>
+    <string name="content_description_edit_event_from_date">A partir de la date</string>
+    <string name="content_description_edit_event_from_time">A partir de l\'heure</string>
+    <string name="content_description_edit_event_to_date">"Au"</string>
+    <string name="content_description_edit_event_to_time">"À"</string>
+    <string name="content_description_edit_event_reminders">"Rappels"</string>
+    <string name="content_description_edit_event_remove_reminder">"Supprimer le rappel"</string>
+    <string name="view_event_calendar_label">"Agenda :"</string>
+    <string name="view_event_organizer_label">"Organisateur :"</string>
+    <string name="view_event_timezone_label">"Fuseau horaire local :"</string>
+    <string name="view_event_response_label">"Participer ?"</string>
+    <string name="agenda_today">"Aujourd\'hui, <xliff:g id="DATE">%1$s</xliff:g>"</string>
+    <string name="loading">"Chargement..."</string>
+    <string name="show_older_events">"Affichage des événements depuis le <xliff:g id="OLDEST_SEARCH_RANGE">%1$s</xliff:g>. Appuyez pour en consulter d\'autres."</string>
+    <string name="show_newer_events">"Affichage des événements jusqu\'au <xliff:g id="NEWEST_SEARCH_RANGE">%1$s</xliff:g>. Appuyez pour en consulter d\'autres."</string>
+    <string name="num_events">"Nbre d\'événements"</string>
+    <string name="edit_event_label">"Modifier l\'événement"</string>
+    <string name="delete_label">"Supprimer"</string>
+    <string name="delete_event_label">"Supprimer l\'événement"</string>
+    <string name="save_label">Terminé</string>
+    <string name="discard_label">"Annuler"</string>
+    <string name="import_label">"Importer"</string>
+    <string name="snooze_all_label">"Tout répéter"</string>
+    <string name="dismiss_all_label">"Tout supprimer"</string>
+    <string name="does_not_repeat">"Événement ponctuel"</string>
+    <string name="daily">"Quotidien"</string>
+    <string name="every_weekday">"Jours ouvrés (lun–ven)"</string>
+    <string name="weekly">"Hebdomadaire (chaque <xliff:g id="DAYS_OF_WEEK">%s</xliff:g>)"</string>
+    <string name="monthly_on_day_count">"Mensuel (chaque <xliff:g id="ORDINAL_NUMBER">%1$s</xliff:g> <xliff:g id="DAY_OF_WEEK">%2$s</xliff:g>)"</string>
+    <string name="monthly">"Tous les mois"</string>
+    <string name="yearly_plain">"Tous les ans"</string>
+    <string name="monthly_on_day">"Mensuel (le <xliff:g id="DAY_OF_MONTH">%s</xliff:g>)"</string>
+    <string name="yearly">"Annuel (le <xliff:g id="DATES">%s</xliff:g>)"</string>
+    <string name="custom">"Personnalisé... (non paramétrable sur téléphone)"</string>
+    <string name="modify_event">"Modifier uniquement cet événement."</string>
+    <string name="modify_all">"Modifier tous les événements de la série."</string>
+    <string name="modify_all_following">"Modifier cet événement et tous les suivants."</string>
+    <string name="delete_this_event_title">"Cet événement va être supprimé."</string>
+    <string name="delete_title">"Supprimer"</string>
+    <string name="change_response_title">"Modifier la réponse"</string>
+    <string name="preferences_title">"Paramètres"</string>
+    <string name="preferences_general_title">"Paramètres d\'affichage de l\'agenda"</string>
+    <string name="preferences_alerts_title">"Paramètres de rappel"</string>
+    <string name="preferences_hide_declined_title">"Masquer évén. refusés"</string>
+    <string name="preferences_alerts_type_title">"Alertes et notifications"</string>
+    <string name="preferences_alerts_type_dialog">"Alertes et notifications"</string>
+    <string name="preferences_alerts_type_default">"1"</string>
+    <string name="preferences_alerts_vibrateWhen_title">"Vibreur"</string>
+    <string name="preferences_alerts_vibrateWhen_summary">"Vibrer également pour les rappels"</string>
+    <string name="preferences_alerts_ringtone_title">"Sélectionner la sonnerie"</string>
+    <string name="preferences_default_reminder_title">"Rappel par défaut"</string>
+    <string name="preferences_default_reminder_dialog">"Rappel par défaut"</string>
+    <string name="preferences_default_reminder_default">"10"</string>
+    <string name="preferences_use_home_tz_title">"Mon fuseau horaire"</string>
+    <string name="preferences_use_home_tz_descrip">"Affiche agendas et événements dans votre fuseau horaire, même en voyage"</string>
+    <string name="preferences_home_tz_title">"Mon fuseau horaire"</string>
+    <string name="preferences_about_title">"À propos de"</string>
+    <string name="preferences_build_version">"Version"</string>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <!-- Always -->
+        <item>"Toujours"</item>
+        <!-- Only when the phone is in Silent mode -->
+        <item>"En mode silencieux"</item>
+        <!-- Never -->
+        <item>"Jamais"</item>
+    </string-array>
+    <string name="prefDialogTitle_vibrateWhen">"Vibreur"</string>
+    <string name="email_address_error">"Votre adresse d\'objet d\'invitation est incorrect, s\'il vous plaît saisissez la boîte aux lettres Gmail."</string>
+    <string name="length_limit">L\'entrée a atteint la valeur maximale"</string>
+    <string name="preferences_home_tz_default">Amerique/ Los_Angeles</string>
+    <string name="send">"Envoyer"</string>
+    <string name="import_vcalendar">"Import CalendrierV"</string>
+    <string name="jan">"Janv."</string>
+    <string name="feb">"Févr."</string>
+    <string name="march">"Mars"</string>
+    <string name="april">"Avr."</string>
+    <string name="may">"Mai"</string>
+    <string name="june">Juin</string>
+    <string name="july">"Juil."</string>
+    <string name="aug">"Août"</string>
+    <string name="sep">"Sept."</string>
+    <string name="oct">"Oct."</string>
+    <string name="nov">"Nov."</string>
+    <string name="dec">"Déc."</string>
+    <string name="save">"Enregistrer"</string>
+    <string name="delete_all_events">Supprimer tous les événements</string>
+    <string name="delete_all_event_title">Tous les événements seront supprimés.</string>
+    <string name="delete_error">Vous n\'avez aucun événement.</string>
+    <string name="select_date">Sélectionner la Date</string>
+    <string name="local_calendar">"calendriersprd"</string>
+    <string name="search">Recherche</string>
+    <string name="search_empty">Aucun resultats</string>
+    <string name="out_range">Le réglage de la date n\'est pas valide, celle-ci doit se trouver entre 1970 et 2037.</string>
+    <plurals name="search_results_title">
+        <item quantity="one"><xliff:g id="number" example="1">%1$s</xliff:g> resultats pour \"<xliff:g id="search" example="???">%2$s</xliff:g>\"</item>
+        <item quantity="other"><xliff:g id="number" example="15">%1$s</xliff:g> resultats pour\"<xliff:g id="search" example="???">%2$s</xliff:g>\"</item>
+    </plurals>
+</resources>

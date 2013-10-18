@@ -1,0 +1,172 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<resources
+xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="reminder_minutes_labels">
+        <item>1 منٹ</item>
+        <item>5 منٹ</item>
+        <item>10 منٹ</item>
+        <item>15 منٹ</item>
+        <item>20 منٹ</item>
+        <item>25 منٹ</item>
+        <item>30 منٹ</item>
+        <item>45 منٹ</item>
+        <item>1 گھنٹہ</item>
+        <item>2 گھنٹے</item>
+        <item>3 گھنٹے</item>
+        <item>12 گھنٹہ</item>
+        <item>24 گھنٹہ</item>
+        <item>2 دن</item>
+        <item>1 ہفتہ</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>"جزائر مارشل" </item>
+        <item>"مڈوے آئلینڈ" </item>
+        <item>"ہوائی" </item>
+        <item>"الاسکا"</item>
+        <item>"پیسیفک ٹائم"</item>
+        <item>"ٹی جوانا"</item>
+        <item>"ایریزونا" </item>
+        <item>"چہواہوا" </item>
+        <item>"ماؤنٹین ٹائم" </item>
+        <item>"وسطی امریکہ" </item>
+        <item>"سنٹرل ٹائم"</item>
+        <item>"میکسیکو سٹی" </item>
+        <item>"سیسکیون"</item>
+        <item>"بگوٹا" </item>
+        <item>"ایسٹرن ٹائم" </item>
+        <item>"وینزویلا"</item>
+        <item>"اٹلانٹک ٹائم" </item>
+        <item>"میناس" </item>
+        <item>"سینٹیاگو"</item>
+        <item>"نیو فاؤنڈ لینڈ" </item>
+        <item>"براسیلیا" </item>
+        <item>"بیونس آئرس" </item>
+        <item>"گرین لینڈ" </item>
+        <item>"مونٹیویڈیو" </item>
+        <item>"مڈ بحر اوقیانوس </item>
+        <item>"آزورس" </item>
+        <item>"کیپ وردے جزائر" </item>
+        <item>"کاسا بلانکا" </item>
+        <item>"لندن، ڈبلن </item>
+        <item>"ایمسٹرڈیم ، برلن"</item>
+        <item>"بلغراد" </item>
+        <item>"برسلز" </item>
+        <item>"سرائیوو"</item>
+        <item>"پیرس"</item>
+        <item>"ونڈہوک"</item>
+        <item>"ڈبلیو افریقہ کا وقت"</item>
+        <item>"عمان، اردن"</item>
+        <item>"ایتھنز، استنبول" </item>
+        <item>"بیروت، لبنان </item>
+        <item>"قاہرہ" </item>
+        <item>"ہیلسنکی" </item>
+        <item>"یروشلم"</item>
+        <item>"منسک" </item>
+        <item>"ہرارے" </item>
+        <item>"بغداد" </item>
+        <item>"ماسکو" </item>
+        <item>"کویت" </item>
+        <item>"نیروبی" </item>
+        <item>"تہران"</item>
+        <item>"باکو" </item>
+        <item>"تبلیسی"</item>
+        <item>"یریوان"</item>
+        <item>"دبئی" </item>
+        <item>"کابل"</item>
+        <item>"اسلام آباد، کراچی"</item>
+        <item>"یوآرلسک"</item>
+        <item>"یکاٹرن برگ"</item>
+        <item>"کولکتہ" </item>
+        <item>"سری لنکا"</item>
+        <item>"کھٹمنڈو"</item>
+        <item>"آستانہ" </item>
+        <item>"رنگون"</item>
+        <item>"کریسنویارسک" </item>
+        <item>"بینکاک" </item>
+        <item>"بیجنگ" </item>
+        <item>"ہانگ کانگ" </item>
+        <item>"ارکتسک"</item>
+        <item>"کوالالمپور" </item>
+        <item>"پرتھ"</item>
+        <item>"تائی پے"</item>
+        <item>"سیول"</item>
+        <item>"ٹوکیو، وساکا"</item>
+        <item>"یاکتسک"</item>
+        <item>"ایڈیلیڈ"</item>
+        <item>"ڈارون" </item>
+        <item>"برسبین" </item>
+        <item>"ہوبارٹ" </item>
+        <item>سڈنی، کینبرا،</item>
+        <item>"ولادووستوک"</item>
+        <item>"گوام" </item>
+        <item>"مگادان" </item>
+        <item>"آکلینڈ" </item>
+        <item>"فجی" </item>
+        <item>"تونگا"</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>کوئی نہیں</item>
+        <item>1 منٹ</item>
+        <item>5 منٹ</item>
+        <item>10 منٹ</item>
+        <item>15 منٹ</item>
+        <item>20 منٹ</item>
+        <item>25 منٹ</item>
+        <item>30 منٹ</item>
+        <item>45 منٹ</item>
+        <item>1 گھنٹہ</item>
+        <item>2 گھنٹے</item>
+        <item>3 گھنٹے</item>
+        <item>12 گھنٹہ</item>
+        <item>24 گھنٹہ</item>
+        <item>2 دن</item>
+        <item>1 ہفتہ</item>
+    </string-array>
+    <string-array name="preferences_alert_type_labels">
+        <item>الرٹ</item>
+        <item>اسٹیٹس بار نوٹیفکیشن</item>
+        <item>آف</item>
+    </string-array>
+    <string-array name="availability">
+        <item>مصروف</item>
+        <item>دستیاب</item>
+    </string-array>
+    <string-array name="visibility">
+        <item>ڈیفالٹ</item>
+        <item>ذاتی </item>
+        <item>پبلک</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item> پہلا</item>
+        <item>دوسری</item>
+        <item>تیسری</item>
+        <item>چوتھے نمبر پر</item>
+        <item>آخری</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>(کوئی جواب نہیں)</item>
+        <item>ہاں</item>
+        <item>شاید</item>
+        <item>نہیں</item>
+    </string-array>
+    <string-array name="response_labels2">
+        <item>ہاں</item>
+        <item>شاید</item>
+        <item>نہیں</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>صرف اس ایونٹ کو</item>
+        <item>یہ&amp; مستقبل کے واقعات</item>
+        <item>تمام واقعات</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>یہ&amp; مستقبل کے واقعات</item>
+        <item>تمام واقعات</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <!-- The choice for responding to only one instance of a repeating event -->
+        <item>صرف اس مثال کے طور پر</item>
+        <!-- The choice for responding to all instances of a repeating event -->
+        <item>سیریز میں تمام واقعات</item>
+    </string-array>
+</resources>

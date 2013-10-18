@@ -1,0 +1,172 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<resources
+xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="reminder_minutes_labels">
+        <item>སྐར་མ་1</item>
+        <item>སྐར་མ་5</item>
+        <item>སྐར་མ་10</item>
+        <item>སྐར་མ་15</item>
+        <item>སྐར་མ་20</item>
+        <item>སྐར་མ་25</item>
+        <item>སྐར་མ་30</item>
+        <item>སྐར་མ་45</item>
+        <item>ཆུ་ཚོད་1</item>
+        <item>ཆུ་ཚོད་2</item>
+        <item>ཆུ་ཚོད་3</item>
+        <item>ཆུ་ཚོད་12</item>
+        <item>ཆུ་ཚོད་24</item>
+        <item>ཉིན་2</item>
+        <item>གཟའ་འཁོར་1</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>མ་ཤེའོ་གླིང་ཕྲན།</item>
+        <item>ལམ་དཀྱིལ་གླིང་ཕྲན།</item>
+        <item>ཧ་ཝ་ཡི་གླིང་ཕྲན།</item>
+        <item>ཨ་ལ་སེ་ཀ་ཞིང་ཆེན།</item>
+        <item>ཞི་བདེ་རྒྱ་མཚོའི་དུས་ཚོད།</item>
+        <item>ཐི་ཝ་ན།</item>
+        <item>ཨེ་རི་ཛོ་ན།</item>
+        <item>ཆི་ཝ་ཝ།</item>
+        <item>རི་ཁུལ་དུས་ཚོད།</item>
+        <item>དབུས་ཨ་མེ་རི་ཁ།</item>
+        <item>དབུས་ཀྱི་དུས་ཚོད།</item>
+        <item>མེ་སི་ཁོ་གྲོང་འཁྱེར།</item>
+        <item>ས་སེ་ཁ་ཆུ་ཝེན།</item>
+        <item>པོ་ཀ་ཏ།</item>
+        <item>ཤར་ཁུལ་དུས་ཚོད།</item>
+        <item>ཝེ་ནི་ཛུ་ཝི་ལ།</item>
+        <item>ནུབ་རྒྱ་མཚོ་ཆེན་པོའི་དུས་ཚོད།</item>
+        <item>མ་ནི་ཡུ་སི།</item>
+        <item>སན་ཐི་ཡ་ཀོ།</item>
+        <item>ནིའུ་ཧྥོན་ལན་ཏ།</item>
+        <item>བྷར་ཛི་ལི་ཡ།</item>
+        <item>པོ་ཡི་ནོ་སི་ཨ་རི་སི།</item>
+        <item>གུ་རིན་ལན་ཏ།</item>
+        <item>མོན་དི་ཝི་དེ་ཡ།</item>
+        <item>ནུབ་རྒྱ་མཚོ་ཆེན་པོའི་དཀྱིལ་གྱི་ས་ཁུལ།</item>
+        <item>ཨ་ཛོ་རི་སི།</item>
+        <item>ཁེ་ཕུ་ཧྥེར་དི་གླིང་ཕྲན།</item>
+        <item>ཁ་ས་པུ་ལན་ཁ།</item>
+        <item>ལུན་ཊོན། ཏུ་པོ་ལིན།</item>
+        <item>ཨ་མུ་སེ་ཐ་ཏན། བར་ལེན།</item>
+        <item>པེ་འར་གུ་རན་དྷ།</item>
+        <item>པུ་རུ་སེར་སེ།</item>
+        <item>ས་རེ་ཡེ་བྷའུ།</item>
+        <item>ཕེའེ་རེ་སེ།</item>
+        <item>ཝིན་ད་ཧོ་ཁེ།</item>
+        <item>ནུབ་ཨ་ཧྥེ་རི་ཁའི་དུས་ཚོད།</item>
+        <item>ཨན་མན། ཡོར་ཏན།</item>
+        <item>ཨ་དྷན་སེ། ཨི་སི་ཐན་པུར།</item>
+        <item>པེ་རུ་ཐེ། ལི་བྷ་ནན།</item>
+        <item>ཁའི་རོ།</item>
+        <item>ཧེའོ་སིན་ཁི།</item>
+        <item>ཡེ་ལུ་ས་ལེན།</item>
+        <item>མིན་སེ་ཁེ།</item>
+        <item>ཧ་ར་རེ།</item>
+        <item>པ་ཀ་དྷ།</item>
+        <item>མོ་སི་ཁོ།</item>
+        <item>ཁ་ཝེ་ཐི།</item>
+        <item>ནེ་ལོ་པི།</item>
+        <item>དེ་ཧ་རན།</item>
+        <item>པ་ཁུ།</item>
+        <item>ཐི་པི་ལི་སི།</item>
+        <item>ཡེ་རི་ཝུན།</item>
+        <item>དུ་པའི།</item>
+        <item>ཁ་པུར།</item>
+        <item>ཨི་སི་ལན་པད། ཁ་ར་ཆི།</item>
+        <item>ཨུ་ལར་སི་ཁེ།</item>
+        <item>ཡེ་ཁ་ཐེ་རིན་བུག</item>
+        <item>ཁར་ཁ་ཐ།</item>
+        <item>སི་ལི་ལན་ཁ།</item>
+        <item>ཁ་ད་མན་ཏུ།</item>
+        <item>ཨ་སེ་ཐ་ན།</item>
+        <item>ཡན་ཀོན།</item>
+        <item>ཁ་ར་སེ་ནོ་ཡར་སེ་ཁེ།</item>
+        <item>པན་ཁོག་ཁོ།</item>
+        <item>པེ་ཅིང་།</item>
+        <item>ཧོང་ཁོང་།</item>
+        <item>ཨིར་ཁུ་ཙི་ཁེ།</item>
+        <item>ཁོ་ལ་ལམ་ཕུར།</item>
+        <item>ཕར་སེ།</item>
+        <item>ཐེའི་ཕེ།</item>
+        <item>སེ་འུར།</item>
+        <item>ཐོ་ཁྱུའུ། ཨོ་ས་ཁ།</item>
+        <item>ཡ་ཁ་ཚེ་ཁ།</item>
+        <item>ཨ་དེ་ལའེ་དེ།</item>
+        <item>དར་ཝིན།</item>
+        <item>པུ་རི་སེ་པན།</item>
+        <item>ཧོ་པར་ཐེ།</item>
+        <item>སེ་དི་ནི། ཁན་པེར་ར།</item>
+        <item>བྷི་ལ་དི་ཝ་སེ་དྷ་ཁེ།</item>
+        <item>གུ་ཝེམ།</item>
+        <item>མ་ཀ་ཏན།</item>
+        <item>ཨོ་ཁོ་ལན་དེ།</item>
+        <item>ཧྥི་ཅི།</item>
+        <item>ཐོན་ཀ</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>མེད།</item>
+        <item>སྐར་མ་1</item>
+        <item>སྐར་མ་5</item>
+        <item>སྐར་མ་10</item>
+        <item>སྐར་མ་15</item>
+        <item>སྐར་མ་20</item>
+        <item>སྐར་མ་25</item>
+        <item>སྐར་མ་30</item>
+        <item>སྐར་མ་45</item>
+        <item>ཆུ་ཚོད་1</item>
+        <item>ཆུ་ཚོད་2</item>
+        <item>ཆུ་ཚོད་3</item>
+        <item>ཆུ་ཚོད་12</item>
+        <item>ཆུ་ཚོད་24</item>
+        <item>ཉིན་2</item>
+        <item>གཟའ་འཁོར་1</item>
+    </string-array>
+    <string-array name="preferences_alert_type_labels">
+        <item>ཉེན་བརྡ།</item>
+        <item>རྣམ་པའི་ཐོ་གཞུང་གི་བརྡ་ཐོ།</item>
+        <item>ཁ་རྒྱག་པ།</item>
+    </string-array>
+    <string-array name="availability">
+        <item>བྲེལ་ཚུབ།</item>
+        <item>དུས་ཚོད་ཡོད་པ།</item>
+    </string-array>
+    <string-array name="visibility">
+        <item>ཁོག་འཐད།</item>
+        <item>མི་སྒེར།</item>
+        <item>ཡོངས་གྲགས།</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>ཨང་དང་པོ།</item>
+        <item>ཨང་གཉིས་པ།</item>
+        <item>ཨང་གསུམ་པ།</item>
+        <item>ཨང་བཞི་པ།</item>
+        <item>མཐའ་མ་གཅིག</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>(ཡ་ལེན་མེད་པ།)</item>
+        <item>རེད།</item>
+        <item>ཕལ་ཆེར།</item>
+        <item>མིན།</item>
+    </string-array>
+    <string-array name="response_labels2">
+        <item>རེད།</item>
+        <item>ཕལ་ཆེར།</item>
+        <item>མིན།</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>བྱེད་སྒོ་འདི་ཁོ་ན།</item>
+        <item>བྱེད་སྒོ་འདི་དང་མ་འོང་པའི་བྱེད་སྒོ།</item>
+        <item>བྱེད་སྒོ་ཡོད་ཚད།</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>བྱེད་སྒོ་འདི་དང་མ་འོང་པའི་བྱེད་སྒོ།</item>
+        <item>བྱེད་སྒོ་ཡོད་ཚད།</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <!-- The choice for responding to only one instance of a repeating event -->
+        <item>ད་ཐེངས་ཀྱི་བྱེད་སྒོ་ཁོ་ན།</item>
+        <!-- The choice for responding to all instances of a repeating event -->
+        <item>བསྐྱར་ཟློས་ཀྱི་བྱེད་སྒོ་ཡོད་ཚད།</item>
+    </string-array>
+</resources>

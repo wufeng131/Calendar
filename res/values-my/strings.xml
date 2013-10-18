@@ -1,0 +1,180 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<resources
+xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_label">ျပကၡဒိန္</string>
+    <string name="what_label">မည္သည္က</string>
+    <string name="where_label">ဘယ္ေနရာလဲ</string>
+    <string name="attendees_label">ဧည့္သည္မ်ား</string>
+    <string name="repeats_label">ထပ္ဖြင့္ျခင္း</string>
+    <string name="no_title_label">အေြကာင်းကိစ္စမရိှပါ</string>
+    <plurals name="Nminutes">
+        <!-- This is the label for a 1-minute reminder. -->
+        <item quantity="one">1 မိနစ်</item>
+        <!-- This is the label for 2 or more minutes. The actual number of
+             minutes is a parameter. -->
+        <item quantity="other"><xliff:g id="count">%d</xliff:g> မိနစ္</item>
+    </plurals>
+    <plurals name="Nmins">
+        <!-- This is the label for a 1-minute reminder. -->
+        <item quantity="one">1 မိနစ်</item>
+        <!-- This is the label for 2 or more minutes. The actual number of
+             minutes is a parameter. -->
+        <item quantity="other">လြန္ခဲ့ေသာ <xliff:g id="count">%d</xliff:g> နာရီက</item>
+    </plurals>
+    <plurals name="Nhours">
+        <!-- This is the label for a 1-hour reminder. -->
+        <item quantity="one">တစ္နာရီ</item>
+        <!-- This is the label for a reminder of 2 or more hours. The actual number of
+             hours is a parameter. -->
+        <item quantity="other"><xliff:g id="count">%d</xliff:g> နာရီ</item>
+    </plurals>
+    <plurals name="Ndays">
+        <!-- This is the label for a reminder of 1 day. -->
+        <item quantity="one">တစ်ရပ်</item>
+        <!-- This is the label for a reminder of 2 or more days. The actual number of
+             days is a parameter. -->
+        <item quantity="other"><xliff:g id="count">%d</xliff:g> ရက္</item>
+    </plurals>
+    <string name="show_agenda_view">"လုပ္ေဆာင္ရန္မ်ားကို ျပမည္"</string>
+    <string name="show_day_view">"ရက္စြဲကိုျပမည္"</string>
+    <string name="agenda_view">"လုပ္ေဆာင္ရန္မ်ား"</string>
+    <string name="day_view">"ေန႔စြဲ"</string>
+    <string name="week_view">ရက်သတ္တပတ်</string>
+    <string name="month_view">လ</string>
+    <string name="event_view">"အေၾကာင္းအရာကို ၾကည့္မည္"</string>
+    <string name="event_create">"အေၾကာင္းအရာအသစ္"</string>
+    <string name="event_edit">"အေၾကာင္းအရာကိုတည္းျဖတ္မည္"</string>
+    <string name="event_delete">"အေၾကာင္းအရာကိုဖ်က္မည္"</string>
+    <string name="goto_today">"ယေန႔"</string>
+    <string name="menu_select_calendars">"ျပကၡဒိန္မ်ား"</string>
+    <string name="menu_preferences">်တပ်ဆင်ြခင်း</string>
+    <string name="calendars_title">"ျပကၡဒိန္မ်ား"</string>
+    <string name="synced_visible">sync လုပ္ျပီး၊ ျမင္ရသည္</string>
+    <string name="synced_not_visible">sync လုပ္ျပီး၊ မျမင္ရပါ</string>
+    <string name="not_synced_not_visible">sync မလုပ္ရေသးပါ၊ မျမင္ႏိုင္ပါ</string>
+    <string name="event_edit_title">"အေၾကာင္းအရာအေသးစိတ္"</string>
+    <string name="hint_what">"အေၾကာင္းအရာအမည္"</string>
+    <string name="hint_where">"အေၾကာင္းအရာတည္ေနရာ"</string>
+    <string name="hint_description">"အေၾကာင္းအရာေဖာ္ျပခ်က္"</string>
+    <string name="hint_attendees">"အီးေမးလ္လိပ္စာမ်ား"</string>
+    <string name="creating_event">"အေၾကာင္းအရာဖန္တီးျပီး"</string>
+    <string name="saving_event">"အေၾကာင္းအရာသိမ္းျပီး"</string>
+    <string name="loading_calendars_title">"ျပကၡဒိန္ဖြင့္ေနဆဲ"</string>
+    <string name="loading_calendars_message">"ျပကၡဒိန္ဖြင့္ေနဆဲ\u2026"</string>
+    <string name="alert_title">ျပကၡဒိန္သတိေပးခ်က္မ်ား</string>
+    <string name="event_info_title">အေၾကာင္းအရာကို ၾကည့္မည္</string>
+    <string name="event_info_title_invite">အစည္းအေ၀းဖိတ္ၾကားခ်က္</string>
+    <string name="add_new_reminder">သတိေပးခ်က္ထည့္မည္</string>
+    <string name="edit_event_to_label">လက်ခံသူ</string>
+    <string name="edit_event_from_label">xxxမွ</string>
+    <string name="edit_event_all_day_label">တစ္ေန႔လံုး</string>
+    <string name="edit_event_calendar_label">ျပကၡဒိန္</string>
+    <string name="edit_event_show_extra_options">အပိုေ႐ြးစရာမ်ားကို ျပသပါ</string>
+    <string name="edit_event_hide_extra_options">အပိုေ႐ြးခ်ယ္စရာမ်ားကို ေဖ်ာက္ထားမည္</string>
+    <string name="description_label">Description</string>
+    <string name="presence_label">အျဖစ္ ကၽြႏ္ုပ္ကို ျပသပါ</string>
+    <string name="privacy_label">Privacy</string>
+    <string name="reminders_label">အသိေပးခ်က္မ်ား</string>
+    <string name="no_syncable_calendars">ျပကၡဒိန္မ်ားမ႐ွိပါ</string>
+    <string name="no_calendars_found">သင့္တြင္ ျပကၡဒိန္မ်ား မ႐ွိပါ</string>
+    <string name="view_event_calendar_label">ျပကၡဒိန္</string>
+    <string name="view_event_organizer_label">စုစည္းသူ:</string>
+    <string name="view_event_timezone_label">ျပည္တြင္းစံေတာ္ခ်ိန္:</string>
+    <string name="view_event_response_label">သြားမလား?</string>
+    <string name="loading">အရွက်Downloadေန\u2026</string>
+    <string name="num_events">"နံပါတ္အေၾကာင္းအရာမ်ား"</string>
+    <string name="edit_event_label">"အေၾကာင္းအရာကိုတည္းျဖတ္မည္"</string>
+    <string name="delete_label">ဖျက်ပယ်မလာ</string>
+    <string name="delete_event_label">"အေၾကာင္းအရာကိုဖ်က္မည္"</string>
+    <string name="save_label">ြပီပါြပီ</string>
+    <string name="discard_label">ျပန္သြားမည္</string>
+    <string name="import_label">Import</string>
+    <string name="snooze_all_label">"အားလံုးကို ခဏရပ္ထားမည္"</string>
+    <string name="dismiss_all_label">"အားလံုးကိုပယ္ခ်မည္"</string>
+    <string name="does_not_repeat">အခ်ိန္အေၾကာင္းအရာ</string>
+    <string name="daily">ေနတိုင္း</string>
+    <string name="every_weekday">"ဖြင့္ရက္တိုင္း(တနလၤာ\u2013ေသာၾကာ)"</string>
+    <string name="monthly">လတို္င္းတသိေပး</string>
+    <string name="yearly_plain">ႏွစ္တို္င္းတသိေပး</string>
+    <string name="custom">"စိတ္ၾကိဳက္\u2026 (ဖုန္းတြင္စိတ္ၾကိဳက္ထား႐ွိ၍မရ)"</string>
+    <string name="modify_event">ဤအေၾကာင္းအရာသာေျပာင္းမည္</string>
+    <string name="modify_all">အတြဲ႐ွိ အေၾကာင္းအရာမ်ားအားလံုးကို ေျပာင္းမည္</string>
+    <string name="modify_all_following">ဤအရာႏွင့္ အျခားအေၾကာင္းအရာမ်ားအားလံုးကို ေျပာင္းလဲပါ </string>
+    <string name="delete_this_event_title">ဤအေၾကာင္းအရာကို ဖ်က္မည္</string>
+    <string name="delete_title">ဖျက်ပယ်မလာ</string>
+    <string name="change_response_title">တုန္႔ျပန္မႈေျပာင္းမည္</string>
+    <string name="preferences_title">်တပ်ဆင်ြခင်း</string>
+    <string name="preferences_general_title">ျပကၡဒိန္ၾကည့္႐ႈမႈအဆင္အျပင္မ်ား</string>
+    <string name="preferences_alerts_title">အဆင္အျပင္မ်ားအသိေပးခ်က္</string>
+    <string name="preferences_hide_declined_title">ပယ္ခ်ျပီးအေၾကာင္းအရာမ်ားကို ေဖ်ာက္ထားမည္</string>
+    <string name="preferences_alerts_type_title">ႏိႈးစက္ထား႐ွိပါ &amp; သတိေပးခ်က္မ်ား</string>
+    <string name="preferences_alerts_type_dialog">အသိေပးခ်က္မ်ား &amp; သတိေပးခ်က္မ်ား</string>
+    <string name="preferences_alerts_vibrateWhen_title">Vibrate</string>
+    <string name="preferences_alerts_vibrateWhen_summary">သတိေပးခ်က္မ်ားအတြက္ တုန္ခါမည္</string>
+    <string name="preferences_alerts_ringtone_title">ringtoneေရွးချယ်</string>
+    <string name="preferences_default_reminder_title">မူလသတိေပးခ်က္အခ်ိန္</string>
+    <string name="preferences_default_reminder_dialog">မူလသတိေပးခ်က္အခ်ိန္</string>
+    <string name="preferences_about_title">About</string>
+    <string name="preferences_build_version">ျပဳလုပ္မည့္ဗား႐ွင္း</string>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <!-- Always -->
+        <item>အျမဲတမ္း</item>
+        <!-- Only when the phone is in Silent mode -->
+        <item>အသံေဖ်ာက္ထားလွ်င္သာ</item>
+        <!-- Never -->
+        <item>တခါမွ</item>
+    </string-array>
+    <string name="prefDialogTitle_vibrateWhen">Vibrate</string>
+    <string name="email_address_error">သင့္ဖိတ္ၾကားခ်က္လိပ္စာမမွန္ကန္ပါ။ Gmail စာတုိက္ပံုးကို ျဖည့္ပါ</string>
+    <string name="length_limit">ထည့္သြင္းခ်က္မွာ အျမင့္ဆံုးတန္ဖိုးသုိ႔ ေရာက္႐ွိ"</string>
+    <string name="timezone_label">နယ္ပယ္ေဒသအခ်ျန္</string>
+    <string name="response_label">"<xliff:g id="response_type">%s</xliff:g> (<xliff:g id="guest_count">%d</xliff:g>)"</string>
+    <string name="plus_N_more">"(ႏွင့္ <xliff:g id="more_count">%d</xliff:g> ေနာက္ထပ္ \u2026)"</string>
+    <string name="alert_missed_events_single">(<xliff:g id="reminder_count">%s</xliff:g> ေနာက္ထပ္သတိေပးခ်က္မ်ား)</string>
+    <string name="alert_missed_events_multiple">(<xliff:g id="reminder_count">%s</xliff:g> ေနာက္ထပ္သတိေပးခ်က္မ်ား)</string>
+    <string name="edit_event_show_all">အားလံုးျပပါ \u003E</string>
+    <string name="content_description_edit_event_from_date">ေန႔မွ</string>
+    <string name="content_description_edit_event_from_time">အခ်ိန္မွ</string>
+    <string name="content_description_edit_event_to_date">ရက္စြဲသို႔</string>
+    <string name="content_description_edit_event_to_time">အခ်ိန္သို႔</string>
+    <string name="content_description_edit_event_reminders">အသိေပးခ်က္မ်ား</string>
+    <string name="content_description_edit_event_remove_reminder">သတိေပးခ်က္ဖယ္႐ွားမည္</string>
+    <string name="agenda_today">ယေန႔ <xliff:g id="date">%1$s</xliff:g></string>
+    <string name="show_older_events"><xliff:g id="oldest_search_range">%1$s</xliff:g> တုန္းက ျဖစ္စဥ္မ်ားျပသေနျခင္းျဖစ္သည္။ ေနာက္ထပ္အခ်က္အလက္မ်ားအတြက္ ႏွိပ္ပါ။</string>
+    <string name="show_newer_events"><xliff:g id="newest_search_range">%1$s</xliff:g> တုန္းက ျဖစ္စဥ္မ်ားျပသေနျခင္းျဖစ္သည္။ ေနာက္ထပ္အခ်က္အလက္မ်ားအတြက္ ႏွိပ္ပါ။</string>
+    <string name="weekly">"အပတ္စဥ္  (<xliff:g id="days_of_week">%s</xliff:g> ေန႔တိုင္း)"</string>
+    <string name="monthly_on_day_count">"လစဥ္ (<xliff:g id="ordinal_number">%1$s</xliff:g> <xliff:g id="day_of_week">%2$s</xliff:g>) တိုင္း"</string>
+    <string name="monthly_on_day">"လစဥ္ (<xliff:g id="day_of_month">%s</xliff:g>) ေန႔တြင္"</string>
+    <string name="yearly">"ႏွစ္စဥ္ (on <xliff:g id="dates">%s</xliff:g>)"</string>
+    <string name="preferences_use_home_tz_title">ပင္မစံေတာ္ခ်ိန္ကို အသံုးျပဳပါ</string>
+    <string name="preferences_use_home_tz_descrip">ခရီးသြားသည့္အခါ သင့္ပင္မေဒသစံေတာ္ခ်ိန္တြင္ ျပကၡဒိန္ႏွင့္ အျဖစ္အပ်က္မ်ား၏ အခ်ိန္မ်ားကို ျပသပါ</string>
+    <string name="preferences_home_tz_title">ပင္မစံေတာ္ခ်ိန္</string>
+    <string name="preferences_home_tz_default">အေမရိကား/ေလာ့စ္_အိန္ဂ်ယ္လိစ္</string>
+    <string name="send">ပို ့</string>
+    <string name="import_vcalendar">"V ျပကၡဒိန္သြင္းမည္"</string>
+    <string name="jan">ဇန်နဝါရီလ</string>
+    <string name="feb">ေဖေဖာ်ဝါရီလ</string>
+    <string name="march">မတ်</string>
+    <string name="april">Apr</string>
+    <string name="may">ေမလ</string>
+    <string name="june">ဇွန််</string>
+    <string name="july">ဇူလိုင်လ</string>
+    <string name="aug">ဩဂုတ်</string>
+    <string name="sep">ေတာ်သလင်းလ</string>
+    <string name="oct">ေအာက်တိုဘာလ</string>
+    <string name="nov">နိုဝင်ဘာလ</string>
+    <string name="dec">ဒီဇင်ဘာလ</string>
+    <string name="save">စုထားသည်</string>
+    <string name="delete_all_events">ျဖစ္စဥ္မ်ားအားလံုးကို ဖ်က္ပါ</string>
+    <string name="delete_all_event_title">ျဖစ္စဥ္မ်ားအားလံုးဖ်က္မည္</string>
+    <string name="delete_error">အျဖစ္အပ်က္မ်ားမ႐ွိ</string>
+    <string name="select_date">ရက္စြဲေ႐ြးခ်ယ္ပါ</string>
+    <string name="local_calendar">"sprd ျပကၡဒိန္"</string>
+    <string name="search">႐ွာေဖြခ်က္</string>
+    <string name="search_empty">လိုက္ဖက္မႈမ်ားမ႐ွိပါ</string>
+    <string name="out_range">သင္ထား႐ွိေသာ ေန႔စြဲမွာ သတ္မွတ္အတိုင္းအတာေက်ာ္လြန္၊ မွန္ကန္ေသာအတိုင္းအတာမွာ 1970 မွ 2037 အထိျဖစ္သည္။</string>
+    <plurals name="search_results_title">
+        <item quantity="one">\"<xliff:g id="search" example="???">%2$s</xliff:g>\ အတြက္ ရလဒ္ <xliff:g id="number" example="1">%1$s</xliff:g> ခု"</item>
+        <item quantity="other">\"<xliff:g id="search" example="???">%2$s</xliff:g>\ အတြက္ ရလဒ္ <xliff:g id="number" example="15">%1$s</xliff:g> ခု"</item>
+    </plurals>
+</resources>

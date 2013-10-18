@@ -1,0 +1,173 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<resources
+xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_label">کلینڈر</string>
+    <string name="length_limit">ان پٹ کو زیادہ سے زیادہ قیمت تک پہنچ گئی ہے "</string>
+    <string name="what_label">کیا </string>
+    <string name="where_label">کہان</string>
+    <string name="timezone_label">ٹائم زون</string>
+    <string name="attendees_label">مہمانوں</string>
+    <string name="response_label">"<xliff:g id="response_type">%s</xliff:g> (<xliff:g id="guest_count">%d</xliff:g>)"</string>
+    <string name="repeats_label">دہرائی</string>
+    <string name="no_title_label">(کوئی عنوان نہیں)</string>
+    <plurals name="Nminutes">
+        <!-- This is the label for a 1-minute reminder. -->
+        <item quantity="one">1 منٹ</item>
+        <!-- This is the label for 2 or more minutes. The actual number of
+             minutes is a parameter. -->
+        <item quantity="other"><xliff:g id="count">%d</xliff:g> منٹس </item>
+    </plurals>
+    <plurals name="Nmins">
+        <!-- This is the label for a 1-minute reminder. -->
+        <item quantity="one">1 منٹ</item>
+        <!-- This is the label for 2 or more minutes. The actual number of
+             minutes is a parameter. -->
+        <item quantity="other"><xliff:g id="count">%d</xliff:g> منٹس </item>
+    </plurals>
+    <plurals name="Nhours">
+        <!-- This is the label for a 1-hour reminder. -->
+        <item quantity="one">1 گھنٹہ</item>
+        <!-- This is the label for a reminder of 2 or more hours. The actual number of
+             hours is a parameter. -->
+        <item quantity="other"><xliff:g id="count">%d</xliff:g>  گھنٹے</item>
+    </plurals>
+    <plurals name="Ndays">
+        <!-- This is the label for a reminder of 1 day. -->
+        <item quantity="one">1 دن</item>
+        <!-- This is the label for a reminder of 2 or more days. The actual number of
+             days is a parameter. -->
+        <item quantity="other"><xliff:g id="count">%d</xliff:g> دن</item>
+    </plurals>
+    <string name="show_agenda_view">"ایجنڈا دکھائیں"</string>
+    <string name="show_day_view">"دن دکھائیں"</string>
+    <string name="agenda_view">"ایجنڈا "</string>
+    <string name="day_view">"دن"</string>
+    <string name="week_view">ہفتہ</string>
+    <string name="month_view">مہینہ</string>
+    <string name="event_view">"واقعہ دیکھیں"</string>
+    <string name="event_create">"نیا اہم واقعہ"</string>
+    <string name="event_edit">"تقریب میں ترمیم کریں"</string>
+    <string name="event_delete">"تقریب کو خارج کریں"</string>
+    <string name="goto_today">"آج"</string>
+    <string name="menu_select_calendars">کیلنڈر</string>
+    <string name="menu_preferences">سیٹنگز</string>
+    <string name="plus_N_more">"(کے علاوہ<xliff:g id="more_count">%d</xliff:g> مزید \u2026)"</string>
+    <string name="calendars_title">کیلنڈر</string>
+    <string name="synced_visible"> ہم آہنگی   دکھائی دے</string>
+    <string name="synced_not_visible"> ہم آہنگی  نہیں دکھائی دے</string>
+    <string name="not_synced_not_visible">نہیں مطابقت، نہیں دکھائی دیتا</string>
+    <string name="event_edit_title">"واقعہ کی تفصیلات"</string>
+    <string name="hint_what">"واقعہ کا نام"</string>
+    <string name="hint_where">"واقعہ کی جگہ"</string>
+    <string name="hint_description">"واقعہ کی وضاحت"</string>
+    <string name="hint_attendees">"ای میل ایڈریس میں"</string>
+    <string name="creating_event">"اہم واقعہ پیدا کیا"</string>
+    <string name="saving_event">"اہم واقعہ بچا لیا"</string>
+    <string name="loading_calendars_title">"لوڈ ہو رہا ہے کیلیںڈروں"</string>
+    <string name="loading_calendars_message">"لوڈ ہو رہا ہے کیلنڈر \u2026"</string>
+    <string name="alert_title">کیلنڈر کی اطلاعات</string>
+    <string name="alert_missed_events_single">(<xliff:g id="reminder_count">%s</xliff:g> مزید یاد دہانی)</string>
+    <string name="alert_missed_events_multiple">(<xliff:g id="reminder_count">%s</xliff:g> مزید یاد دہانیاں )</string>
+    <string name="event_info_title">تقریب دیکھیں</string>
+    <string name="event_info_title_invite">اجلاس کی دعوت</string>
+    <string name="add_new_reminder">یاد دہانی کا اضافہ کریں</string>
+    <string name="edit_event_to_label">طرف</string>
+    <string name="edit_event_from_label">سے</string>
+    <string name="edit_event_all_day_label">تمام دن</string>
+    <string name="edit_event_calendar_label">کلینڈر</string>
+    <string name="edit_event_show_extra_options">اضافی اختیارات دکھائیں</string>
+    <string name="edit_event_hide_extra_options">اضافی اختیارات کو پوشیدہ</string>
+    <string name="edit_event_show_all">تمام دکھائیں   u003E\  </string>
+    <string name="description_label">تفصیل</string>
+    <string name="presence_label">میرے طور پر دکھائیں</string>
+    <string name="privacy_label">پرائیویسی</string>
+    <string name="reminders_label">یاددہانی</string>
+    <string name="no_syncable_calendars">کوئی کیلنڈر</string>
+    <string name="no_calendars_found">آپ کے پاس کوئی کیلنڈر نہیں ہے.</string>
+    <string name="content_description_edit_event_from_date">تاریخ سے</string>
+    <string name="content_description_edit_event_from_time">وقت سے</string>
+    <string name="content_description_edit_event_to_date">اب تک</string>
+    <string name="content_description_edit_event_to_time">وقت </string>
+    <string name="content_description_edit_event_remove_reminder">یاد دہانی کو ہٹا دیں</string>
+    <string name="google_email_domain">جی میل .کام</string>
+    <string name="view_event_calendar_label">کلینڈر:</string>
+    <string name="view_event_organizer_label">آرگنائزر:</string>
+    <string name="view_event_timezone_label">مقامی ٹائم زون:</string>
+    <string name="view_event_response_label">میں شرکت؟</string>
+    <string name="agenda_today">آج ، <xliff:g id="date">%1$s</xliff:g></string>
+    <string name="loading">لوڈنگ\u2026</string>
+    <string name="show_older_events">کے بعد کے واقعات کی نمائش <xliff:g id="oldest_search_range">%1$s</xliff:g>. زیادہ غور کرنے کے لئے ٹیپ.</string>
+    <string name="show_newer_events">واقعات تک کی نمائش<xliff:g id="newest_search_range">%1$s</xliff:g>. غور کرنے کے لئے ٹیپ.</string>
+    <string name="num_events">"این یو ایم واقعات"</string>
+    <string name="edit_event_label">"تقریب میں ترمیم کریں"</string>
+    <string name="delete_label">حذف کریں</string>
+    <string name="delete_event_label">"تقریب کو خارج کریں"</string>
+    <string name="save_label">مکمل</string>
+    <string name="discard_label">الٹ کریں</string>
+    <string name="import_label">امپورٹ</string>
+    <string name="snooze_all_label">"تمام سنوز"</string>
+    <string name="dismiss_all_label">"تمام کو منسوخ کریں"</string>
+    <string name="does_not_repeat">واقعہ ایک بار</string>
+    <string name="daily">ہر دن</string>
+    <string name="every_weekday">"ہر ایک یوم ہفتہ (پیر\u2013جمعہ)"</string>
+    <string name="weekly">ہفتہ وار "(ہر <xliff:g id="days_of_week">%s</xliff:g>)"</string>
+    <string name="monthly_on_day_count">"ماہانہ(ہر <xliff:g id="ordinal_number">%1$s</xliff:g> <xliff:g id="day_of_week">%2$s</xliff:g>)"</string>
+    <string name="monthly">مہینے کے حساب سے</string>
+    <string name="yearly_plain">سالانہ </string>
+    <string name="monthly_on_day">"ماہانہ(دن <xliff:g id="day_of_month">%s</xliff:g>)"</string>
+    <string name="yearly">سالانہ " (پر: <xliff:g id="dates">%s</xliff:g>)"</string>
+    <string name="custom">"اپنی مرضی  u2026 \ (فون پر اپنی مرضی کے مطابق نہیں کر سکتے)"</string>
+    <string name="modify_event">صرف اس ایونٹ کو تبدیل کریں.</string>
+    <string name="modify_all">سیریز میں تمام واقعات کو تبدیل کریں.</string>
+    <string name="modify_all_following"> تمام مستقبل کے واقعات کو تبدیل کریں.</string>
+    <string name="delete_this_event_title">اس ایونٹ کو خارج کر دیا جائے گا.</string>
+    <string name="delete_title">حذف کریں</string>
+    <string name="change_response_title">جواب تبدیل کریں</string>
+    <string name="preferences_title">سیٹنگز</string>
+    <string name="preferences_general_title">کیلنڈر کا نقطہ نظر ترتیب</string>
+    <string name="preferences_alerts_title">یاد دہانی کی ترتیبات</string>
+    <string name="preferences_hide_declined_title">پوشیدہ واقعات سے انکار کر دیا</string>
+    <string name="preferences_alerts_type_title">انتباہات&amp; اطلاعات</string>
+    <string name="preferences_alerts_type_dialog">انتباہات  &amp; نوٹیفیکیشنز</string>
+    <string name="preferences_alerts_vibrateWhen_title">تھرتھراہٹ</string>
+    <string name="preferences_alerts_vibrateWhen_summary">یاددہانی کے لئے بھی کمپن</string>
+    <string name="preferences_alerts_ringtone_title">رنگ ٹون منتخب کریں</string>
+    <string name="preferences_default_reminder_title">پہلے سے طے شدہ سے مقرر شدہ وقت یاد دہانی</string>
+    <string name="preferences_default_reminder_dialog">پہلے سے طے شدہ سے مقرر شدہ وقت یاد دہانی</string>
+    <string name="preferences_use_home_tz_title">ہوم ٹائم زون استعمال کریں </string>
+    <string name="preferences_use_home_tz_descrip">آپ کے گھر کے ٹائم زون میں کیلنڈر اور ایونٹ کے اوقات دکھاتا ہے  سفر </string>
+    <string name="preferences_home_tz_title">ہوم ٹائم زون</string>
+    <string name="preferences_home_tz_default">امریکہ / لاس اینجلس </string>
+    <string name="preferences_about_title">کے متعلق</string>
+    <string name="preferences_build_version">ورژن کی تعمیر</string>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <!-- Always -->
+        <item>ہمیشہ </item>
+        <!-- Only when the phone is in Silent mode -->
+        <item>صرف اس وقت جب خاموش</item>
+        <!-- Never -->
+        <item>کبھی نہیں</item>
+    </string-array>
+    <string name="prefDialogTitle_vibrateWhen">تھرتھراہٹ</string>
+    <string name="import_vcalendar">" درآمد  کیلنڈر"</string>
+    <string name="email_address_error">آپ کی دعوت   کا ایڈریس درست نہیں ہے.براہ مہربانی جی میل باکس کو بھرین</string>
+    <string name="april">اپریل </string>
+    <string name="june">جون</string>
+    <string name="july">جولائی</string>
+    <string name="aug">اگست </string>
+    <string name="nov">نومبر</string>
+    <string name="delete_all_events">تمام واقعات کو خارج کر دیں</string>
+    <string name="delete_all_event_title">تمام واقعات کو خارج کر دیا جائے گا. </string>
+    <string name="delete_error">آپ کے پاس کوئی واقعہ نہیں ہے. </string>
+    <string name="select_date">تاریخ منتخب کریں </string>
+    <string name="local_calendar">ایس پی آر ڈی کلینڈر</string>
+    <string name="out_range">صحیح رینج تاریخ آپ کی مقرر کردہ حد سے باہر ہے، 2037 کے لئے 1970 ہے. </string>
+    <string name="content_description_edit_event_reminders">یاددہانی</string>
+    <string name="send">بھیجنے</string>
+    <string name="search">تلاش</string>
+    <string name="search_empty">کوئی مماثلت نہیں</string>
+    <plurals name="search_results_title">
+        <item quantity="one"><xliff:g id="number" example="1">%1$s</xliff:g> کے لئے نتیجہ \"<xliff:g id="search" example ="???">%2$s</xliff:g>\"</item>
+        <item quantity="other"><xliff:g id="number" example="15">%1$s</xliff:g> کے لئے نتیجہ \"<xliff:g id="search" example="???">%2$s</xliff:g>\"</item>
+    </plurals>
+</resources>

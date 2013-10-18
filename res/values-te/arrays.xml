@@ -1,0 +1,172 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<resources
+xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="reminder_minutes_labels">
+        <item>1 నిమిషం</item>
+        <item>5 నిమిషాలు</item>
+        <item>10 నిమిషాలు</item>
+        <item>15 నిమిషాలు</item>
+        <item>20 నిమిషాలు</item>
+        <item>25 నిమిషాలు</item>
+        <item>30 నిమిషాలు</item>
+        <item>45 నిమిషాలు</item>
+        <item>1 గంట</item>
+        <item>2 గంటలు</item>
+        <item>3 గంటలు</item>
+        <item>12 గంటలు</item>
+        <item>24 గంటలు</item>
+        <item>2 రోజులు</item>
+        <item>1 వారం</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>"మార్షల్ దీవులు"</item>
+        <item>"మిడ్వే ద్వీపం"</item>
+        <item>"హవాయి"</item>
+        <item>"అలాస్కా"</item>
+        <item>"పసిఫిక్ టైం"</item>
+        <item>"టిజ్యానా"</item>
+        <item>"అరిజోనా"</item>
+        <item>"చెవావు"</item>
+        <item>"మౌంటైన్ టైమ్"</item>
+        <item>"సెంట్రల్ అమెరికా"</item>
+        <item>"సెంట్రల్ టైమ్"</item>
+        <item>"మెక్సికో సిటీ"</item>
+        <item>"సస్కట్చేవాన్"</item>
+        <item>"బొగోట"</item>
+        <item>"తూర్పు సమయం"</item>
+        <item>"వెనిజులా"</item>
+        <item>"అట్లాంటిక్ టైమ్"</item>
+        <item>"మనౌస్"</item>
+        <item>"శాంటియాగో"</item>
+        <item>"న్యూఫౌండ్లాండ్"</item>
+        <item>"బ్రెజీలియా"</item>
+        <item>"బ్యూనస్ ఎయిర్స్"</item>
+        <item>"గ్రీన్ ల్యాండ్"</item>
+        <item>"మోంటెవీడియో"</item>
+        <item>"మధ్య-అట్లాంటిక్"</item>
+        <item>"అజోర్స్"</item>
+        <item>"కేప్ వర్దె ద్వీపాలు"</item>
+        <item>"కాసాబ్లాంకా"</item>
+        <item>"లండన్, డబ్లిన్"</item>
+        <item>"ఆంస్టర్ డామ్, బెర్లిన్"</item>
+        <item>"బెల్గ్రేడ్"</item>
+        <item>"బ్రస్సెల్స్"</item>
+        <item>"సారాజెవో"</item>
+        <item>"ప్యారిస్"</item>
+        <item>"విండ్హక్"</item>
+        <item>"పశ్చిమ ఆఫ్రికా టైమ్"</item>
+        <item>"అమ్మన్, జోర్డాన్"</item>
+        <item>"ఏథెన్స్, ఇస్తాంబుల్"</item>
+        <item>"బీరూట్, లెబనాన్"</item>
+        <item>"కైరో"</item>
+        <item>"హెల్సింకీ"</item>
+        <item>"జెరూసలేం"</item>
+        <item>"మిన్స్క్"</item>
+        <item>"హరారే"</item>
+        <item>"బాగ్దాద్"</item>
+        <item>"మాస్కో"</item>
+        <item>"కువైట్"</item>
+        <item>"నైరోబీ"</item>
+        <item>"టెహ్రాన్"</item>
+        <item>"బాకు"</item>
+        <item>"టిబిలిసి"</item>
+        <item>"యెరెవన్"</item>
+        <item>"దుబాయ్"</item>
+        <item>"కాబుల్"</item>
+        <item>"ఇస్లామాబాద్, కరాచీ"</item>
+        <item>"యురల్\'స్క్"</item>
+        <item>"యెకాటెరిన్బర్గ్"</item>
+        <item>"కోలకతా"</item>
+        <item>"శ్రీలంక"</item>
+        <item>"ఖాట్మండు"</item>
+        <item>"అస్తానా"</item>
+        <item>"యన్గాన్"</item>
+        <item>"క్రాస్నోయార్స్క్"</item>
+        <item>"బ్యాంకాక్"</item>
+        <item>"బీజింగ్"</item>
+        <item>"హాంగ్ కాంగ్"</item>
+        <item>"ఇర్కుట్స్క్"</item>
+        <item>"కౌలాలంపూర్"</item>
+        <item>"పెర్త్"</item>
+        <item>"తైపీ"</item>
+        <item>"సియోల్"</item>
+        <item>"టోక్యో, ఒసాకా"</item>
+        <item>"యాకుట్స్క్"</item>
+        <item>"అడిలైడ్"</item>
+        <item>"డార్విన్"</item>
+        <item>"బ్రిస్బేన్"</item>
+        <item>"హోబర్ట్"</item>
+        <item>"సిడ్నీ, కాన్బెర్రా"</item>
+        <item>"వ్లడివోస్తోక్"</item>
+        <item>"గ్వామ్"</item>
+        <item>"మగడాన్"</item>
+        <item>"ఆక్లాండ్"</item>
+        <item>"ఫిజి"</item>
+        <item>"టోంగా"</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>ఏదీ కాదు</item>
+        <item>1 నిమిషం</item>
+        <item>5 నిమిషాలు</item>
+        <item>10 నిమిషాలు</item>
+        <item>15 నిమిషాలు</item>
+        <item>20 నిమిషాలు</item>
+        <item>25 నిమిషాలు</item>
+        <item>30 నిమిషాలు</item>
+        <item>45 నిమిషాలు</item>
+        <item>1 గంట</item>
+        <item>2 గంటలు</item>
+        <item>3 గంటలు</item>
+        <item>12 గంటలు</item>
+        <item>24 గంటలు</item>
+        <item>2 రోజులు</item>
+        <item>1 వారం</item>
+    </string-array>
+    <string-array name="preferences_alert_type_labels">
+        <item>హెచ్చరిక</item>
+        <item>స్టేటస్ బార్ నోటిఫికేషన్</item>
+        <item>ఆపు</item>
+    </string-array>
+    <string-array name="availability">
+        <item>బిజీ</item>
+        <item>అందుబాటులో</item>
+    </string-array>
+    <string-array name="visibility">
+        <item>స్వయంసిద్ధ</item>
+        <item>ప్రైవేట్</item>
+        <item>పబ్లిక్</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>మొదటి   </item>
+        <item>రెండవ</item>
+        <item>మూడవ</item>
+        <item>నాల్గవ  </item>
+        <item>చివరి       </item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>(స్పందన లేదు)</item>
+        <item>అవును</item>
+        <item>బహుశా</item>
+        <item>వద్దు</item>
+    </string-array>
+    <string-array name="response_labels2">
+        <item>అవును</item>
+        <item>బహుశా</item>
+        <item>వద్దు</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>ఈ ఈవెంట్స్ మాత్రమే </item>
+        <item>ఈ &amp; భవిష్యత్తు ఈవెంట్స్</item>
+        <item>అన్ని దీనినివెంట్స్</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>ఈ &amp; భవిష్యత్తు ఈవెంట్స్</item>
+        <item>అన్ని దీనినివెంట్స్</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <!-- The choice for responding to only one instance of a repeating event -->
+        <item>ఈ ఉదాహరణ మాత్రమే</item>
+        <!-- The choice for responding to all instances of a repeating event -->
+        <item>సిరీస్ లో అన్ని దీనినివెంట్స్</item>
+    </string-array>
+</resources>

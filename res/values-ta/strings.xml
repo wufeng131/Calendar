@@ -1,0 +1,173 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<resources
+xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_label">நாள்காட்டி</string>
+    <string name="length_limit">உள்ளீடு அதிகபட்ச மதிப்பினை எட்டிவிட்டது"</string>
+    <string name="what_label">என்ன</string>
+    <string name="where_label">எங்கே</string>
+    <string name="timezone_label">நேர மண்டலம்</string>
+    <string name="attendees_label">விருந்தினர்கள்</string>
+    <string name="response_label">"<xliff:g id="response_type">%s</xliff:g>(<xliff:g id="guest_count">%d</xliff:g>)"</string>
+    <string name="repeats_label">திரும்பச்செய்தல்</string>
+    <string name="no_title_label">(பொருள் இல்லை)</string>
+    <plurals name="Nminutes">
+        <!-- This is the label for a 1-minute reminder. -->
+        <item quantity="one">1 நிமிடம்</item>
+        <!-- This is the label for 2 or more minutes. The actual number of
+             minutes is a parameter. -->
+        <item quantity="other"><xliff:g id="count">%d</xliff:g>நிமிடங்களுக்கு </item>
+    </plurals>
+    <plurals name="Nmins">
+        <!-- This is the label for a 1-minute reminder. -->
+        <item quantity="one">1 நிமிடம்</item>
+        <!-- This is the label for 2 or more minutes. The actual number of
+             minutes is a parameter. -->
+        <item quantity="other"><xliff:g id="count">%d</xliff:g>நிமிடங்களுக்கு</item>
+    </plurals>
+    <plurals name="Nhours">
+        <!-- This is the label for a 1-hour reminder. -->
+        <item quantity="one">1 மணி</item>
+        <!-- This is the label for a reminder of 2 or more hours. The actual number of
+             hours is a parameter. -->
+        <item quantity="other"><xliff:g id="count">%d</xliff:g> மணிகளுக்கு </item>
+    </plurals>
+    <plurals name="Ndays">
+        <!-- This is the label for a reminder of 1 day. -->
+        <item quantity="one">1 நாள்</item>
+        <!-- This is the label for a reminder of 2 or more days. The actual number of
+             days is a parameter. -->
+        <item quantity="other"><xliff:g id="count">%d</xliff:g>நாட்களுக்கு </item>
+    </plurals>
+    <string name="show_agenda_view">"நிகழ்ச்சி நிரலைக் காட்டவும்"</string>
+    <string name="show_day_view">"நாளைக் காட்டவும்"</string>
+    <string name="agenda_view">"நிகழ்ச்சி நிரல்"</string>
+    <string name="day_view">"நாள்"</string>
+    <string name="week_view">வாரம்</string>
+    <string name="month_view">"மாதம்"</string>
+    <string name="event_view">"நிகழ்வைக் காணவும்"</string>
+    <string name="event_create">"புதிய நிகழ்வு"</string>
+    <string name="event_edit">"நிகழ்வினை திருத்துக"</string>
+    <string name="event_delete">"நிகழ்வை அழிக்கவும்"</string>
+    <string name="goto_today">"இன்று"</string>
+    <string name="menu_select_calendars">"நாட்காட்டிகள்"</string>
+    <string name="menu_preferences">அமைப்புகள்</string>
+    <string name="plus_N_more">"(<xliff:g id="more_count">%d</xliff:g>மேலும் அதிகம் \u2026)"</string>
+    <string name="calendars_title">"நாட்காட்டிகள்"</string>
+    <string name="synced_visible">சின்க் செய்யப்பட்டது, பார்க்க முடியும்</string>
+    <string name="synced_not_visible">சின்க் செய்யப்பட்டது, பார்க்க முடியாது</string>
+    <string name="not_synced_not_visible">சின்க் செய்ய வில்லை, பார்வைக்கு இல்லை</string>
+    <string name="event_edit_title">"நிகழ்வு விபரங்கள்"</string>
+    <string name="hint_what">"நிகழ்வு பெயர்"</string>
+    <string name="hint_where">"நிகழ்வு அமைவிடம்"</string>
+    <string name="hint_description">"நிகழ்வு விவரிப்பு"</string>
+    <string name="hint_attendees">"மின்னஞ்சல் முகவரிகள்"</string>
+    <string name="creating_event">"நிகழ்வு உருவாக்கப்பட்டது"</string>
+    <string name="saving_event">"நிகழ்வு சேமிக்கப்பட்டது"</string>
+    <string name="loading_calendars_title">"நாட்காட்டிகளை ஏற்றம் செய்கிறது"</string>
+    <string name="loading_calendars_message">"நாட்காட்டிகளை ஏற்றம் செய்கிறது\u2026"</string>
+    <string name="alert_title">நாட்காட்டி அறிவிப்புக்கள்</string>
+    <string name="alert_missed_events_single">(<xliff:g id="reminder_count">%s</xliff:g> மேலும் அதிக நினைவூட்டல்)</string>
+    <string name="alert_missed_events_multiple">(<xliff:g id="reminder_count">%s</xliff:g>மேலும் அதிக நினைவூட்டல்கள்)</string>
+    <string name="event_info_title">நிகழ்வு பார்வையிடவும்</string>
+    <string name="event_info_title_invite">கூட்ட்த்திற்கான அழைப்பு</string>
+    <string name="add_new_reminder">நினைவூட்டியை சேர்க்கவும்</string>
+    <string name="edit_event_to_label">பெறுநர்</string>
+    <string name="edit_event_from_label">இதில் இருந்து</string>
+    <string name="edit_event_all_day_label">நாள் முழுக்க</string>
+    <string name="edit_event_calendar_label">நாள்காட்டி</string>
+    <string name="edit_event_show_extra_options">அதிகப்படியான விருப்பத்தெரிவுகளைக் காட்டவும்</string>
+    <string name="edit_event_hide_extra_options">அதிகப்படியான விருப்பத்தெரிவுகளை மறை</string>
+    <string name="edit_event_show_all">அனைத்து \u003E காண்பிக்கவும்</string>
+    <string name="description_label">விளக்கம்</string>
+    <string name="presence_label">ஆக எனக்குக் காட்டவும்</string>
+    <string name="privacy_label">அந்தரங்கம்</string>
+    <string name="reminders_label">நினைவூட்டல்கள்</string>
+    <string name="no_syncable_calendars">நாட்காட்டிகள் இல்லை</string>
+    <string name="no_calendars_found">உங்களிடம் நாட்காட்டிகள் எதுவும் இல்லை.</string>
+    <string name="content_description_edit_event_from_date">தேதியில் இருந்து</string>
+    <string name="content_description_edit_event_from_time">நேரத்தில் இருந்து</string>
+    <string name="content_description_edit_event_to_date">இன்றைய தினத்திற்கு</string>
+    <string name="content_description_edit_event_to_time">நேரத்திற்கு</string>
+    <string name="content_description_edit_event_remove_reminder">நினைவூட்டல் அகற்றவும்</string>
+    <string name="google_email_domain">ஜி மெயில் டாட் காம்</string>
+    <string name="view_event_calendar_label">நாள்காட்டி:</string>
+    <string name="view_event_organizer_label">ஒழுங்குபடுத்துபவர்:</string>
+    <string name="view_event_timezone_label">உள்ளூர் நேர மண்டலம்:</string>
+    <string name="view_event_response_label">அட்டெண்ட் செய்கிறீர்களா?</string>
+    <string name="agenda_today">இன்று,<xliff:g id="date">%1$s</xliff:g></string>
+    <string name="loading">நினைவேற்றுகிறது\u2026</string>
+    <string name="show_older_events"><xliff:g id="oldest_search_range">%1$s</xliff:g> யிலிருந்து நிகழ்வுகளை காண்பிக்கிறது. மேலும் பார்க்க தட்டவும்.</string>
+    <string name="show_newer_events"><xliff:g id="newest_search_range">%1$s</xliff:g> வரை நிகழ்வுகளை காண்பிக்கிறது. மேலும் பார்க்க தட்டவும்.</string>
+    <string name="num_events">"எண்ணிக்கை நிகழ்வுகள்"</string>
+    <string name="edit_event_label">"நிகழ்வினை திருத்துக"</string>
+    <string name="delete_label">நீக்கவா</string>
+    <string name="delete_event_label">"நிகழ்வை அழிக்கவும்"</string>
+    <string name="save_label">செய்தாயிற்று</string>
+    <string name="discard_label">பழைய நிலைக்கு செல்க</string>
+    <string name="import_label">இறக்குமதி</string>
+    <string name="snooze_all_label">"அனைத்தையும் உறஙவைக்கவும்"</string>
+    <string name="dismiss_all_label">"அனைத்தையும் நீக்குக"</string>
+    <string name="does_not_repeat">ஒரு தடவையான நிகழ்வு</string>
+    <string name="daily">தினமும்</string>
+    <string name="every_weekday">"ஒவ்வொரு வாரநாள்(திங்கள்\u2013வெள்ளி)"</string>
+    <string name="weekly">"வார்ம்தோரும்(ஒவ்வொரு <xliff:g id="days_of_week">%s</xliff:g>)"</string>
+    <string name="monthly_on_day_count">"மாதம்தோறும் (ஒவ்வொரு<xliff:g id="ordinal_number">%1$s</xliff:g><xliff:g id="day_of_week">%2$s</xliff:g>)"</string>
+    <string name="monthly">மாதாந்திரம்</string>
+    <string name="yearly_plain">வருடாந்திரம்</string>
+    <string name="monthly_on_day">"மாதந்தோறும்(<xliff:g id="day_of_month">%s</xliff:g>நாளில்)"</string>
+    <string name="yearly">"வருடம்தோரும் (<xliff:g id="dates">%s</xliff:g>இல்)"</string>
+    <string name="custom">"வழக்கம்\u2026 (தொலைபேசியில் சுயவிருப்பப்படி செய்ய முடியாது)"</string>
+    <string name="modify_event">இந்த நிகழ்வை மட்டும் மாற்றுக.</string>
+    <string name="modify_all">வரிசைத்தொடரில் இருக்கும் நிகழ்வுகளை மாற்றுக.</string>
+    <string name="modify_all_following">இதனையும் எதிர்கால நிகழ்வுகளையும் மாற்றவும்.</string>
+    <string name="delete_this_event_title">இந்த நிகழ்வு அழிக்கப்படும்.</string>
+    <string name="delete_title">நீக்கவா</string>
+    <string name="change_response_title">பதில் மாற்றவும்</string>
+    <string name="preferences_title">அமைப்புகள்</string>
+    <string name="preferences_general_title">நாட்காட்டி பார்வை அமைப்பு</string>
+    <string name="preferences_alerts_title">அமைப்புகளை நினைவு கொள்ளவும்</string>
+    <string name="preferences_hide_declined_title">மறுக்கப்பட்ட நிகழ்வுகளை மறை</string>
+    <string name="preferences_alerts_type_title">எச்சரிப்புக்கள் &amp; தெரிவிப்புக்கள் அமைக்கவும்</string>
+    <string name="preferences_alerts_type_dialog">எச்சரிக்கைகள் &amp; அறிவிக்கைகள்</string>
+    <string name="preferences_alerts_vibrateWhen_title">அதிர்வு</string>
+    <string name="preferences_alerts_vibrateWhen_summary">நினைவூட்டிகளையும் அதிர வைக்கவும்</string>
+    <string name="preferences_alerts_ringtone_title">அழைப்பொலியை தேர்ந்தெடு</string>
+    <string name="preferences_default_reminder_title">இயல்பான நினைவூட்டும் நேரம்</string>
+    <string name="preferences_default_reminder_dialog">இயல்பான நினைவூட்டும் நேரம்</string>
+    <string name="preferences_use_home_tz_title">உள்ளூர் நேர மண்டலத்தை பயன்படுத்தவும்</string>
+    <string name="preferences_use_home_tz_descrip">பயணத்தின் போது உங்களுடைய உள்ளூர் நேரப்படி நாட்காட்டிகளை மற்றும் நேரங்களை திரையிடுகிறது</string>
+    <string name="preferences_home_tz_title">உள்ளூர் நேர மண்டலம்</string>
+    <string name="preferences_home_tz_default">அமெரிக்கா/லாஸ் ஏஞ்சல்ஸ்</string>
+    <string name="preferences_about_title">விபரம்</string>
+    <string name="preferences_build_version">பதிப்பு கட்டுமானம் செய்க</string>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <!-- Always -->
+        <item>எப்போதும்</item>
+        <!-- Only when the phone is in Silent mode -->
+        <item>நிசப்தமாக இருக்கும்போது மட்டும்</item>
+        <!-- Never -->
+        <item>ஒருபோதுமில்லை</item>
+    </string-array>
+    <string name="prefDialogTitle_vibrateWhen">அதிர்வு</string>
+    <string name="import_vcalendar">"விநாட்காட்டி இறக்குமதிசெய்க"</string>
+    <string name="email_address_error">உங்கள் அழைப்பிதழின் பெறுனர் முகவரி சரியில்லை,  ஜிமெயில் மெயில்பாக்ஸில் தயவு செய்து நிரப்பவும்.</string>
+    <string name="april">ஏப்ரல்</string>
+    <string name="june">ஜூன்</string>
+    <string name="july">ஜூலை</string>
+    <string name="aug">ஆகஸ்ட்</string>
+    <string name="nov">நவம்பர்</string>
+    <string name="delete_all_events">அனைத்து நிகழ்வுகளையும் அழிக்கவும்</string>
+    <string name="delete_all_event_title">அனைத்து நிகழ்வுகளும் அழிக்கப்படும்.</string>
+    <string name="delete_error">நிகழ்வு எதுவும் உங்களிடம் இல்லை.</string>
+    <string name="select_date">தேதி தேர்ந்தெடுக்கவும்</string>
+    <string name="local_calendar">"sprdநாட்காட்டி"</string>
+    <string name="out_range">நீங்கள் அமைத்த தேதி வரம்பைத் தாண்டி இருக்கிறது, சரியான வரம்பு 1970 லிருந்து 2037 ஆகும்.</string>
+    <string name="content_description_edit_event_reminders">நினைவூட்டல்கள்</string>
+    <string name="send">அனுப்புக</string>
+    <string name="search">தேடுக</string>
+    <string name="search_empty">பொருத்தங்கள் இல்லை</string>
+    <plurals name="search_results_title">
+        <item quantity="one"><xliff:g id="number" example="1">%1$s</xliff:g> முடிவுகள் \"<xliff:g id="search" example="???">%2$s</xliff:g>\"க்கு</item>
+        <item quantity="other"><xliff:g id="number" example="15">%1$s</xliff:g>  முடிவுகள் \"<xliff:g id="search" example="???">%2$s</xliff:g>\"க்கு</item>
+    </plurals>
+</resources>

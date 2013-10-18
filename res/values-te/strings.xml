@@ -1,0 +1,173 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<resources
+xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_label">క్యాలండర్</string>
+    <string name="length_limit">ఇన్ పుట్ "మాక్స్ విలువ చేరుకుంది</string>
+    <string name="what_label">ఏమిటి</string>
+    <string name="where_label">ఎక్కడ</string>
+    <string name="timezone_label">టైమ్ జోన్</string>
+    <string name="attendees_label">సూచనలు </string>
+    <string name="response_label">"<xliff:g id="response_type">%s</xliff:g> (<xliff:g id="guest_count">%d</xliff:g>)"</string>
+    <string name="repeats_label">పునరావృతం</string>
+    <string name="no_title_label">(విషయం లేదు)</string>
+    <plurals name="Nminutes">
+        <!-- This is the label for a 1-minute reminder. -->
+        <item quantity="one">1 నిమిషం</item>
+        <!-- This is the label for 2 or more minutes. The actual number of
+             minutes is a parameter. -->
+        <item quantity="other"><xliff:g id="count">%d</xliff:g> నిమిషాల</item>
+    </plurals>
+    <plurals name="Nmins">
+        <!-- This is the label for a 1-minute reminder. -->
+        <item quantity="one">1 నిమిషం</item>
+        <!-- This is the label for 2 or more minutes. The actual number of
+             minutes is a parameter. -->
+        <item quantity="other"><xliff:g id="count">%d</xliff:g> నిమిషాల</item>
+    </plurals>
+    <plurals name="Nhours">
+        <!-- This is the label for a 1-hour reminder. -->
+        <item quantity="one">1 గంట</item>
+        <!-- This is the label for a reminder of 2 or more hours. The actual number of
+             hours is a parameter. -->
+        <item quantity="other"><xliff:g id="count">%d</xliff:g> గంటల</item>
+    </plurals>
+    <plurals name="Ndays">
+        <!-- This is the label for a reminder of 1 day. -->
+        <item quantity="one">1 రోజు</item>
+        <!-- This is the label for a reminder of 2 or more days. The actual number of
+             days is a parameter. -->
+        <item quantity="other"><xliff:g id="count">%d</xliff:g> రోజుల</item>
+    </plurals>
+    <string name="show_agenda_view">"ఎజెండా చూపు"</string>
+    <string name="show_day_view">"రోజు చూపు"</string>
+    <string name="agenda_view">"ఎజెండా"</string>
+    <string name="day_view">"రోజు"</string>
+    <string name="week_view">వారం</string>
+    <string name="month_view">"నెల"</string>
+    <string name="event_view">"కార్యక్రమం చూడండి"</string>
+    <string name="event_create">"కొత్త దీనినివెంట్"</string>
+    <string name="event_edit">"కార్యక్రమం సవరించు"</string>
+    <string name="event_delete">"కార్యక్రమం తొలగించు"</string>
+    <string name="goto_today">"ఈరోజు"</string>
+    <string name="menu_select_calendars">"కేలెండర్లు"</string>
+    <string name="menu_preferences">సెట్టింగులు</string>
+    <string name="plus_N_more">"(ప్లస్  <xliff:g id="more_count">%d</xliff:g> మరింత \u2026)"</string>
+    <string name="calendars_title">"కేలెండర్లు"</string>
+    <string name="synced_visible">సిన్క్ద్ , కనిపిస్తుంది</string>
+    <string name="synced_not_visible">సిన్క్ద్  అయింది, కనిపించదు</string>
+    <string name="not_synced_not_visible">సిమ్క్ కాలేదు, కనిపించలేదు </string>
+    <string name="event_edit_title">"దీనినివెంట్ వివరాలు"</string>
+    <string name="hint_what">"దీనినివెంట్ పేరు"</string>
+    <string name="hint_where">"దీనినివెంట్ స్థానం"</string>
+    <string name="hint_description">"దీనినివెంట్ వివరణ"</string>
+    <string name="hint_attendees">"ఇమెయిల్ చిరునామాలు"</string>
+    <string name="creating_event">"దీనినివెంట్ రూపొందించినవారు"</string>
+    <string name="saving_event">"దీనినివెంట్ సేవ్ చేయబడింది"</string>
+    <string name="loading_calendars_title">"లోడ్ అవుతున్న క్యాలెండర్లు"</string>
+    <string name="loading_calendars_message">"లోడ్ అవుతున్న క్యాలెండర్లు\u2026"</string>
+    <string name="alert_title">క్యాలెండర్ నోటిఫికేషన్లు</string>
+    <string name="alert_missed_events_single"><xliff:g id="reminder_count">%s</xliff:g> మరిన్ని రిమైండర్)</string>
+    <string name="alert_missed_events_multiple"><xliff:g id="reminder_count">%s</xliff:g> మరిన్ని రిమైండర్లు)</string>
+    <string name="event_info_title">కార్యక్రమం గురించి చూడండి</string>
+    <string name="event_info_title_invite">సమావేశ ఆహ్వానం    </string>
+    <string name="add_new_reminder">రిమైండర్ జోడించు</string>
+    <string name="edit_event_to_label">గ్రహీత</string>
+    <string name="edit_event_from_label">కు</string>
+    <string name="edit_event_all_day_label">మొత్తం రోజు</string>
+    <string name="edit_event_calendar_label">క్యాలండర్</string>
+    <string name="edit_event_show_extra_options">అదనపు ఎంపికలను చూపించు</string>
+    <string name="edit_event_hide_extra_options">అదనపు వికల్పాలను దాచు</string>
+    <string name="edit_event_show_all">అన్నీ చూపించు \u003E </string>
+    <string name="description_label">వివరణ</string>
+    <string name="presence_label">నాకు చూపించు</string>
+    <string name="privacy_label">గోప్యత</string>
+    <string name="reminders_label">జ్ఞాపికలు</string>
+    <string name="no_syncable_calendars">కేలండర్స్ ఏమీ లేవు </string>
+    <string name="no_calendars_found">మీకు కేలండర్లు లేవు.</string>
+    <string name="content_description_edit_event_from_date">తేదీ నుంచి</string>
+    <string name="content_description_edit_event_from_time">సమయం నుండి</string>
+    <string name="content_description_edit_event_to_date">నేటి వరకు</string>
+    <string name="content_description_edit_event_to_time">సమయం</string>
+    <string name="content_description_edit_event_remove_reminder">రిమైండర్ తొలగించు</string>
+    <string name="google_email_domain">gmail.com</string>
+    <string name="view_event_calendar_label">క్యాలండర్:</string>
+    <string name="view_event_organizer_label">ఆర్గనైజర్: </string>
+    <string name="view_event_timezone_label">స్థానిక టైమ్ జోన్:      </string>
+    <string name="view_event_response_label">హాజరు కావాలా?</string>
+    <string name="agenda_today">నేడు,<xliff:g id="date">%1$s</xliff:g></string>
+    <string name="loading">లోడింగ్\u2026</string>
+    <string name="show_older_events">నుండి ఈవెంట్స్ చూపించు <xliff:g id="oldest_search_range">%1$s</xliff:g>. మరింత బాగా చూడడానికి టాప్ చేయాలి.</string>
+    <string name="show_newer_events">వరకు ఈవెంట్స్ చూపించు <xliff:g id="newest_search_range">%1$s</xliff:g>. మరింత బాగా చూడడానికి టాప్ చేయాలి.</string>
+    <string name="num_events">"సంఘటనల సంఖ్య"</string>
+    <string name="edit_event_label">"కార్యక్రమం సవరించు"</string>
+    <string name="delete_label">తొలగించాలా</string>
+    <string name="delete_event_label">"కార్యక్రమం తొలగించు"</string>
+    <string name="save_label">జరిగినది</string>
+    <string name="discard_label">తిరిగి పొందు</string>
+    <string name="import_label">దిగుమతి చేయి</string>
+    <string name="snooze_all_label">"అన్నీ స్నూజ్ చేయి"</string>
+    <string name="dismiss_all_label">"అన్ని తొలగించు"</string>
+    <string name="does_not_repeat">వన్ టైం ఈవెంట్ </string>
+    <string name="daily">రోజు</string>
+    <string name="every_weekday">"వారంలో ప్రతి రోజూ (సోమవారం\u2013శుక్రవారం)"</string>
+    <string name="weekly">"వారం (ప్రతి <xliff:g id="days_of_week">%s</xliff:g>)"</string>
+    <string name="monthly_on_day_count">"నెలవారీగా (ప్రతి <xliff:g id="ordinal_number">%1$s</xliff:g> <xliff:g id="day_of_week">%2$s</xliff:g>)"</string>
+    <string name="monthly">మాస</string>
+    <string name="yearly_plain">సంవత్సరపు</string>
+    <string name="monthly_on_day">"నెలవారీగా (రోజున <xliff:g id="day_of_month">%s</xliff:g>)"</string>
+    <string name="yearly">"ప్రతిసంవత్సరం  (న <xliff:g id="dates">%s</xliff:g>)"</string>
+    <string name="custom">"కష్టమ్ \u2026 (ఫోన్ లో కష్టమైజ్ చేయడం కుదరదు)"</string>
+    <string name="modify_event">ఈ కార్యక్రమం మాత్రమే మార్చండి.</string>
+    <string name="modify_all">ఈ సిరీస్ లోని అన్ని ఈవెంట్స్ మార్చండి.</string>
+    <string name="modify_all_following">దీనిని మరియు భవిష్యత్ లో ఈవెంట్స్ అన్నింటినీ మార్చండి.</string>
+    <string name="delete_this_event_title">ఈ ఈవెంట్ తొలగించబడుతుంది.</string>
+    <string name="delete_title">తొలగించాలా</string>
+    <string name="change_response_title">ప్రతిస్పందన మార్చండి</string>
+    <string name="preferences_title">సెట్టింగులు</string>
+    <string name="preferences_general_title">క్యాలెండర్ వీక్షణ అమరిక</string>
+    <string name="preferences_alerts_title">రిమైండర్ సెట్టింగులు</string>
+    <string name="preferences_hide_declined_title">పాడైన వాటిని దాచు </string>
+    <string name="preferences_alerts_type_title">హెచ్చరికలు &amp; నోటిఫికేషన్లను సెట్ చెయ్యి</string>
+    <string name="preferences_alerts_type_dialog">హెచ్చరికలు &amp; నోటిఫికేషన్లు</string>
+    <string name="preferences_alerts_vibrateWhen_title">వైబ్రేట్</string>
+    <string name="preferences_alerts_vibrateWhen_summary">రిమైండర్ల కోసం కంపింపజేసేందుకు కూడా </string>
+    <string name="preferences_alerts_ringtone_title">రింగ్‌టోన్ ఎంచుకో</string>
+    <string name="preferences_default_reminder_title">డిఫాల్ట్ రిమైండర్ సమయం</string>
+    <string name="preferences_default_reminder_dialog">డిఫాల్ట్ రిమైండర్ సమయం</string>
+    <string name="preferences_use_home_tz_title">హోమ్ ను ఉపయోగించండి</string>
+    <string name="preferences_use_home_tz_descrip">ప్రయాణిస్తూ ఉన్నప్పుడు మీ హోమ్ టైమ్ జోన్ లో క్యాలెండర్లు మరియు ఈవెంట్ టైం చూపిస్తుంది</string>
+    <string name="preferences_home_tz_title">హోం టైమ్ జోన్</string>
+    <string name="preferences_home_tz_default">అమెరికా / లాస్- ఏంజెల్స్</string>
+    <string name="preferences_about_title">గురించి</string>
+    <string name="preferences_build_version">వెర్షన్ నిర్మించు</string>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <!-- Always -->
+        <item>ఎప్పుడు</item>
+        <!-- Only when the phone is in Silent mode -->
+        <item>సైలెంట్ లో మాత్రమే</item>
+        <!-- Never -->
+        <item>ఎన్నడూ లేదు</item>
+    </string-array>
+    <string name="prefDialogTitle_vibrateWhen">వైబ్రేట్</string>
+    <string name="import_vcalendar">"దిగుమతి వి కేలండర్"</string>
+    <string name="email_address_error">మీ ఆహ్వానించిన విషయపు చిరునామా సరైనది కాదు, జీ మెయిల్ బాక్స్ ని పూర్తి చెయ్యి. </string>
+    <string name="april">నాలుగో నెల</string>
+    <string name="june">జూన్</string>
+    <string name="july">జూలై</string>
+    <string name="aug">Aug</string>
+    <string name="nov">Nov</string>
+    <string name="delete_all_events">అన్ని ఈవెంట్స్ తొలగించు</string>
+    <string name="delete_all_event_title">అన్ని ఈవెంట్స్ తొలగించబడుతుంది.</string>
+    <string name="delete_error">మీరు ఏ విధమైన ఈవెంట్ ను కలిగి యుండలేదు.   </string>
+    <string name="select_date">తేది ఎంచుకోండి</string>
+    <string name="local_calendar">"స్ప్రెడ్ కేలండర్"</string>
+    <string name="out_range">మీరు సెట్ తేదీ పరిధి ముగిసింది, కుడి పరిధి 2037 కు 1970 ఉంది.</string>
+    <string name="content_description_edit_event_reminders">రిమైండర్లు</string>
+    <string name="send">పంపుము</string>
+    <string name="search">సెర్చ్</string>
+    <string name="search_empty">ఏవీ సరిపోవుట లేదు</string>
+    <plurals name="search_results_title">
+        <item quantity="one"><xliff:g id="number" example="1">%1$s</xliff:g> కొరకు ఫలితం \"<xliff:g id="search" example="???">%2$s</xliff:g>\"</item>
+        <item quantity="other"><xliff:g id="number" example="15">%1$s</xliff:g> కొరకు ఫలితం \"<xliff:g id="search" example="???">%2$s</xliff:g>\"</item>
+    </plurals>
+</resources>

@@ -1,0 +1,171 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<resources
+xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_label">ལོ་ཐོ།</string>
+    <string name="length_limit">འབྲིས་པའི་ནང་དོན་ཚད་མཐོར་སླེབས་འདུག</string>
+    <string name="what_label">བརྗོད་བྱ།</string>
+    <string name="where_label">ས་གནས།</string>
+    <string name="timezone_label">དུས་ཁུལ།</string>
+    <string name="attendees_label">གདན་ཞུའི་མི་སྣ།</string>
+    <string name="response_label">"<xliff:g id="RESPONSE_TYPE">%s</xliff:g> (<xliff:g id="GUEST_COUNT">%d</xliff:g>)"</string>
+    <string name="repeats_label">བསྐྱར་ཟློས།</string>
+    <string name="no_title_label">(ཁ་བྱང་མེད་པ།)</string>
+    <plurals name="Nminutes">
+        <!-- This is the label for a 1-minute reminder. -->
+        <item quantity="one">སྐར་མ་1</item>
+        <!-- This is the label for 2 or more minutes. The actual number of
+             minutes is a parameter. -->
+        <item quantity="other">སྐར་མ་<xliff:g id="COUNT">%d</xliff:g></item>
+    </plurals>
+    <plurals name="Nmins">
+        <!-- This is the label for a 1-minute reminder. -->
+        <item quantity="one">སྐར་མ་1</item>
+        <!-- This is the label for 2 or more minutes. The actual number of
+             minutes is a parameter. -->
+        <item quantity="other">སྐར་མ་<xliff:g id="COUNT">%d</xliff:g></item>
+    </plurals>
+    <plurals name="Nhours">
+        <!-- This is the label for a 1-hour reminder. -->
+        <item quantity="one">ཆུ་ཚོད་1</item>
+        <!-- This is the label for a reminder of 2 or more hours. The actual number of
+             hours is a parameter. -->
+        <item quantity="other">ཆུ་ཚོད་<xliff:g id="COUNT">%d</xliff:g></item>
+    </plurals>
+    <plurals name="Ndays">
+        <!-- This is the label for a reminder of 1 day. -->
+        <item quantity="one">ཉིན་1</item>
+        <!-- This is the label for a reminder of 2 or more days. The actual number of
+             days is a parameter. -->
+        <item quantity="other">ཉིན་<xliff:g id="COUNT">%d</xliff:g></item>
+    </plurals>
+    <string name="show_agenda_view">ཉིན་རིམ་མངོན་པ།</string>
+    <string name="show_day_view">ཟླ་ཚེས་མངོན་པ།</string>
+    <string name="agenda_view">ཉིན་རིམ།</string>
+    <string name="day_view">ཉིན།</string>
+    <string name="week_view">གཟའ་འཁོར།</string>
+    <string name="month_view">ཟླ།</string>
+    <string name="event_view">བྱེད་སྒོ་ལྟ་བཤེར།</string>
+    <string name="event_create">བྱེད་སྒོ་གསར་འཛུགས།</string>
+    <string name="event_edit">བྱེད་སྒོ་རྩོམ་སྒྲིག</string>
+    <string name="event_delete">བྱེད་སྒོ་སུབ་པ།</string>
+    <string name="goto_today">དེ་རིང་།</string>
+    <string name="menu_select_calendars">ལོ་ཐོ།</string>
+    <string name="menu_preferences">སྒྲིག་འགོད།</string>
+    <string name="plus_N_more">(དེ་མིན་གྱི་བྱེད་སྒོ་<xliff:g id="MORE_COUNT">%d</xliff:g>...)</string>
+    <string name="calendars_title">ལོ་ཐོ།</string>
+    <string name="synced_visible">མཉམ་བགྲོད་བྱས་ཟིན། མངོན་ཆོག</string>
+    <string name="synced_not_visible">མཉམ་བགྲོད་བྱས་ཟིན། མི་མངོན།</string>
+    <string name="not_synced_not_visible">མཉམ་བགྲོད་བྱས་མེད། མི་མངོན།</string>
+    <string name="event_edit_title">བྱེད་སྒོའི་གནས་ཚུལ་ཞིབ་ཕྲ།</string>
+    <string name="hint_what">བྱེད་སྒོའི་མིང་།</string>
+    <string name="hint_where">བྱེད་སྒོའི་ས་གནས།</string>
+    <string name="hint_description">བྱེད་སྒོའི་གསལ་བཤད།</string>
+    <string name="hint_attendees">ཡིག་སྒམ་ས་གནས།</string>
+    <string name="creating_event">བྱེད་སྒོ་གསར་འཛུགས་བྱས་ཟིན།</string>
+    <string name="saving_event">བྱེད་སྒོ་ཉར་ཚགས་བྱས་ཟིན།</string>
+    <string name="loading_calendars_title">ལོ་ཐོ་ནང་འཇུག་བྱེད་བཞིན་པ།</string>
+    <string name="loading_calendars_message">ལོ་ཐོ་ནང་འཇུག་བྱེད་བཞིན་པ།...</string>
+    <string name="alert_title">ལོ་ཐོའི་བརྡ་ཐོ།</string>
+    <string name="alert_missed_events_single">དྲན་སྐུལ་<xliff:g id="REMINDER_COUNT">%s</xliff:g>འདུག</string>
+    <string name="alert_missed_events_multiple">(དེ་མིན་གྱི་དྲན་སྐུལ་<xliff:g id="REMINDER_COUNT">%s</xliff:g>)</string>
+    <string name="event_info_title">བྱེད་སྒོར་ལྟ་བཤེར།</string>
+    <string name="event_info_title_invite">ཚོགས་འདུར་གདན་ཞུ།</string>
+    <string name="add_new_reminder">དྲན་སྐུལ་ཁ་སྣོན།</string>
+    <string name="edit_event_to_label">བར།</string>
+    <string name="edit_event_from_label">ནས།</string>
+    <string name="edit_event_all_day_label">ཉིན་གང་།</string>
+    <string name="edit_event_calendar_label">ལོ་ཐོ།</string>
+    <string name="edit_event_show_extra_options">གདམ་ཚན་གང་ལས་མང་བ་མངོན་པ།</string>
+    <string name="edit_event_hide_extra_options">གདམ་ཚན་འཐོལ་པ་ཡིབ་པ།</string>
+    <string name="edit_event_show_all">འདེམས་པ་ཡོངས་རྫོགས་མངོན་པ།&gt;</string>
+    <string name="description_label">ཞིབ་བརྗོད།</string>
+    <string name="presence_label">ངའི་རྣམ་པ་མངོན་པ།</string>
+    <string name="privacy_label">གསང་བ།</string>
+    <string name="reminders_label">དྲན་སྐུལ།</string>
+    <string name="no_syncable_calendars">ལོ་ཐོ་མེད།</string>
+    <string name="no_calendars_found">ཁྱེད་ལ་ལོ་ཐོ་མི་འདུག</string>
+    <string name="content_description_edit_event_from_date">ཟླ་ཚེས་འགོ་ཚུགས་པ།</string>
+    <string name="content_description_edit_event_from_time">དུས་ཚོད་འགོ་ཚུགས་པ།</string>
+    <string name="content_description_edit_event_to_date">ཟླ་ཚེས་མཇུག་སྒྲིལ་བ།</string>
+    <string name="content_description_edit_event_to_time">དུས་ཚོད་མཇུག་སྒྲིལ་བ།</string>
+    <string name="content_description_edit_event_reminders">དྲན་སྐུལ།</string>
+    <string name="content_description_edit_event_remove_reminder">དྲན་སྐུལ་སུབ་པ།</string>
+    <string name="view_event_calendar_label">ལོ་ཐོ།</string>
+    <string name="view_event_organizer_label">སྒྲིག་འཛུགས་པ།</string>
+    <string name="view_event_timezone_label">འདི་གའི་དུས་ཁུལ།</string>
+    <string name="view_event_response_label">བཞུགས་ཀྱི་ཡིན་ནམ།</string>
+    <string name="agenda_today">དེ་རིང་（<xliff:g id="DATE">%1$s</xliff:g>）</string>
+    <string name="loading">ནང་འཇུག་བྱེད་བཞིན་པ།...</string>
+    <string name="show_older_events"><xliff:g id="OLDEST_SEARCH_RANGE">%1$s</xliff:g>འདིའི་རྗེས་འདོན་པའི་བྱེད་སྒོ་མངོན་པ། མཐེབ་གནོན་བྱས་ནས་ལྟ་བཤེར་བྱེད་ཐུབ།</string>
+    <string name="show_newer_events"><xliff:g id="OLDEST_SEARCH_RANGE">%1$s</xliff:g>འདིའི་སྔོན་འདོན་པའི་བྱེད་སྒོ་མངོན་པ། མཐེབ་གནོན་བྱས་ནས་ལྟ་ཞིབ་བྱེད་ཐུབ།</string>
+    <string name="num_events">བྱེད་སྒོའི་ཁ་གྲངས།</string>
+    <string name="edit_event_label">བྱེད་སྒོ་རྩོམ་སྒྲིག</string>
+    <string name="delete_label">སུབ་པ།</string>
+    <string name="delete_event_label">བྱེད་སྒོ་སུབ་པ།</string>
+    <string name="save_label">ལེགས་གྲུབ།</string>
+    <string name="discard_label">སོར་ཆུད།</string>
+    <string name="import_label">ནང་འདྲེན།</string>
+    <string name="snooze_all_label">ཚང་མ་དུས་འགྱངས།</string>
+    <string name="dismiss_all_label">ཚང་མ་ཁ་རྒྱག་པ།</string>
+    <string name="does_not_repeat">ཐེངས་གཅིག་གི་བྱེད་སྒོ།</string>
+    <string name="daily">ཉིན་ལྟར།</string>
+    <string name="every_weekday">ལས་དུས།（གཟའ་ཟླ་བ་ནས་པ་སངས།）</string>
+    <string name="weekly">གཟའ་རེ།（གཟའ་རེའི་<xliff:g id="DAYS_OF_WEEK">%s</xliff:g>）</string>
+    <string name="monthly_on_day_count">ཟླ་རེ།（ཟླ་རེའི་<xliff:g id="ORDINAL_NUMBER">%1$s</xliff:g><xliff:g id="DAY_OF_WEEK">%2$s</xliff:g>）</string>
+    <string name="monthly">ཟླ་རེ།</string>
+    <string name="yearly_plain">ལོ་རེ།</string>
+    <string name="monthly_on_day">ཟླ་རེ།（<xliff:g id="DAY_OF_MONTH">%s</xliff:g> ཉིན།）</string>
+    <string name="yearly">ལོ་རེ།（<xliff:g id="DATES">%s</xliff:g>）</string>
+    <string name="custom">རང་བཟོས།...（ཁ་པར་ནང་རང་བཟོས་མི་ཐུབ།）</string>
+    <string name="modify_event">བྱེད་སྒོ་འདི་བཟོ་བཅོས་བྱེད་པ།</string>
+    <string name="modify_all">བསྐྱར་ཟློས་ཀྱི་བྱེད་སྒོ་ཡོད་ཚད་བཟོ་བཅོས།</string>
+    <string name="modify_all_following">བྱེད་སྒོ་འདི་དང་མ་འོང་པའི་བྱེད་སྒོ་ཡོད་ཚད་བཟོ་བཅོས།</string>
+    <string name="delete_this_event_title">བྱེད་སྒོ་འདི་སུབ་ཀྱི་རེད།</string>
+    <string name="delete_title">སུབ་པ།</string>
+    <string name="change_response_title">ལན་འདེབས་བཟོ་བཅོས།</string>
+    <string name="preferences_title">སྒྲིག་འགོད།</string>
+    <string name="preferences_general_title">ལོ་ཐོ་མཐོང་རིས་སྒྲིག་འགོད།</string>
+    <string name="preferences_alerts_title">སྒྲིག་འགོད་དྲན་སྐུལ།</string>
+    <string name="preferences_hide_declined_title">ཁས་ལེན་མེད་པའི་བྱེད་སྒོ་ཡིབ་པ།</string>
+    <string name="preferences_alerts_type_title">ཉེན་བརྡ་དང་བརྡ་ཐོ་སྒྲིག་འགོད།</string>
+    <string name="preferences_alerts_type_dialog">ཉེན་བརྡ་དང་བརྡ་ཐོ།</string>
+    <string name="preferences_alerts_vibrateWhen_title">འདར་འགུལ།</string>
+    <string name="preferences_alerts_vibrateWhen_summary">དྲན་སྐུལ་འབྱོར་དུས་འདར་འགུལ་བྱེད་པ།</string>
+    <string name="preferences_alerts_ringtone_title">ཐིར་སྒྲ་འདེམས་པ།</string>
+    <string name="preferences_default_reminder_title">དྲན་སྐུལ་དུས་ཚོད་ཁོག་འཐད།</string>
+    <string name="preferences_default_reminder_dialog">དྲན་སྐུལ་དུས་ཚོད་ཁོག་འཐད།</string>
+    <string name="preferences_use_home_tz_title">གཙོ་བོའི་དུས་ཁུལ་སྤྱོད་པ།</string>
+    <string name="preferences_use_home_tz_descrip">ཡུལ་སྐོར་སྐབས་གཙོ་བོའི་དུས་ཁུལ་ལྟར་ལོ་ཐོ་དང་བྱེད་སྒོའི་དུས་ཚོད་མངོན་དགོས།</string>
+    <string name="preferences_home_tz_title">གཙོ་བོའི་དུས་ཁུལ།</string>
+    <string name="preferences_about_title">སྐོར།</string>
+    <string name="preferences_build_version">དཔར་མའི་ཨང་གྲངས།</string>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <!-- Always -->
+        <item>གཏན་ནས།</item>
+        <!-- Only when the phone is in Silent mode -->
+        <item>སྒྲ་མེད་སྐབས།</item>
+        <!-- Never -->
+        <item>ཚང་མ་མི་དགོས།</item>
+    </string-array>
+    <string name="prefDialogTitle_vibrateWhen">འདར་འགུལ།</string>
+    <string name="send">བསྐུར་སྐྱེལ།</string>
+    <string name="import_vcalendar">ལོ་ཐོ་ནང་འདྲེན།</string>
+    <string name="email_address_error">ཁྱེད་ཀྱི་གདན་ཞུའི་ས་གནས་འགྲིག་མི་འདུག ཡང་དག་པའི་gmailཡིག་སྒམ་འབྲི་དགོས།</string>
+    <string name="save">ཉར་ཚགས།</string>
+    <string name="delete_all_events">དོན་རྐྱེན་ཡོད་ཚད་གཙང་སེལ།</string>
+    <string name="delete_all_event_title">དོན་རྐྱེན་ཡོད་ཚད་གཙང་སེལ་བྱེད་ཀྱི་རེད།</string>
+    <string name="delete_error">ཁྱེད་ལ་དོན་རྐྱེན་མི་འདུག</string>
+    <string name="select_date">ཟླ་ཚེས་འདེམས་པ།</string>
+    <string name="search">འཚོལ་བཤེར།</string>
+    <string name="search_empty">ཟླ་སྒྲིག་ཐུབ་པ་མིན་འདུག</string>
+    <string name="out_range">ཁྱེད་ཀྱི་ཟླ་ཚེས་ཁྱབ་ཁོངས་ལས་བརྒལ་འདུག ཡང་དག་པའི་ཁྱབ་ཁོངས་ནི་1970ནས་2037བར་རེད།</string>
+    <plurals name="search_results_title">
+        <!-- Case of 1 result. -->
+        <item quantity="one"><xliff:g id="NUMBER">%1$s</xliff:g> དེ་རྣམས་“<xliff:g id="SEARCH">%2$s</xliff:g>”ཡི་འཚོལ་བཤེར་འབྲས་བུ་དང་མཐུན་གྱི་འདུག</item>
+        <!-- Case of 0 or 2 or more results. -->
+        <item quantity="other"><xliff:g id="NUMBER">%1$s</xliff:g> དེ་རྣམས་“<xliff:g id="SEARCH">%2$s</xliff:g>”ཡི་འཚོལ་བཤེར་འབྲས་བུ་དང་མཐུན་གྱི་འདུག</item>
+    </plurals>
+    <string name="google_email_domain">gmail.com</string>
+    <string name="preferences_alerts_type_default">1</string>
+    <string name="preferences_default_reminder_default">10</string>
+</resources>

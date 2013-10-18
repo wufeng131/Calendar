@@ -1,0 +1,172 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<resources
+xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="reminder_minutes_labels">
+        <item>1مىنۇت</item>
+        <item>5مىنۇت</item>
+        <item>10مىنۇت</item>
+        <item>15مىنۇت</item>
+        <item>20مىنۇت</item>
+        <item>25مىنۇت</item>
+        <item>30مىنۇت</item>
+        <item>45مىنۇت</item>
+        <item>1سائەت</item>
+        <item>2سائەت</item>
+        <item>3سائەت</item>
+        <item>12سائەت</item>
+        <item>24سائەت</item>
+        <item>2كۈن</item>
+        <item>1ھەپتە</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>يوق</item>
+        <item>1مىنۇت</item>
+        <item>5مىنۇت</item>
+        <item>10مىنۇت</item>
+        <item>15مىنۇت</item>
+        <item>20مىنۇت</item>
+        <item>25مىنۇت</item>
+        <item>30مىنۇت</item>
+        <item>45مىنۇت</item>
+        <item>1سائەت</item>
+        <item>2سائەت</item>
+        <item>3سائەت</item>
+        <item>12سائەت</item>
+        <item>24سائەت</item>
+        <item>2كۈن</item>
+        <item>1ھەپتە</item>
+    </string-array>
+    <string-array name="preferences_alert_type_labels">
+        <item>ئەسكەرتىش</item>
+        <item>ھالەتنى ئەسكەرتىش</item>
+        <item>ئىتىۋېتىش</item>
+    </string-array>
+    <string-array name="availability">
+        <item>ئالدىراش</item>
+        <item>ئىشلەتكىلى بولىدۇ</item>
+    </string-array>
+    <string-array name="visibility">
+        <item>بارسانالغان</item>
+        <item>شەخسى</item>
+        <item>ئۇمومنىڭ</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>بىرىنچى</item>
+        <item>ئككىنچى</item>
+        <item>ئۈچىنجى</item>
+        <item>تۆتىنچى</item>
+        <item>ئەڭ ئاخىرى</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>(جاۋاب يوق)</item>
+        <item>ھەئە</item>
+        <item>بەلكىم</item>
+        <item>ياق</item>
+    </string-array>
+    <string-array name="response_labels2">
+        <item>ھەئە</item>
+        <item>بەلكىم</item>
+        <item>ياق</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>پەقەت بىرلا ئىش</item>
+        <item>بۇ &amp;؛ كىلەچەكتىكى پائالىيەت</item>
+        <item>ھەممە ئىش</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>بۇ &amp;؛ كىلەچەكتىكى پائالىيەت</item>
+        <item>ھەممە ئىش</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <!-- The choice for responding to only one instance of a repeating event -->
+        <item>پەقەت بىرلا ئەھۋال</item>
+        <!-- The choice for responding to all instances of a repeating event -->
+        <item>ھەممە بىر قاتار پائالىيەتلەر ئۆچۈرۈلدى</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>مارشال تاقىم ئاراللىرى</item>
+        <item>يېرىم يولدىكى ئارال</item>
+        <item>ھاۋاي شىتاتى</item>
+        <item>ئالياسكا</item>
+        <item>تىنىچ ئوكيان ۋاقتى</item>
+        <item>تىجۇنا</item>
+        <item>ئارىزونا</item>
+        <item>جى ۋا ۋا</item>
+        <item>تاغلىق رايون</item>
+        <item>ئوتتۇرا ئامرىكا قىتئەسى</item>
+        <item>مەركەزنىڭ ئۆلچەملىك ۋاقتى</item>
+        <item>مېكسىكا شەھىرى</item>
+        <item>ساسكاچېۋان</item>
+        <item>بوگوتا</item>
+        <item>شەرق ۋاقتى</item>
+        <item>ۋېنېسۇئېلا</item>
+        <item>ئاتلانتىك ئوكيان ۋاقتى</item>
+        <item>ماناۋس</item>
+        <item>سانتىياگو</item>
+        <item>نېۋفۇندلاند</item>
+        <item>برازىلىيە</item>
+        <item>بۇينىس ئايرىس</item>
+        <item>گېرىنلاند</item>
+        <item>مونتېۋىدېئو</item>
+        <item> ئاتلانتىك ئوكيان ئوتتۇر قىسىم</item>
+        <item>ئازۇر تاقىم ئارىلى</item>
+        <item>يېشىل تۇمشۇق تاقىم ئارىلى</item>
+        <item>كاسابلانكا</item>
+        <item>لوندون، دۇبلىن</item>
+        <item>ئامىستردام، بېرلىن</item>
+        <item>بېلگىراد</item>
+        <item>بېريۇسسىل</item>
+        <item>سارايېۋو</item>
+        <item>پارىژ</item>
+        <item>ۋىندىخوك</item>
+        <item>W.ئافرىقا ۋاقتى</item>
+        <item>جوردان ئامان</item>
+        <item>ئافىنا، ئىستانبۇل</item>
+        <item>بىيرۇت، لىۋان</item>
+        <item>قاھىرە</item>
+        <item>خېلىسىنكى</item>
+        <item>ئىروسالىم</item>
+        <item>مىنىسكى</item>
+        <item>ھارارى</item>
+        <item>باغداد</item>
+        <item>موسكۇۋا</item>
+        <item>كۇۋەيت</item>
+        <item>نايروبى</item>
+        <item>تېھران</item>
+        <item>باكۇ</item>
+        <item>تبىلىسى</item>
+        <item>يېرىۋان</item>
+        <item>دۇبەي</item>
+        <item>كابۇر</item>
+        <item>ئىسلامئابات، كاراجى</item>
+        <item>ئۇرال سىك</item>
+        <item>يىكاتېرىن قەلئەسى</item>
+        <item>كالكۇتتا</item>
+        <item>سىرلانكا</item>
+        <item>كاتماندۇ</item>
+        <item>ئاستانە</item>
+        <item>رانگون</item>
+        <item>كىراسنويسىك</item>
+        <item>باڭكۇك</item>
+        <item>بىيجىڭ</item>
+        <item>شىياڭگاڭ</item>
+        <item>ئىركۇتسىكى</item>
+        <item>كۇئالالومپۇر</item>
+        <item>پارس</item>
+        <item>تەييى</item>
+        <item>سىئول</item>
+        <item>توكيو، ئوساكا</item>
+        <item>ياكۇسىك</item>
+        <item>ئادېلايدې</item>
+        <item>دارۋىن</item>
+        <item>برىسبان</item>
+        <item>خوبارت</item>
+        <item>كانبېررا،سىدنېي</item>
+        <item>ۋىلادىئوستوك</item>
+        <item>گۇئام ئارىلى</item>
+        <item>ماگادان</item>
+        <item>ئاۋكلاند</item>
+        <item>فى جى</item>
+        <item>تونگا</item>
+    </string-array>
+</resources>

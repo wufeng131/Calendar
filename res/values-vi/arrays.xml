@@ -1,0 +1,172 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<resources
+xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="reminder_minutes_labels">
+        <item>"1 phút"</item>
+        <item>"5 phút"</item>
+        <item>"10 phút"</item>
+        <item>"15 phút"</item>
+        <item>"20 phút"</item>
+        <item>"25 phút"</item>
+        <item>"30 phút"</item>
+        <item>"45 phút"</item>
+        <item>"1 giờ"</item>
+        <item>"2 giờ"</item>
+        <item>"3 giờ"</item>
+        <item>"12 giờ"</item>
+        <item>"24 giờ"</item>
+        <item>"2 ngày"</item>
+        <item>"1 tuần"</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>"Quần đảo Marshall"</item>
+        <item>"Đảo Midway"</item>
+        <item>"Hawaii"</item>
+        <item>"Alaska"</item>
+        <item>"Giờ Thái Bình Dương"</item>
+        <item>"Tijuana"</item>
+        <item>"Arizona"</item>
+        <item>"Chihuahua"</item>
+        <item>"Giờ Mountain"</item>
+        <item>"Trung Mỹ"</item>
+        <item>"Giờ Trung Tâm"</item>
+        <item>"Mexico City"</item>
+        <item>"Saskatchewan"</item>
+        <item>"Bogota"</item>
+        <item>"Giờ Miền Tây"</item>
+        <item>"Venezuela"</item>
+        <item>"Giờ Đại Tây Dương"</item>
+        <item>"Manaus"</item>
+        <item>"Santiago"</item>
+        <item>"Newfoundland"</item>
+        <item>"Brasilia"</item>
+        <item>"Buenos Aires"</item>
+        <item>"Greenland"</item>
+        <item>"Montevideo"</item>
+        <item>"Trung Đại Tây Dương"</item>
+        <item>"Azores"</item>
+        <item>"Quần đảo Cape Verde"</item>
+        <item>"Casablanca"</item>
+        <item>"Luân Đôn, Dublin"</item>
+        <item>"Amsterdam, Berlin"</item>
+        <item>"Belgrade"</item>
+        <item>"Brussels"</item>
+        <item>"Sarajevo"</item>
+        <item>"Paris"</item>
+        <item>"Windhoek"</item>
+        <item>"Giờ Tây Phi"</item>
+        <item>"Amman, Jordan"</item>
+        <item>"Athens, Istanbul"</item>
+        <item>"Beirut, Lebanon"</item>
+        <item>"Cairo"</item>
+        <item>"Helsinki"</item>
+        <item>"Jerusalem"</item>
+        <item>"Minsk"</item>
+        <item>"Harare"</item>
+        <item>"Baghdad"</item>
+        <item>"Moscow"</item>
+        <item>"Kuwait"</item>
+        <item>"Nairobi"</item>
+        <item>"Tehran"</item>
+        <item>"Baku"</item>
+        <item>"Tbilisi"</item>
+        <item>"Yerevan"</item>
+        <item>"Dubai"</item>
+        <item>"Kabul"</item>
+        <item>"Islamabad, Karachi"</item>
+        <item>"Ural\'sk"</item>
+        <item>"Yekaterinburg"</item>
+        <item>"Kolkata"</item>
+        <item>"Sri Lanka"</item>
+        <item>"Kathmandu"</item>
+        <item>"Astana"</item>
+        <item>"Yangon"</item>
+        <item>"Krasnoyarsk"</item>
+        <item>"Bangkok"</item>
+        <item>"Bắc Kinh"</item>
+        <item>"Hồng Kông"</item>
+        <item>"Irkutsk"</item>
+        <item>"Kuala Lumpur"</item>
+        <item>"Perth"</item>
+        <item>"Đài Bắc"</item>
+        <item>"Seoul"</item>
+        <item>"Tokyo, Osaka"</item>
+        <item>"Yakutsk"</item>
+        <item>"Adelaide"</item>
+        <item>"Darwin"</item>
+        <item>"Brisbane"</item>
+        <item>"Hobart"</item>
+        <item>"Sydney, Canberra"</item>
+        <item>"Vladivostok"</item>
+        <item>"Guam"</item>
+        <item>"Magadan"</item>
+        <item>"Auckland"</item>
+        <item>"Fiji"</item>
+        <item>"Tonga"</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>"Không"</item>
+        <item>"1 phút"</item>
+        <item>"5 phút"</item>
+        <item>"10 phút"</item>
+        <item>"15 phút"</item>
+        <item>"20 phút"</item>
+        <item>"25 phút"</item>
+        <item>"30 phút"</item>
+        <item>"45 phút"</item>
+        <item>"1 giờ"</item>
+        <item>"2 giờ"</item>
+        <item>"3 giờ"</item>
+        <item>"12 giờ"</item>
+        <item>"24 giờ"</item>
+        <item>"2 ngày"</item>
+        <item>"1 tuần"</item>
+    </string-array>
+    <string-array name="preferences_alert_type_labels">
+        <item>"Thông báo"</item>
+        <item>"Thông báo trên thanh trạng thái"</item>
+        <item>"Tắt"</item>
+    </string-array>
+    <string-array name="availability">
+        <item>"Bận"</item>
+        <item>"Sẵn có"</item>
+    </string-array>
+    <string-array name="visibility">
+        <item>"Mặc định"</item>
+        <item>"Riêng tư"</item>
+        <item>"Công khai"</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>"đầu tiên"</item>
+        <item>"thứ hai"</item>
+        <item>"thứ ba"</item>
+        <item>"thứ tư"</item>
+        <item>"cuối cùng"</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>"(Không có phản hồi)"</item>
+        <item>"Có"</item>
+        <item>"Có thể"</item>
+        <item>"Không"</item>
+    </string-array>
+    <string-array name="response_labels2">
+        <item>"Có"</item>
+        <item>"Có thể"</item>
+        <item>"Không"</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>"Chỉ sự kiện này"</item>
+        <item>"Sự kiện này &amp; các sự kiện trong tương lai"</item>
+        <item>"Tất cả sự kiện"</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>"Sự kiện này &amp; các sự kiện trong tương lai"</item>
+        <item>"Tất cả sự kiện"</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <!-- The choice for responding to only one instance of a repeating event -->
+        <item>"Chỉ trường hợp này"</item>
+        <!-- The choice for responding to all instances of a repeating event -->
+        <item>"Tất cả sự kiện trong hàng loạt sự kiện"</item>
+    </string-array>
+</resources>

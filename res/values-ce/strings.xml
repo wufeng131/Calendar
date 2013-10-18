@@ -1,0 +1,180 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<resources
+xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_label">Kalendaryo</string>
+    <string name="what_label">Unsa</string>
+    <string name="where_label">Asa</string>
+    <string name="attendees_label">Mga bisita</string>
+    <string name="repeats_label">Pagbalik-balik</string>
+    <string name="no_title_label">(Walay titulo)</string>
+    <plurals name="Nminutes">
+        <!-- This is the label for a 1-minute reminder. -->
+        <item quantity="one">1 ka minuto</item>
+        <!-- This is the label for 2 or more minutes. The actual number of
+             minutes is a parameter. -->
+        <item quantity="other"><xliff:g id="count">%d</xliff:g> ka mga minuto</item>
+    </plurals>
+    <plurals name="Nmins">
+        <!-- This is the label for a 1-minute reminder. -->
+        <item quantity="one">1 ka minuto</item>
+        <!-- This is the label for 2 or more minutes. The actual number of
+             minutes is a parameter. -->
+        <item quantity="other"><xliff:g id="count">%d</xliff:g> ka mga min</item>
+    </plurals>
+    <plurals name="Nhours">
+        <!-- This is the label for a 1-hour reminder. -->
+        <item quantity="one">1 ka oras</item>
+        <!-- This is the label for a reminder of 2 or more hours. The actual number of
+             hours is a parameter. -->
+        <item quantity="other"><xliff:g id="count">%d</xliff:g> ka mga oras</item>
+    </plurals>
+    <plurals name="Ndays">
+        <!-- This is the label for a reminder of 1 day. -->
+        <item quantity="one">1 ka adlaw</item>
+        <!-- This is the label for a reminder of 2 or more days. The actual number of
+             days is a parameter. -->
+        <item quantity="other"><xliff:g id="count">%d</xliff:g> ka mga adlaw</item>
+    </plurals>
+    <string name="show_agenda_view">"Pakita ang adyenda"</string>
+    <string name="show_day_view">"Pakita ang adlawa"</string>
+    <string name="agenda_view">"adyenda"</string>
+    <string name="day_view">"Adlaw"</string>
+    <string name="week_view">semana</string>
+    <string name="month_view">"Buwan"</string>
+    <string name="event_view">"Tanaw ug panghitabo"</string>
+    <string name="event_create">"Bago nga panghitabo"</string>
+    <string name="event_edit">"I-edit ang panghitabo"</string>
+    <string name="event_delete">"Delete ang panghitabo"</string>
+    <string name="goto_today">"Karong adlawa"</string>
+    <string name="menu_select_calendars">"Kalendaryo"</string>
+    <string name="menu_preferences">Mga setting</string>
+    <string name="calendars_title">"Kalendaryo"</string>
+    <string name="synced_visible">Nasync, makita</string>
+    <string name="synced_not_visible">Nasync, dili makita</string>
+    <string name="not_synced_not_visible">Wala nasync, dili makita</string>
+    <string name="event_edit_title">"Detalye sa panghitabo"</string>
+    <string name="hint_what">"Pangan sa panghitabo"</string>
+    <string name="hint_where">"Lokasyon sa panghitabo"</string>
+    <string name="hint_description">"Paglarawan sa panghitabo"</string>
+    <string name="hint_attendees">"Email addresses"</string>
+    <string name="creating_event">"Panghitabo nahimu na"</string>
+    <string name="saving_event">"Panghitabo nasave na"</string>
+    <string name="loading_calendars_title">"Nagload ug mga kalendaryo"</string>
+    <string name="loading_calendars_message">"Nagload ug mga kalendaryo\u2026"</string>
+    <string name="alert_title">Mga Abiso sa kalendaryo</string>
+    <string name="event_info_title">Tanaw ug panghitabo</string>
+    <string name="event_info_title_invite">Imbitasyon sa pulong</string>
+    <string name="add_new_reminder">Dugang pahibalo</string>
+    <string name="edit_event_to_label">Para</string>
+    <string name="edit_event_from_label">Gikan</string>
+    <string name="edit_event_all_day_label">Tanan adlaw</string>
+    <string name="edit_event_calendar_label">Kalendaryo</string>
+    <string name="edit_event_show_extra_options">Pakita ang dugang nga mga opsyon</string>
+    <string name="edit_event_hide_extra_options">Tagoan ang mga dugang nga opsyon</string>
+    <string name="description_label">Paglarawan</string>
+    <string name="presence_label">Pakita ko nga</string>
+    <string name="privacy_label">Pagkapribado</string>
+    <string name="reminders_label">Mga pahibalo</string>
+    <string name="no_syncable_calendars">Walay mga kalendaryo</string>
+    <string name="no_calendars_found">Wala kay kalendaryo.</string>
+    <string name="view_event_calendar_label">Kalendaryo:</string>
+    <string name="view_event_organizer_label">Tigtatag:</string>
+    <string name="view_event_timezone_label">Lokal nga sona sa oras:</string>
+    <string name="view_event_response_label">Mudu-aw?</string>
+    <string name="loading">Nagload\u2026</string>
+    <string name="num_events">"Num nga mga panghitabo"</string>
+    <string name="edit_event_label">"I-edit ang panghitabo"</string>
+    <string name="delete_label">"Delete"</string>
+    <string name="delete_event_label">"Delete ang panghitabo"</string>
+    <string name="save_label">Humana</string>
+    <string name="discard_label">Balihon</string>
+    <string name="import_label">"Import"</string>
+    <string name="snooze_all_label">"Hagok tanan"</string>
+    <string name="dismiss_all_label">"Tiwalag tanan"</string>
+    <string name="does_not_repeat">Kausa ra nga panghitabo</string>
+    <string name="daily">Kada adlaw</string>
+    <string name="every_weekday">"Kada adlaw sa semana (Lun\2013Byi)"</string>
+    <string name="monthly">Kada buwan</string>
+    <string name="yearly_plain">Kada tuig</string>
+    <string name="custom">"Pasadya\u2026 (dili masadya ang phoe)"</string>
+    <string name="modify_event">Alisdi kini ra nga panghitaboa.</string>
+    <string name="modify_all">Alisdan tanan mga panghitabo sa serye.</string>
+    <string name="modify_all_following">Alisdan ni ug tanan panghitabo sa sunod.</string>
+    <string name="delete_this_event_title">Kini nga panghitaboa kay madelete.</string>
+    <string name="delete_title">Delete</string>
+    <string name="change_response_title">Alisdan ang tubag</string>
+    <string name="preferences_title">Mga setting</string>
+    <string name="preferences_general_title">Tanaw ug setting sa kalendaryo</string>
+    <string name="preferences_alerts_title">Mga setting sa pahibalo</string>
+    <string name="preferences_hide_declined_title">Tagoan ang mga gibalibaran nga panghitabo</string>
+    <string name="preferences_alerts_type_title">Takda ug mga alerto &amp; mga notification</string>
+    <string name="preferences_alerts_type_dialog">Mga alerto &amp; mga Abiso</string>
+    <string name="preferences_alerts_vibrateWhen_title">Mangurog</string>
+    <string name="preferences_alerts_vibrateWhen_summary">Ug pangurog para sa mga pahibalo</string>
+    <string name="preferences_alerts_ringtone_title">Pili ug ringtone</string>
+    <string name="preferences_default_reminder_title">Default nga oras nga pahibalo</string>
+    <string name="preferences_default_reminder_dialog">Default nga oras nga pahibalo</string>
+    <string name="preferences_about_title">Matod</string>
+    <string name="preferences_build_version">Magtukod ug bersyon</string>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <!-- Always -->
+        <item>Pirmi</item>
+        <!-- Only when the phone is in Silent mode -->
+        <item>Kung hilom ra</item>
+        <!-- Never -->
+        <item>Dili jud</item>
+    </string-array>
+    <string name="prefDialogTitle_vibrateWhen">Mangurog</string>
+    <string name="email_address_error">Dili sakto ang imu invitation object address, palihug punua ang gmail mailbox.</string>
+    <string name="length_limit">Naabot na sa input ang pinakataas nga kwenta"</string>
+    <string name="timezone_label">Sona sa Oras</string>
+    <string name="response_label">"<xliff:g id="response_type">%s</xliff:g> (<xliff:g id="guest_count">%d</xliff:g>)"</string>
+    <string name="plus_N_more">"(plus <xliff:g id="more_count">%d</xliff:g> na \u2026)"</string>
+    <string name="alert_missed_events_single">(<xliff:g id="reminder_count">%s</xliff:g> daghan pahibalo)</string>
+    <string name="alert_missed_events_multiple">(<xliff:g id="reminder_count">%s</xliff:g> daghan mga pahibalo)</string>
+    <string name="edit_event_show_all">Pakita tanan \u003E</string>
+    <string name="content_description_edit_event_from_date">Gikan sa petsa</string>
+    <string name="content_description_edit_event_from_time">Gikan sa oras</string>
+    <string name="content_description_edit_event_to_date">Para petsa</string>
+    <string name="content_description_edit_event_to_time">Para sa Oras</string>
+    <string name="content_description_edit_event_reminders">Mga pahibalo</string>
+    <string name="content_description_edit_event_remove_reminder">Tanggalon ang pahibalo</string>
+    <string name="agenda_today">Karon adalawa, <xliff:g id="date">%1$s</xliff:g></string>
+    <string name="show_older_events">Nagpakita ug mga panghitabo sugod sa <xliff:g id="oldest_search_range">%1$s</xliff:g>. Tapika para mangita ug daghan.</string>
+    <string name="show_newer_events">Nagpakita ug mga panghitabo kutob <xliff:g id="newest_search_range">%1$s</xliff:g>. Tapika para mangita ug daghan.</string>
+    <string name="weekly">"Kada semana (kada <xliff:g id="days_of_week">%s</xliff:g>)"</string>
+    <string name="monthly_on_day_count">"Kada buwan (kada <xliff:g id="ordinal_number">%1$s</xliff:g> <xliff:g id="day_of_week">%2$s</xliff:g>)"</string>
+    <string name="monthly_on_day">"Kada buwan (sa adlaw nga <xliff:g id="day_of_month">%s</xliff:g>)"</string>
+    <string name="yearly">"Kada tuig (inig <xliff:g id="dates">%s</xliff:g>)"</string>
+    <string name="preferences_use_home_tz_title">Gamit ug sona sa oras sa home</string>
+    <string name="preferences_use_home_tz_descrip">Magpakita sa mga kalendaryo ug mga panghitabo nga oras sa imu balay nga sona sa oras kung mularga</string>
+    <string name="preferences_home_tz_title">Balay nga sona sa oras</string>
+    <string name="preferences_home_tz_default">Amerika/Los_Angeles</string>
+    <string name="send">Padala</string>
+    <string name="import_vcalendar">"Import ug Vcalendar"</string>
+    <string name="jan">Ene</string>
+    <string name="feb">Peb</string>
+    <string name="march">Mar</string>
+    <string name="april">Apr</string>
+    <string name="may">May</string>
+    <string name="june">Hunyo</string>
+    <string name="july">Hul</string>
+    <string name="aug">Ago</string>
+    <string name="sep">Set</string>
+    <string name="oct">Okt</string>
+    <string name="nov">Nob</string>
+    <string name="dec">Dis</string>
+    <string name="save">Luwas</string>
+    <string name="delete_all_events">I-delete tanan mga panghitabo</string>
+    <string name="delete_all_event_title">Tanan mga panghitabo kay madelete.</string>
+    <string name="delete_error">Wala kay event.</string>
+    <string name="select_date">Pili ug Petsa</string>
+    <string name="local_calendar">"sprd nga kalendaryo"</string>
+    <string name="search">Pangita</string>
+    <string name="search_empty">Walay mga tugma</string>
+    <string name="out_range">Ang petsa nga imu gitakda kay gawas sa sukod, ang sakto nga sukod kay 1970 hangtod 2037.</string>
+    <plurals name="search_results_title">
+        <item quantity="one"><xliff:g id="number" example="1">%1$s</xliff:g> resulta para sa \"<xliff:g id="search" example="???">%2$s</xliff:g>\"</item>
+        <item quantity="other"><xliff:g id="number" example="15">%1$s</xliff:g> mga resulta para sa \"<xliff:g id="search" example="???">%2$s</xliff:g>\"</item>
+    </plurals>
+</resources>

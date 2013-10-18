@@ -1,0 +1,172 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<resources
+xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="reminder_minutes_labels">
+        <item>1 မိနစ်</item>
+        <item>5 မိနစ်</item>
+        <item>10 မိနစ်</item>
+        <item>15 မိနစ်</item>
+        <item>20 မိနစ်</item>
+        <item>25 မိနစ်</item>
+        <item>30 မိနစ်</item>
+        <item>45 မိနစ်</item>
+        <item>တစ္နာရီ</item>
+        <item>၂နာရီ</item>
+        <item>3 နာရီ</item>
+        <item>၁၂နာရီ</item>
+        <item>၂၄နာရီ</item>
+        <item>2 ရက္</item>
+        <item>ရက်သတ္တပတ်တိုင်း</item>
+    </string-array>
+    <string-array name="preferences_default_reminder_labels">
+        <item>တစ္ေယာက္မွ်</item>
+        <item>1 မိနစ်</item>
+        <item>5 မိနစ်</item>
+        <item>10 မိနစ်</item>
+        <item>15 မိနစ်</item>
+        <item>20 မိနစ်</item>
+        <item>25 မိနစ်</item>
+        <item>30 မိနစ်</item>
+        <item>45 မိနစ်</item>
+        <item>တစ္နာရီ</item>
+        <item>၂နာရီ</item>
+        <item>3 နာရီ</item>
+        <item>၁၂နာရီ</item>
+        <item>၂၄နာရီ</item>
+        <item>2 ရက္</item>
+        <item>ရက်သတ္တပတ်တိုင်း</item>
+    </string-array>
+    <string-array name="preferences_alert_type_labels">
+        <item>သတိေပးခ်က္</item>
+        <item>အေၾကာင္းအရာအတန္းသတိေပးခ်က္</item>
+        <item>ပိတ္</item>
+    </string-array>
+    <string-array name="availability">
+        <item>မအားပါ</item>
+        <item>ရႏိုင္သည္</item>
+    </string-array>
+    <string-array name="visibility">
+        <item>ပ်က္ကြက္ျခင္း</item>
+        <item>ပုဂျလျက</item>
+        <item>အမ်ားျပည္သူ</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>အရင္ဆံုး</item>
+        <item>စကၠန္႔</item>
+        <item>သံုးခုေျမာက္</item>
+        <item>ေလးခုေျမာက္</item>
+        <item>ေနာက္ဆံုး</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>(တုန္႔ျပန္ခ်က္မ႐ွိ)</item>
+        <item>ဟုတ် </item>
+        <item>ျဖစ္ႏိုင္သည္</item>
+        <item>မဟုတ်</item>
+    </string-array>
+    <string-array name="response_labels2">
+        <item>ဟုတ် </item>
+        <item>ျဖစ္ႏိုင္သည္</item>
+        <item>မဟုတ်</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>ဤျဖစ္စဥ္အေၾကာင္းအရာသာ</item>
+        <item>ဤတစ္ခုႏွင့္ &amp; ေနာက္အေၾကာင္းအရာမ်ား</item>
+        <item>အျဖစ္အပ်က္အားလံုး</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>ဤတစ္ခုႏွင့္ &amp; ေနာက္အေၾကာင္းအရာမ်ား</item>
+        <item>အျဖစ္အပ်က္အားလံုး</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <!-- The choice for responding to only one instance of a repeating event -->
+        <item>ဤဥပမာသာ</item>
+        <!-- The choice for responding to all instances of a repeating event -->
+        <item>အတြဲလိုက္အျဖစ္အပ်က္အားလံုး</item>
+    </string-array>
+    <string-array name="timezone_labels">
+        <item>"မာ႐ွယ္ကၽြန္း"</item>
+        <item>"မစ္ေဝးကၽြန္း"</item>
+        <item>"ဟာဝါယီ"</item>
+        <item>"အလက္စ္ကာ"</item>
+        <item>"ပစိဖိတ္စံေတာ္ခ်ိန္"</item>
+        <item>"တီဝါနာ"</item>
+        <item>"အရီဇိုးနား"</item>
+        <item>"ခ်ီဟြားဟြား"</item>
+        <item>"အေမရိကား႐ွိ ေတာင္တန္းေဒသ စံေတာ္ခ်ိန္"</item>
+        <item>"အေမရိကားအလယ္ပိုင္းေဒသ"</item>
+        <item>"အေမရိကားအလယ္ပိုင္းေဒသစံေတာ္ခ်ိန္"</item>
+        <item>"မက္ဆီကိုျမိဳ႕"</item>
+        <item>"ဆက္စ္ကက္ခ်္ဝင္"</item>
+        <item>"ဘိုဂိုတာ"</item>
+        <item>"အေ႐ွ႕ပိုင္းစံေတာ္ခ်ိန္"</item>
+        <item>"ဗင္နီဇြဲလား"</item>
+        <item>"အတၱလႏၲိတ္စံေတာ္ခ်ိန္"</item>
+        <item>"မေနာ့စ္"</item>
+        <item>"ဆန္တီေယဂို"</item>
+        <item>"နယူးေဖာင္းလန္း"</item>
+        <item>"ဘရက္ဆီးလီးယား"</item>
+        <item>"ဘူႏိုဆိုင္းရီး(စ္)"</item>
+        <item>"ဂရင္းလန္း"</item>
+        <item>"မြန္တီဗီဒီယို"</item>
+        <item>"အလယ္ပိုင္း-အတၱလႏိၲတ္"</item>
+        <item>"ေအးဇိုး(စ္)"</item>
+        <item>"ကိတ္ဗာ့ဒ္ကၽြန္းမ်ား"</item>
+        <item>"ကာဆာဘလန္ကာ"</item>
+        <item>"လန္ဒန္၊ ဒပ္ဘလင္"</item>
+        <item>"အမ္စတာဒမ္၊ ဘာလင္"</item>
+        <item>"ဘဲလ္ဂရိတ္"</item>
+        <item>"ဘရပ္ဆဲလ္(စ္)"</item>
+        <item>"ဆာရာေရဗို"</item>
+        <item>"ပဲရစ္"</item>
+        <item>"ဝင္းဟို႔ခ္"</item>
+        <item>"အေနာက္အာဖရိကစံေတာ္ခ်ိန္"</item>
+        <item>"အမ္မန္း၊ ေဂ်ာ္ဒန္"</item>
+        <item>"ေအသင္၊ အစ္(စ္)တမ္ဘယ္"</item>
+        <item>"ေဘ႐ုသ္၊ လက္ဘႏြန္"</item>
+        <item>"ကိုင္႐ို"</item>
+        <item>"ဟယ္လ္ဆင္ကီ"</item>
+        <item>"ေဂ်႐ုစလင္"</item>
+        <item>"မင့္စ္ခ္"</item>
+        <item>"ဟာရာရီ"</item>
+        <item>"ဘက္(ဂ္)ဒက္"</item>
+        <item>"ေမာ္စကို"</item>
+        <item>"ကူဝိတ္"</item>
+        <item>"ႏိုင္႐ိုဘီ"</item>
+        <item>"တီဟီရန္"</item>
+        <item>"ဘာကူး"</item>
+        <item>"တဘီလီစီ"</item>
+        <item>"ယီရီဗန္"</item>
+        <item>"ဒူဘိုင္း"</item>
+        <item>"ကဘူးလ္"</item>
+        <item>"အစၥလာမာဘက္၊ ခါရာခ်ီ"</item>
+        <item>"ယူရယ္စ္"</item>
+        <item>"ယီခါတရင္ဘာ့ခ္"</item>
+        <item>"ကာလကတၱား"</item>
+        <item>"သီရိလကၤာ"</item>
+        <item>"ကက္တ္မန္တူ"</item>
+        <item>"အက္စ္တားနား"</item>
+        <item>"ရန္ကုန္"</item>
+        <item>"ခရက္စ္ႏိုယာ့စ္ခ္"</item>
+        <item>"ဘန္ေကာက္"</item>
+        <item>"ေပက်င္း"</item>
+        <item>ေဟာင်ေကာင်</item>
+        <item>"အာခု(စ္)"</item>
+        <item>"ကြာလာလမ္ပူ"</item>
+        <item>"ပါသ့္"</item>
+        <item>"Taipei"</item>
+        <item>"ဆိုးလ္"</item>
+        <item>"တိုက်ိဳ၊ အိုဆာကာ"</item>
+        <item>"ရာခုစ္"</item>
+        <item>"အက္ဒယ္လိတ္"</item>
+        <item>"ဒါဝင္"</item>
+        <item>"ဘရစ္(စ္)ဘိန္း"</item>
+        <item>"ဟုိဘက္တ္"</item>
+        <item>"ဆစ္ဒနီ၊ ကမ္ဘာရာ"</item>
+        <item>"ဘလာဒီဗိုစေတာ့ခ္"</item>
+        <item>"ဂြမ္း"</item>
+        <item>"မာဂါဒန္"</item>
+        <item>"ေအာ့ဂ္လန္း"</item>
+        <item>"ဖီဂ်ီ"</item>
+        <item>"တြန္ဂါ"</item>
+    </string-array>
+</resources>
