@@ -1154,6 +1154,7 @@ public class MonthView extends View implements View.OnCreateContextMenuListener 
         	int bmpY;
         	if(mCursor.getDayAt(row, column) < 10) {
         		bmpY = (int) (textY - p.measureText(monthStr) * 2);
+        		textX = (int) (textX - p.measureText(monthStr) * 0.5); 
         	} else {
         		bmpY = (int) (textY - p.measureText(monthStr));
         	}
